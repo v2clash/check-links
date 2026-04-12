@@ -38,9 +38,13 @@ http://api.xn--14ra41gd24b.xyz
 http://apijson.cn
 http://app.exxanz.com
 http://app.mfish.com.cn:11119
+http://app.weibo.com
 http://apt.thebigboss.org
+http://beiyuu.com
 http://best.momoxiaodian.cc
 http://blog.csdn.net
+http://blog.fens.me
+http://blog.jsfor.com
 http://blog.zhaojie.me
 http://book.douban.com
 http://boto3.readthedocs.io
@@ -50,25 +54,31 @@ http://capture3millionsubscribers.thm
 http://catalog.rs-heat.com
 http://cdn.kcz66.com
 http://cdnfire.xiaomispeed.com
+http://chabudai.org
 http://chaojiji.one
 http://chiguayun.fun
 http://ciallo.elegy.icu:7001
+http://cinowu.duoshuo.com
 http://clash77.top
 http://claude.ai
+http://cloudhead.io
 http://cloudify.co
 http://cloudupup.com
 http://club.i50dh.net
+http://clustrmaps.com
 http://cmall.magestack.cn
 http://concurrent.redspider.group
 http://connect.rom.miui.com
 http://connectivitycheck.gstatic.com
 http://connectivitycheck.platform.hicloud.com
 http://cp.cloudflare.com
+http://creativecommons.org
 http://csgo3.fask511.cfd:1588
 http://css-weekly.com
 http://cssanimation.rocks
 http://ctmm.gscloud.bond:31620
 http://d.xyss.xyz
+http://dannpu.com
 http://dashabi.ping-zi-yun.icu
 http://dashboard.yudao.iocoder.cn
 http://dashboards.webkom.co
@@ -78,6 +88,8 @@ http://dd.cxld.sbs
 http://demo-go-ldap-admin.eryajf.net
 http://demo.ninesix.cc:4433
 http://demoa5.tongzhouyun.com
+http://dev.duoshuo.com
+http://dev.t.qq.com
 http://dingyue.myzone.site
 http://dingyue2.qyjc.xyz
 http://dingyue3.qyjc.xyz
@@ -89,6 +101,7 @@ http://docs.aws.amazon.com
 http://docs.ceph.com
 http://docs.mongodb.org
 http://download.oracle.com
+http://duoshuo.com
 http://dy.changyouVPN.top
 http://dy.changyouvpn.top
 http://dy.hpyjc.top
@@ -105,9 +118,11 @@ http://fanqiang88.top
 http://fbapiv1.fbsublink.com
 http://fdevops.com:8001
 http://fdgdr0dg3.xbvpn.vip
+http://feed.feedsky.com
 http://feeds.feedburner.com
 http://feigou.zhunchuanpb.com
 http://filusdt.461553.best:1588
+http://firstibox.com
 http://fjcm.121628.xyz
 http://free.ninecloud.co
 http://front.fishport.cloud
@@ -118,6 +133,7 @@ http://gbtgurl01.org
 http://gcpaas.gccloud.com
 http://get-set.cn
 http://ggiuwegivhe123.a123.bond
+http://git.buildroot.net
 http://goftino.com
 http://gold.xitu.io
 http://guanxi.cloudns.be:8000
@@ -127,6 +143,8 @@ http://gzm-design.guozimi.cn
 http://h5.dooring.cn
 http://hackdesign.org
 http://hackme.thm
+http://hg.nginx.org
+http://higrid.net
 http://hikejun.com
 http://hpyjc.top
 http://html5weekly.com
@@ -140,6 +158,8 @@ http://instagram.com
 http://invite.xn--yvsa48r.com
 http://ip-api.com
 http://javascriptweekly.com
+http://jekyllbootstrap.com
+http://jekyllrb.com
 http://jichang.cfd
 http://jimureport.com
 http://jjz.31465.cfd
@@ -149,12 +169,16 @@ http://krasimirtsonev.com
 http://kuaiyin.vip
 http://kubernetes.io
 http://kxhy.softprize.com
+http://lab.lepture.com
 http://laobideng.xyz
 http://lianjiasub.work
+http://liberize.me
 http://link.busuu.com
 http://loo2k.com
 http://loongqing.me
 http://lucifr.com
+http://lusongsong.com
+http://luyueming.info
 http://lxseek.com
 http://ly.ccwink.cc
 http://m.a8fdj.cn
@@ -170,14 +194,18 @@ http://n15uvht4r659107p.eastasia.cloudapp.azure.com
 http://nanbei.cloud
 http://nangang.pro
 http://nc.cm.xiaomi-api.xyz:19581
+http://nginx.org
 http://nuxyun.v2rayflash.top
 http://on1vejas4m6z.w7yxefcx0i11.click
+http://open.weibo.com
 http://p.tech
 http://panda.xn--i8sx78aisa52z.com
 http://panda.xn--lbrx91akmhm30c.com
 http://paste.c-net.org
 http://pf.juzimao01.cloud
+http://pic.sdodo.com
 http://platform.minimaxi.com
+http://portablepython.com
 http://product.dangdang.com
 http://py.kjol.cc
 http://qe83xk711.sabkt.gdipper.com
@@ -187,6 +215,7 @@ http://rk2.izoizoizo.top:43505
 http://rot.9o9.top:880
 http://rubika.ir
 http://ruby-china.org
+http://rubyinstaller.org
 http://s.33y.run
 http://s.kalaa.me
 http://s1.subcsyun.online
@@ -198,6 +227,7 @@ http://securityserver.dev01.devland.is
 http://segmentfault.com
 http://shadowmere.akiel.dev
 http://shiyuanyinian.xyz
+http://shop.oreilly.com
 http://shoppingmall.electricbanana.click
 http://shortlink.nageoffer.com
 http://sidebar.io
@@ -225,9 +255,11 @@ http://suburl.tkrjc.xyz
 http://suburl.xyz
 http://sunpaneldemo.enianteam.com
 http://t.qq.com
+http://tapirgo.com
 http://targetkiller.net
 http://telegra.ph
 http://telegram.me
+http://themes.jekyllbootstrap.com
 http://tiny.cc
 http://trac.parrot.org
 http://try.powerjob.tech
@@ -261,11 +293,15 @@ http://weoknow.com
 http://wiki.apache.org
 http://wiki.cifaz.com
 http://wow.mio.gay
+http://wpaudioplayer.com
 http://wqfuinwqffq.dfcloud.xyz:30818
+http://www.360doc.com
 http://www.a100.sbs
 http://www.apache.org
 http://www.bfyun.top
 http://www.camael.top
+http://www.chinaz.com
+http://www.clocklink.com
 http://www.coolapk.com
 http://www.crosswall.org
 http://www.cssforest.org
@@ -276,6 +312,7 @@ http://www.e300daniu.com
 http://www.echojs.com
 http://www.fanqiang88.top
 http://www.faqs.org
+http://www.feedsky.com
 http://www.feweekly.com
 http://www.freeflyingcloud.xyz
 http://www.getcloudify.org
@@ -284,9 +321,12 @@ http://www.guokr.com
 http://www.hackernewsletter.com
 http://www.html-js.com
 http://www.html5rocks.com
+http://www.idcs.cn
 http://www.javahai.top
 http://www.jianshu.com
 http://www.jokinkuang.info
+http://www.liaolz.com
+http://www.lizherui.com
 http://www.mantou88.xyz
 http://www.mfdragon.com
 http://www.mmsbs.buzz
@@ -297,11 +337,15 @@ http://www.net.cn
 http://www.oracle.com
 http://www.passjava.cn
 http://www.pingzicloud.top
+http://www.python.org
 http://www.qianlong520.top
 http://www.qualcomm.cn
 http://www.rabbitmq.com
 http://www.ros.org
 http://www.ruanyifeng.com
+http://www.sfirelife.com
+http://www.shanhh.com
+http://www.sitemaps.org
 http://www.sksla.pro
 http://www.smallni.com
 http://www.v2ex.com
@@ -311,6 +355,7 @@ http://www.w3schools.com
 http://www.wujieliulan.com
 http://www.youtube.com
 http://www.zhangxinxu.com
+http://www.zhanxin.info
 http://www.zhihu.com
 http://wxshi.top:9090
 http://x1yjc.top
@@ -327,6 +372,7 @@ http://xn--ehq00hgtfdmt.net
 http://xn--ihq15i3w6b.club
 http://xsj520.top
 http://xyyjc.top
+http://yanping.me
 http://ydoo.vip:5816
 http://youhui.plus
 http://youtube.com
@@ -337,6 +383,7 @@ http://yy-cmi.mozhiti.top
 http://yzxxy.top
 http://yzxxy.top:7001
 http://zemzeme.app
+http://zespia.tw
 http://zh.d2l.ai
 http://zhangwenli.com
 http://zkwn.plan.jpn.im
@@ -392,6 +439,8 @@ https://13533c57.ghelper.me
 https://139df38b.ghelper.me
 https://1510de96.ghelper.me
 https://15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org
+https://163cfn.232885.xyz
+https://163cml.232885.xyz
 https://16th.sub-airport.com
 https://172.lot-ml.com
 https://17852.xyz
@@ -605,6 +654,7 @@ https://866774ca.ghelper.me
 https://87c78586.ghelper.me
 https://88.ee88.tk
 https://888.868988.xyz
+https://88cfn.dupontjoy.shop
 https://893996753.xyz
 https://89826f80.ghelper.me
 https://89ed1dface28.ai-163cdn.com
@@ -764,6 +814,7 @@ https://api-qw.02000.net
 https://api-salkjdhajs-cdm.mcwy.xyz
 https://api-suc.0z.gs
 https://api-zz.xn--14ra41gd24b.xyz
+https://api.10101.io
 https://api.14kbuy.com
 https://api.1vpn.sbs
 https://api.abyssyun.top
@@ -1066,6 +1117,7 @@ https://cdn.fraternizey.com
 https://cdn.huojian999.xyz
 https://cdn.jsdelivr.net
 https://cdn.jsdelivr.us
+https://cdn.teaartcloud.com
 https://cdn.wumaojichang.com
 https://cdn1.telesco.pe
 https://cdn1.xr56385d.qianglie.cloud
@@ -1159,6 +1211,7 @@ https://clv.lshan.eu.org
 https://cm-sub.pz.pe
 https://cm.douwie.workers.dev
 https://cm.qc77.cn
+https://cml88.dupontjoy.shop
 https://cn.quarkus.io
 https://cn.serverless.com
 https://cn4.cyberairport.work
@@ -1172,6 +1225,7 @@ https://colaleo.top
 https://conf1.hokkaido-toyoni.com
 https://config.huojian111.com
 https://configuration.osk2.com
+https://connect.rom.miui.com
 https://console.airrail.work
 https://console.easemob.com
 https://console.ly520.me
@@ -1471,6 +1525,7 @@ https://dycd.knjc.cfd
 https://dydvehzxk9gea5hc.subsrr.top
 https://dydz.csjc.win
 https://dydz.xn--mesv8bx6xtx3b.com
+https://dystroy.org
 https://dyurl1.nfan.fun
 https://dyvip.ianong.cn
 https://dyzh.zhangyucheng0720.workers.dev
@@ -1615,6 +1670,7 @@ https://forum.proxmox.com
 https://free.andiliba.cc
 https://free.cfnode.shop
 https://free.colacloud.free.hr
+https://free.datiya.com
 https://free.kcjs.me
 https://free.legeth.com
 https://free.ninecloud.co
@@ -1681,6 +1737,7 @@ https://gldhm.no-mad-world.club
 https://globalyun.cc
 https://gmcenter.prim-e-cloud.com
 https://go.hhyun.in
+https://gods.coding.net
 https://goii.cc
 https://golang.org
 https://gold.3ssem.com
@@ -1723,6 +1780,7 @@ https://handsontable.com
 https://haolll.me
 https://harryyifei.notion.site
 https://hdfy8sub.achaemenidempireofpersia.uk
+https://hdvideo.top
 https://heikejilaila.xyz
 https://hello-dll.pages.dev
 https://helloworld-gkhnaabtdcefa9d5.z01.azurefd.net
@@ -1814,6 +1872,7 @@ https://insidead.ru
 https://instagram.com
 https://install.appcenter.ms
 https://install.cdn-sd.xyz
+https://install.portworx.com
 https://install.sdconfig.pro
 https://invite.xlcc.live
 https://invite.xn--yvsa48r.com
@@ -1858,6 +1917,7 @@ https://iy141tu-kvs9ovmer97fkkjfidqz581z.pages.dev
 https://j.seaspirit.dpdns.org
 https://j20-cloud.com
 https://j2s.buzz
+https://jamesdaily.life
 https://japidocs.agilestudio.cn
 https://javen205.gitee.io
 https://jb.taipeicity.news
@@ -1972,6 +2032,7 @@ https://lab.magiconch.com
 https://lab.skk.moe
 https://lafuseevansbazc.only4subs.uk
 https://laibajc.top
+https://laibuji.pics
 https://lancellc.gitbook.io
 https://lancloud.zichuanlan.top
 https://lansecs.oxdtangx.top
@@ -2318,6 +2379,7 @@ https://polkascan.io
 https://popcornlab.de
 https://portal.gdmmdo.ga
 https://portal.mofeiyun.com
+https://portal.qiniu.com
 https://portfolio.melligold.com
 https://post.jianjiaoyun.link
 https://postbox.yandexcloud.net
@@ -2601,6 +2663,7 @@ https://star-history.com
 https://starlinkcloud.club
 https://starlinkcloud.xyz
 https://stats.uptimerobot.com
+https://status.openai.com
 https://steel68.qjty.buzz
 https://steemit.com
 https://sttsub.top
@@ -2710,6 +2773,7 @@ https://sub.nysubs.xyz
 https://sub.okjc.xyz
 https://sub.onlineweb.work
 https://sub.oooooq.us.kg
+https://sub.ops.ci
 https://sub.ouoboom.xyz
 https://sub.paasmi.com
 https://sub.passgfw.top
@@ -3046,6 +3110,7 @@ https://unity3d.bujiasu.com
 https://univer.ai
 https://unpkg.com
 https://uo.q3w2jbx3xx.workers.dev
+https://up.20script.ir
 https://up.bllare.ir
 https://up4.filetolinkborbot.pics
 https://upcyrku4.subxly.cfd:8443
@@ -3311,6 +3376,7 @@ https://www.geedea.pro
 https://www.gfwstable.icu
 https://www.ginfem.com
 https://www.gitbook.com
+https://www.gitlabip.xyz
 https://www.gjufbg.cn
 https://www.goodsunlc.com
 https://www.gstatic.com
@@ -3413,6 +3479,7 @@ https://www.robustperception.io
 https://www.roc-taiwan.taipei
 https://www.rouydad24.ir
 https://www.ruanyifeng.com
+https://www.ruby-lang.org
 https://www.samsung.com
 https://www.scmp.com
 https://www.servicemesher.com
@@ -3440,6 +3507,7 @@ https://www.tianxianbaby.com
 https://www.tiny.cloud
 https://www.tiziwrops.com
 https://www.tline.website
+https://www.tomshardware.com
 https://www.topcashback.de
 https://www.torproject.org
 https://www.trendforce.com
