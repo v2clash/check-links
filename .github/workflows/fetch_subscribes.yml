@@ -1,0 +1,53 @@
+name: fetch_subscribes
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'fetch_subscribes.py'
+      - '.github/workflows/fetch_subscribes.yml'
+  schedule:
+    - cron: '0 22 * * *' # 北京时间每日早上 6:00 自动运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp PyYAML
+
+      - name: Run Fetch Script
+        env:
+          # 关键：从 Secrets 中安全注入，GitHub 会在日志中自动掩盖这些值
+          BOT: ${{ secrets.BOT }}
+          GIST_LINKS: ${{ secrets.GIST_LINKS }}
+          TZ: Asia/Shanghai
+        run: python fetch_subscribes.py
+
+      - name: Commit and Push Results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Action"
+          git add filter_subs.txt
+          
+          # 检查是否有文件变化，避免空提交报错
+          if git diff --staged --quiet; then
+            echo "No changes detected in filter_subs.txt, skipping commit."
+          else
+            git commit -m "Update nodes: $(date +'%Y-%m-%d %H:%M')"
+            # 使用 BOT token 进行鉴权推送
+            git push "https://${{ github.actor }}:${{ secrets.BOT }}@github.com/${{ github.repository }}.git" HEAD:${{ github.ref_name }}
+          fi
