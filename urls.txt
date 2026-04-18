@@ -314,6 +314,7 @@ http://wpaudioplayer.com
 http://wqfuinwqffq.dfcloud.xyz:30818
 http://www.360doc.com
 http://www.a100.sbs
+http://www.anthropic.com
 http://www.apache.org
 http://www.bfyun.top
 http://www.camael.top
@@ -903,6 +904,7 @@ https://api.pithecia.com
 https://api.qrserver.com
 https://api.secure-tunnel.site
 https://api.siliconflow.cn
+https://api.skybridge.cc
 https://api.skyrocketapi.xyz
 https://api.ssrsub.com
 https://api.star-dr.com
@@ -983,6 +985,7 @@ https://apps.irancdn.org
 https://apt.download-config-ppy.cyou
 https://arax.ncats.io
 https://archerydms.com
+https://arena.ai
 https://aricke.com
 https://artalk.js.org
 https://artislg.com
@@ -1783,6 +1786,7 @@ https://file.sbno.de
 https://filecxx.com
 https://files.bokhary.ir
 https://files.catbox.moe
+https://finance.sina.cn
 https://fixupx.com
 https://fku-ppg.co.uk
 https://flashcat.cloud
@@ -1879,6 +1883,7 @@ https://git.io
 https://git.k8s.io
 https://gitee.com
 https://gitlab.com
+https://gitlab.gnome.org
 https://gkd.sublink.cc
 https://gldhm.no-mad-world.club
 https://globalyun.cc
@@ -2107,6 +2112,7 @@ https://jiyou.world
 https://jj.mikasajzy.dynv6.net
 https://jjjjjjjji.191292.xyz
 https://jjzcloud.top
+https://jkun.waimaosass.icu
 https://jlhcloud.us.kg
 https://jmoesub.bygcloud.com
 https://jmp.sh
@@ -2256,6 +2262,7 @@ https://live.404003.xyz
 https://llgjc.shop
 https://lllo.x19890604.qzz.io
 https://llyh.cc
+https://lmskk.lanzouv.com
 https://lnk.ink
 https://login.djjc.cfd
 https://login.yfjc.xyz
@@ -2410,6 +2417,7 @@ https://n3.leensasub.net
 https://n3.leensasub.us
 https://n67.688997.xyz
 https://naccl.top
+https://nacho-dy1.moelink.top
 https://nachoneko.cn
 https://nageoffer.com
 https://nairobi.saymyname.website
@@ -2900,6 +2908,7 @@ https://status.openai.com
 https://steel68.qjty.buzz
 https://steemit.com
 https://store.kakocloud.pro
+https://store.steampowered.com
 https://sttsub.top
 https://study.jaycloud11111.top
 https://study1.v1999.sbs
@@ -3684,6 +3693,7 @@ https://www.ginfem.com
 https://www.gitbook.com
 https://www.gitlabip.xyz
 https://www.gjufbg.cn
+https://www.goftino.com
 https://www.goodsunlc.com
 https://www.gstatic.com
 https://www.haidaobot.xyz
@@ -3827,6 +3837,7 @@ https://www.tianxianbaby.com
 https://www.tiny.cloud
 https://www.tiziwrops.com
 https://www.tline.website
+https://www.tomatov2.buzz
 https://www.tomshardware.com
 https://www.topcashback.de
 https://www.torproject.org
@@ -4108,6 +4119,7 @@ https://zhongzhuan.mxmxmx.lol
 https://zhuan.zc25.ip-ddns.com
 https://zhuanlan.zhihu.com
 https://zhuh.zbb07.filegear-sg.me
+https://zhuhai.uk
 https://zhuiyun.shop
 https://zhuzhu12.xyz
 https://zhuzhuzhu.whtjdasha.com
