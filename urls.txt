@@ -97,6 +97,7 @@ http://demo.ninesix.cc:4433
 http://demoa5.tongzhouyun.com
 http://dev.duoshuo.com
 http://dev.t.qq.com
+http://developer.openstack.org
 http://dingyue.myzone.site
 http://dingyue2.qyjc.xyz
 http://dingyue3.qyjc.xyz
@@ -107,6 +108,7 @@ http://dls2.iran-gamecenter-host.com
 http://docs.aws.amazon.com
 http://docs.ceph.com
 http://docs.mongodb.org
+http://docs.openstack.org
 http://download.oracle.com
 http://duoshuo.com
 http://dy.changyouVPN.top
@@ -688,6 +690,7 @@ https://866774ca.ghelper.me
 https://87c78586.ghelper.me
 https://88.ee88.tk
 https://888.868988.xyz
+https://88888.ee88.tk
 https://88cfn.dupontjoy.shop
 https://893996753.xyz
 https://89826f80.ghelper.me
@@ -976,6 +979,7 @@ https://app.ppssqq.com
 https://app.rebrandly.com
 https://app.rookiebase.cn
 https://app.shokichan.com
+https://app.sublink.works
 https://app.tline.website
 https://app.tlyn.ir
 https://app.wallabag.it
@@ -987,6 +991,7 @@ https://arax.ncats.io
 https://archerydms.com
 https://arena.ai
 https://aricke.com
+https://arstechnica.com
 https://artalk.js.org
 https://artislg.com
 https://arweave.net
@@ -1170,6 +1175,7 @@ https://c429532b.ghelper.me
 https://c4ad11f6.ghelper.me
 https://c59d6f0d.ghelper.me
 https://c6.y.qq.com
+https://c842122.parspack.net
 https://c99a91a9.ghelper.me
 https://cainiao164.top
 https://cainiao172.top
@@ -1880,6 +1886,7 @@ https://ghj.apocalypse.cc.cd
 https://ghostcc.cc
 https://ghproxy.com
 https://git.io
+https://git.ir
 https://git.k8s.io
 https://gitee.com
 https://gitlab.com
@@ -1991,6 +1998,7 @@ https://htvviru.top
 https://huahe.link
 https://huaxia.tcekx.cn
 https://huaxia.wueh.cn
+https://hub.linux.do
 https://hufe.club
 https://hugeicons.com
 https://huggingface.co
@@ -2021,6 +2029,7 @@ https://ikuajingbus.com
 https://im.iamtsm.cn
 https://imagestool.com
 https://img.ikaka.in
+https://img.ozzo.top
 https://img.shields.io
 https://img.xn--mesv8bx6xmtl.com
 https://img.ytools.cc
@@ -3533,6 +3542,7 @@ https://web888.naixue222.com
 https://webget.yfjc.xyz
 https://webnote.cc
 https://webridge.pokeryun.link
+https://wed.13333331.xyz
 https://weekly.manong.io
 https://weekly.tw93.fun
 https://weibo.com
@@ -3709,6 +3719,8 @@ https://www.ibm.com
 https://www.icloud.com
 https://www.idc.com
 https://www.instagram.com
+https://www.iranintl.com
+https://www.irannsr.org
 https://www.isc.org
 https://www.ithome.com
 https://www.itonlyasub.xyz
@@ -3855,6 +3867,7 @@ https://www.v2youzi.top
 https://www.vchangyi.com
 https://www.videolan.org
 https://www.vns735p8.xyz
+https://www.vpnmiao.site
 https://www.vpnunlimitedapp.com
 https://www.vtwoc4.top
 https://www.vultr.com
@@ -3865,6 +3878,7 @@ https://www.wgstart.com
 https://www.wired.com
 https://www.wireguard.com
 https://www.wogwog.top
+https://www.wsj.com
 https://www.xg-hub.icu
 https://www.xiaobot.net
 https://www.xiaoli.vip
