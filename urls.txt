@@ -101,6 +101,7 @@ http://ctmm.gscloud.bond:31620
 http://d.xyss.xyz
 http://dad.xiaobaivpn.cyou
 http://dannpu.com
+http://daramet.com
 http://dash.cloudflare.com
 http://dashabi.ping-zi-yun.icu
 http://dashboard.yudao.iocoder.cn
@@ -557,6 +558,7 @@ https://1510de96.ghelper.me
 https://15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org
 https://163cfn.232885.xyz
 https://163cml.232885.xyz
+https://163cn.tv
 https://16th.sub-airport.com
 https://172.lot-ml.com
 https://17852.xyz
@@ -1584,6 +1586,7 @@ https://cxsub.club
 https://cxsub.pro
 https://cyberguard.cfd
 https://cybernews.com
+https://cyberscoop.com
 https://cybersecuritynews.com
 https://cygw.ciyuan78.help
 https://d.palu123.com
@@ -2513,6 +2516,7 @@ https://k61kz.no-mad-world.club
 https://k6rcy6a2leyehqhlphlwkkuppm0xxubn.lambda-url.us-east-1.on.aws
 https://kaimenlai.com
 https://kaix.in
+https://kalami-eew.pages.dev
 https://kami.tw93.fun
 https://kaochang.click
 https://karing.app
@@ -2640,6 +2644,7 @@ https://link01.pikachucloud.site
 https://link02.pikachucloud.site
 https://link08.shanhai.one
 https://link1.db-sub.xyz
+https://link123.52pokemon99.cc
 https://link2.proxylink.xyz
 https://link4.proxylink.xyz
 https://link5.proxylink.xyz
@@ -2692,6 +2697,7 @@ https://lzw.me
 https://lzysub.online
 https://m.huanqiu.com
 https://m.leiphone.com
+https://m.tmtpost.com
 https://m.weibo.cn
 https://m.yicai.com
 https://m11.spwvpn.com
@@ -2855,6 +2861,7 @@ https://nanbei.cloud
 https://nanbeicloud.net
 https://nano.nachoneko.cn
 https://nanobrew.trilok.ai
+https://nat.freecloud.ltd
 https://navi.onamae.com
 https://nclink.nfcuws.cn
 https://ne688.688997.xyz
@@ -2970,6 +2977,7 @@ https://open.larkoffice.com
 https://open.spotify.com
 https://openai.com
 https://openai.justsong.cn
+https://opencollective.com
 https://opencut.app
 https://opendatalab.com
 https://openit.littlesite.ml
@@ -3069,6 +3077,7 @@ https://pptr.dev
 https://pqjc.site
 https://pr.kuaifaka.com
 https://pre.paimon.gq
+https://prefab.prefect.io
 https://premproxy.com
 https://preview.pro.ant.design
 https://preview.smartadmin.vip
@@ -3809,6 +3818,7 @@ https://suo.yt
 https://sup.kelayun.top
 https://superbiu.com
 https://support.claude.com
+https://support.cpanel.net
 https://supz1.6128888.xyz
 https://sus.alicenetwork.cloud
 https://sus.clodom.link
@@ -3977,6 +3987,7 @@ https://update.dotusub.xyz
 https://update.glados-config.com
 https://updates.push.services.mozilla.com
 https://upld.zone.id
+https://uploadb.com
 https://uploadb.me
 https://uploadboy.com
 https://uploadgirl.ir
@@ -4303,6 +4314,7 @@ https://www.dosk.win
 https://www.douban.com
 https://www.doubao.com
 https://www.douluoyun.xyz
+https://www.douyin.com
 https://www.duiadns.net
 https://www.duolingo.com
 https://www.dw.com
@@ -4361,6 +4373,7 @@ https://www.huxiu.com
 https://www.ibm.com
 https://www.icloud.com
 https://www.idc.com
+https://www.iesdouyin.com
 https://www.ietf.org
 https://www.ifanr.com
 https://www.ikuayu.top
