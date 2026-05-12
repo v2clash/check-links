@@ -228,6 +228,7 @@ http://ibcl.us
 http://identifiers.org
 http://ikuai.6.guochenjie.asia:3001
 http://instagram.com
+http://internal-sub.local
 http://invite.xn--yvsa48r.com
 http://ip-api.com
 http://ipv6-test.ch
@@ -263,11 +264,13 @@ http://lianjiasub.work
 http://liberize.me
 http://link.busuu.com
 http://list.ciron.net
+http://lokistack-dev-gateway-http.openshift-logging.svc:8080
 http://loo2k.com
 http://loongqing.me
 http://love2wind.cn
 http://lucifr.com
 http://lukefan.com
+http://lumine.sumeru.design
 http://lusongsong.com
 http://luyueming.info
 http://lxseek.com
@@ -733,6 +736,7 @@ https://2c8a795a.ghelper.me
 https://2c99ed84.ghelper.me
 https://2e0b4f45.ghelper.me
 https://2k00l.no-mad-world.club
+https://2xulifestyle.com
 https://3.cundu.eu.org
 https://3.mimoe4.ru
 https://30158025.ghelper.me
@@ -1092,6 +1096,7 @@ https://alink123.com
 https://alist.nn.ci
 https://alistapart.com
 https://alpha.sagittarius-link.com
+https://alumninpustedutw-my.sharepoint.com
 https://aluzz.mmzhk.website
 https://alvless.filegear-sg.me
 https://am-cf-tunnel-sub.lyqnihao.dpdns.org
@@ -1113,6 +1118,7 @@ https://answer.apache.org
 https://ant.zbb25.filegear-sg.me
 https://antdv-pro.com
 https://anti-ad.net
+https://antifyapp.com
 https://anycast.dns.nextdns.io
 https://anycast.uncensoreddns.org
 https://aoe.o.eoa.ccwu.cc
@@ -1128,6 +1134,7 @@ https://api-huacloud.net
 https://api-hx.02000.net
 https://api-hy.02000.net
 https://api-jx.02000.net
+https://api-linkcube.net
 https://api-qw.02000.net
 https://api-salkjdhajs-cdm.mcwy.xyz
 https://api-suc.0z.gs
@@ -1138,6 +1145,7 @@ https://api.14kbuy.com
 https://api.1vpn.sbs
 https://api.221.qzz.io
 https://api.278986.xyz
+https://api.662289.xyz
 https://api.abyssyun.top
 https://api.acaisbest.online
 https://api.acaisbest.shop
@@ -1171,6 +1179,7 @@ https://api.honeycomb.io
 https://api.hy2.lol
 https://api.ikuuu.science
 https://api.immtel.me
+https://api.ipify.org
 https://api.jsm.one
 https://api.ktcat.online
 https://api.liltjay.ip-ddns.com
@@ -1193,6 +1202,7 @@ https://api.otcopusvpn.cc:18008
 https://api.pay.pm
 https://api.pithecia.com
 https://api.prprcloud.life
+https://api.qiduo.eu.org
 https://api.qrserver.com
 https://api.sanfen013.xyz
 https://api.secure-tunnel.site
@@ -1295,6 +1305,7 @@ https://app.sublink.works
 https://app.tline.website
 https://app.tlyn.ir
 https://app.wallabag.it
+https://appbhteffsi3308.h5.xiaoeknow.com
 https://applink.feishu.cn
 https://apps.airfree.cloud
 https://apps.irancdn.org
@@ -1444,6 +1455,7 @@ https://best.momoxiaodian.cc
 https://bestvps.wwkejishe.top
 https://bestxtools.zhubai.love
 https://beszel.dev
+https://bet120x.com
 https://beta.dev01.devland.is
 https://betamagic.nl
 https://bf4ede2b.cf-workers-sub-69z.pages.dev
@@ -1460,6 +1472,7 @@ https://bigairport.icu
 https://bigairport.loan
 https://bigbus.me
 https://bil8.wjz2cdz3wr.workers.dev
+https://bird.1024.one
 https://bit.ly
 https://bitinn.net
 https://biubiux.online
@@ -1909,6 +1922,7 @@ https://dddd.lol
 https://dddddddddddddd.cc
 https://dddffghju.857657.xyz
 https://ddgksf2013.top
+https://ddns.shecan.ir
 https://ddys.yunjisuan.cf
 https://ddys.yunjisuan.gq
 https://deb.nodesource.com
@@ -2632,9 +2646,11 @@ https://haitunfree.luodaifan.top
 https://haitunyun.online
 https://handsontable.com
 https://hanziwriter.org
+https://haojiahuo.top
 https://haolll.me
 https://haowallpaper.com
 https://harryyifei.notion.site
+https://hashcloud.cz
 https://hawstein.com
 https://hbr.org
 https://hdfy8sub.achaemenidempireofpersia.uk
@@ -2792,6 +2808,7 @@ https://invite.xn--yvsa48r.com
 https://iois.me
 https://ios.aneeo.com
 https://ios.chat.openai.com
+https://ip-api.com
 https://ip.ikez.dpdns.org
 https://ipcfsub.mrfodi1.workers.dev
 https://ipcheck.ing
@@ -3094,6 +3111,7 @@ https://lnk.ink
 https://login.djjc.cfd
 https://login.yfjc.xyz
 https://logspot.hocgin.top
+https://lokistack-dev-gateway-http.openshift-logging.svc:8080
 https://lolicode.gitee.io
 https://lookscanned.io
 https://love.52pokemon66.cc
@@ -3284,6 +3302,7 @@ https://my5353.com
 https://mybear.xyz
 https://myboard.co
 https://mydy.xlm.plus
+https://myheritage.com
 https://myket.ir
 https://myko.buzz
 https://mymy.lanyanyun.co
@@ -3445,12 +3464,14 @@ https://omp.exchange
 https://on.substack.com
 https://on1vejas4m6z.w7yxefcx0i11.click
 https://one.ginfem.com
+https://one.one.one.one
 https://onelighter.site
 https://online.jobtool.cn
 https://onlines7.top
 https://onlysub.mjurl.com
 https://ooooooo.vvvv.ee
 https://ooxx.be
+https://oozz.tk
 https://open.10086.quest
 https://open.163.com
 https://open.feishu.cn
@@ -3893,6 +3914,7 @@ https://sexoo.cloud
 https://sfj.sufujia.top
 https://sh.dport.top
 https://shadowmere.akiel.dev
+https://shadowmere.xyz
 https://shadowrocket.uk
 https://shan-cloud.xyz
 https://shandiandog.com
@@ -4079,6 +4101,7 @@ https://sub.cloudtaste.xyz
 https://sub.cloxy.io
 https://sub.cm
 https://sub.cnkizzc.eu.org
+https://sub.colacloud.net
 https://sub.coo.ga
 https://sub.cucloud.top
 https://sub.czrk168.top
@@ -4098,6 +4121,7 @@ https://sub.fnf.xyz
 https://sub.fqzsnai.ggff.net
 https://sub.free.n125.xyz
 https://sub.fuckyou.pp.ua
+https://sub.gacloudltd.store
 https://sub.galafirewall.online
 https://sub.go4sharing.repl.co
 https://sub.godetia.xyz
@@ -4426,6 +4450,7 @@ https://supabase.com
 https://superbiu.com
 https://support.claude.com
 https://support.cpanel.net
+https://support.packet.com
 https://supz1.6128888.xyz
 https://sus.alicenetwork.cloud
 https://sus.clodom.link
@@ -4838,6 +4863,7 @@ https://whk.life
 https://whoisyourdady.gfw-wdnmd.com
 https://widget.yfjc.xyz
 https://wiki.arcaea.cn
+https://wiki.hetzner.de
 https://wiki.hoki.work
 https://wiki.kache.moe
 https://wiki.mcy.im
@@ -5005,6 +5031,7 @@ https://www.dginv.click
 https://www.dgtle.com
 https://www.dgycom.com
 https://www.diatec.co.jp
+https://www.digitalocean.com
 https://www.diva.so
 https://www.dji.com
 https://www.djjc.cfd
@@ -5035,6 +5062,7 @@ https://www.etnews.com
 https://www.evernote.com
 https://www.exalead.com
 https://www.farsroid.com
+https://www.fastea.top
 https://www.fdzdk.xyz
 https://www.feedspot.com
 https://www.feiw.cc
@@ -5211,6 +5239,7 @@ https://www.newlearner.site
 https://www.news.cn
 https://www.newyorker.com
 https://www.nintendo.co.jp
+https://www.nintendolife.com
 https://www.nist.gov
 https://www.nite07.com
 https://www.niulaoban.shop
@@ -5221,6 +5250,7 @@ https://www.now61.com
 https://www.npmjs.com
 https://www.nsa.gov
 https://www.nutsfind.com
+https://www.nytimes.com
 https://www.ollama.com
 https://www.omm556.xyz
 https://www.onamae.com
@@ -5352,6 +5382,7 @@ https://www.uploadina.com
 https://www.upx8.com
 https://www.ure.best
 https://www.usdt.gl
+https://www.v2board.uk
 https://www.v2ex.com
 https://www.v2fy.com
 https://www.v2link.org
@@ -5360,6 +5391,7 @@ https://www.v2ny.me
 https://www.v2ray.pw
 https://www.v2youzi.top
 https://www.vchangyi.com
+https://www.videogameschronicle.com
 https://www.videolan.org
 https://www.vns735p8.xyz
 https://www.vpnmiao.site
@@ -5530,6 +5562,7 @@ https://xn--94q649dc94a.com
 https://xn--9kq838ftid.shop
 https://xn--9kq85xcu6b.com
 https://xn--9kqt60cjmy.shop
+https://xn--9kqv03dn4b.xyz
 https://xn--9kqx21a0sv.com
 https://xn--9kqz23b19z.com
 https://xn--9krt36k.com
@@ -5731,6 +5764,7 @@ https://zlxz.80jm.com
 https://zmto.com
 https://zoneabc.net
 https://zongyunti.site
+https://zookeeper.apache.org
 https://zoonavigator.elkozmon.com
 https://zotez2.ezbio.net
 https://zouma.guanhua.xyz
