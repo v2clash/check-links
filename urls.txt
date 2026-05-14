@@ -79,6 +79,7 @@ http://book.douban.com
 http://boto3.readthedocs.io
 http://by.xbygood.xyz
 http://c.biancheng.net
+http://c9k.buzz
 http://cafebazaar.ir
 http://capture3millionsubscribers.thm
 http://casabio.org
@@ -293,6 +294,7 @@ http://mp.weixin.qq.com
 http://mrpm.cc
 http://msvpn.gougouvpn.xyz:88
 http://mvilla.it
+http://mvo-dl.top
 http://my.eoe.cn
 http://my.feedlounge.com
 http://my.kubecost.url
@@ -1035,6 +1037,7 @@ https://abc111222.top
 https://abel.waringer-atg.de
 https://abhm.ir
 https://abjc.xyz
+https://ably.com
 https://about.fb.com
 https://abrehamrahi.ir
 https://abyssvpnya.net
@@ -1052,6 +1055,7 @@ https://addons.mozilla.org
 https://adg.b01.dns-dynamic.net
 https://adg.z9678.rr.nu
 https://adg.zcr6.ggff.net
+https://adguard-dns.io
 https://adguard.com
 https://admin-tmpl-test.rencaiyoujia.cn
 https://admin.xn--iiq451n.com
@@ -1069,6 +1073,7 @@ https://af27c273.ghelper.me
 https://af3b1434.ghelper.me
 https://af882f2e.ghelper.me
 https://afa3c676.ghelper.me
+https://afdian.com
 https://afdian.net
 https://afun-waf.trafficmanager.net
 https://ag.bnpm.dynu.net:30443
@@ -1528,6 +1533,7 @@ https://blog.touchczy.top
 https://blog.turn.tw
 https://blog.vadxq.com
 https://blog.vuejs.org
+https://blog.wdssmq.com
 https://blog.wizos.me
 https://blog.yitianshijie.net
 https://blogs.nvidia.com
@@ -1568,6 +1574,7 @@ https://brew.sh
 https://briefcake.com
 https://browser.networkwebmail.com
 https://bsc-blockbook.nownodes.io
+https://bscscan.com
 https://bst.xlkjjs.top
 https://bsub.douyincdns.top:8888
 https://bteam.tw
@@ -1607,6 +1614,7 @@ https://c429532b.ghelper.me
 https://c4ad11f6.ghelper.me
 https://c59d6f0d.ghelper.me
 https://c6.y.qq.com
+https://c795577.parspack.net
 https://c842122.parspack.net
 https://c99a91a9.ghelper.me
 https://cainiao164.top
@@ -2103,6 +2111,7 @@ https://docs.jumpserver.org
 https://docs.kplayer.net
 https://docs.kubecost.com
 https://docs.link-ai.tech
+https://docs.llamaindex.ai
 https://docs.meedu.vip
 https://docs.metacubex.one
 https://docs.minio.io
@@ -2128,6 +2137,7 @@ https://docs.solace.com
 https://docs.stackstorm.com
 https://docs.taro.zone
 https://docs.termix.site
+https://docs.turso.tech
 https://docs.volta.sh
 https://docsify.js.org
 https://docusaurus.io
@@ -2148,6 +2158,7 @@ https://doh.qis.io
 https://doh3.dns.nextdns.io
 https://doi.org
 https://domain-admin.readthedocs.io
+https://domain.com
 https://donnadie.top
 https://doucat.top
 https://douyun.sbs
@@ -2383,6 +2394,7 @@ https://fastestcloud.xyz
 https://fastly.jsdelivr.net
 https://fastraw.ixnic.net
 https://fatalentropy.com
+https://fb.fastnb.top
 https://fb.umgtb.cn
 https://fbinv02.fbaff.cc
 https://fbweb02.flyingbird.id
@@ -2440,6 +2452,7 @@ https://fhcloud.gweuc.cn
 https://fhfdf.ghkjfgjkdfghrjfghjvbnm.cfd
 https://file.sbno.de
 https://filecxx.com
+https://files.bokhary.fun
 https://files.bokhary.ir
 https://files.catbox.moe
 https://filmserver.ir
@@ -2478,6 +2491,7 @@ https://form-create.com
 https://forms.gle
 https://forum.koishi.xyz
 https://forum.proxmox.com
+https://fosstodon.org
 https://frame.work
 https://free-fs.top
 https://free.andiliba.cc
@@ -2748,6 +2762,7 @@ https://hugeicons.com
 https://huggingface.co
 https://huiweishijie.com
 https://huotuichang.top
+https://hurl.dev
 https://hutaod.com
 https://hutool.ml
 https://hutusi.com
@@ -3176,6 +3191,7 @@ https://mac2winer.cfd
 https://magic-api.ssssssss.org.cn
 https://magicae.pics
 https://maho.chipsfuck.fish
+https://mail.networkwebmail.com
 https://mail.serv00.com
 https://mail.tm
 https://mailchi.mp
@@ -3314,6 +3330,7 @@ https://my.mingri.icu
 https://my.nekocloud.top
 https://my.pathx.me
 https://my.racknerd.com
+https://my.uupload.ir
 https://my.zone.id
 https://my5353.com
 https://myapp.com
@@ -3375,6 +3392,7 @@ https://neo.facal.one
 https://neo1-3zc.pages.dev
 https://neodev.team
 https://neolink.nkkc.one
+https://neovim.io
 https://net.17181922.xyz
 https://net.sled.lol
 https://netease-music.fe-mm.com
@@ -3496,6 +3514,7 @@ https://oozz.tk
 https://open.10086.quest
 https://open.163.com
 https://open.feishu.cn
+https://open.itc.cn
 https://open.larkoffice.com
 https://open.spotify.com
 https://openai.com
@@ -3505,6 +3524,7 @@ https://opencut.app
 https://opendatalab.com
 https://openit.daycat.space
 https://openit.littlesite.ml
+https://openit.ml
 https://openjdk.org
 https://opensource.org
 https://openui.fly.dev
@@ -3592,6 +3612,7 @@ https://platform.claude.com
 https://platform.djjc.cfd
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
+https://playwright.dev
 https://plus.chongzhi.art
 https://pm.enjoy.cloudns.biz
 https://pm2.keymetrics.io
@@ -3835,6 +3856,7 @@ https://rxl-nc.xyz
 https://rxxqa.no-mad-world.club
 https://s-dywrwizazu.cn-shanghai.fcapp.run
 https://s.33y.run
+https://s.666676.xyz
 https://s.feisucloud.xyz
 https://s.haituncloud.vip
 https://s.hajimi.icu
@@ -3881,6 +3903,7 @@ https://s3.amazonaws.com
 https://s31.uupload.ir
 https://s34.picofile.com
 https://s4-f45.pages.dev
+https://s5.995677.xyz
 https://s6.ssysub1.xyz
 https://s6.uplod.ir:182
 https://s7.sub.gfw.gg
@@ -4042,6 +4065,7 @@ https://stability.ai
 https://stackedit.io
 https://stackoverflow.com
 https://star-history.com
+https://starchart.cc
 https://starlinkcloud.club
 https://starlinkcloud.xyz
 https://station.tuotuoyun.vip
@@ -4300,6 +4324,7 @@ https://sub.xn--mes91t7ofgnw.com
 https://sub.xn--mesv7f5toqlp.com
 https://sub.xn--vpn-3f0h822m.com
 https://sub.xn--wlqw2sc0nwqq.com
+https://sub.xnyun.wiki
 https://sub.xunicard.cc
 https://sub.xunlian.site
 https://sub.yifenjichang.online
@@ -4641,6 +4666,7 @@ https://tudou.igken.com
 https://tugeda.xyz
 https://tumutanzi.com
 https://turbooserver.xyz
+https://turso.tech
 https://tuzi226.top
 https://tv-l4um.onrender.com
 https://tv.cctv.com
@@ -4935,6 +4961,7 @@ https://wuxianliulianng.xyz
 https://wuyouyun.shop
 https://wvw.guanxi.cloudns.be
 https://ww1.mfssr.xyz
+https://wwbbd.lanzouw.com
 https://wwe.trx1.cyou
 https://wwi.lanzoui.com
 https://wwm.huaxiamax.icu
@@ -4972,6 +4999,7 @@ https://www.aimixian.cn
 https://www.alibabacloud.com
 https://www.amazon.com
 https://www.androidauthority.com
+https://www.androidheadlines.com
 https://www.androidpolice.com
 https://www.anothervpn520.us.ci
 https://www.anthropic.com
@@ -5120,6 +5148,7 @@ https://www.freefq.com
 https://www.freepik.com
 https://www.ft.com
 https://www.ftclashcloud.mom
+https://www.fusejs.io
 https://www.gaojiyun.vip
 https://www.gatsbyjs.com
 https://www.gcores.com
@@ -5244,8 +5273,10 @@ https://www.mibei77.com
 https://www.midjourney.com
 https://www.mifengtd.cn
 https://www.mindskip.net
+https://www.mir.com.my
 https://www.mirusubs.com
 https://www.miyun.me
+https://www.mk.co.kr
 https://www.mojie.cool
 https://www.mooc.cn
 https://www.moonriver.sbs
@@ -5253,6 +5284,7 @@ https://www.morningstar.com
 https://www.mpyit.com
 https://www.msit.go.kr
 https://www.msra.cn
+https://www.mtfol.com
 https://www.mtruning.club
 https://www.mxnzp.com
 https://www.mxssr1.top
@@ -5279,10 +5311,12 @@ https://www.nite07.com
 https://www.niulaoban.shop
 https://www.nodeseek.com
 https://www.notebookcheck.net
+https://www.notion.com
 https://www.notion.so
 https://www.now61.com
 https://www.npmjs.com
 https://www.nsa.gov
+https://www.nushell.sh
 https://www.nutsfind.com
 https://www.nytimes.com
 https://www.ollama.com
@@ -5414,6 +5448,7 @@ https://www.u9bbbb.com
 https://www.udacity.com
 https://www.uisdc.com
 https://www.uniprot.org
+https://www.uoyun.com
 https://www.uploadina.com
 https://www.upx8.com
 https://www.ure.best
@@ -5439,6 +5474,7 @@ https://www.w1y1.xyz
 https://www.wangdu.site
 https://www.wangyunf.com
 https://www.war.gov
+https://www.wdssmq.com
 https://www.weave.works
 https://www.wexgc.com
 https://www.wezm.net
@@ -5529,6 +5565,7 @@ https://wy.flylink.cyou
 https://wylztxfq.qjty1.buzz
 https://wyy.14kbuy.com
 https://x-file-storage.xuyanwu.cn
+https://x.ai
 https://x.com
 https://x.dnsss.top
 https://x.juzi.lat
@@ -5663,6 +5700,7 @@ https://xsus.wiki
 https://xsyg25417.xskjsvip.dpdns.org
 https://xtls.rprx.vision
 https://xtom-osa-1.edge.nextdns.io
+https://xtyun.top
 https://xuchi.name
 https://xueqiu.com
 https://xueqiucloud.top
@@ -5722,6 +5760,7 @@ https://your-domain.com
 https://your-domain.workers.dev
 https://your-oidc.issuer.com
 https://your-provider.com
+https://your-server.com
 https://your-worker.workers.dev
 https://yourco.webhook.office.com
 https://yourdomain.com
@@ -5738,6 +5777,7 @@ https://youyoo.ccwink.cc
 https://ypso.cc
 https://yro.slashdot.org
 https://ysjc.us.kg
+https://yt.xn--49sq15btnijvp.xn--fiqs8s
 https://yts.mx
 https://yuanbao.yuanbaojc.store
 https://yuguo.us
