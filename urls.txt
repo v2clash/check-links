@@ -1805,6 +1805,7 @@ https://bpbng.zcr06.filegear-sg.me
 https://bpbzb9.zb9.us.kg
 https://bpbzb9.zbb06.filegear-sg.me
 https://bpfxs.ccwu.cc
+https://bpjc.cc
 https://bpjc.lol
 https://bpjc.pics
 https://bpjc.xyz
@@ -2426,6 +2427,7 @@ https://docs.datastax.com
 https://docs.dify.ai
 https://docs.digitalocean.com
 https://docs.dremio.com
+https://docs.fluentbit.io
 https://docs.getoutline.com
 https://docs.gitea.com
 https://docs.godoos.com
@@ -3203,6 +3205,7 @@ https://hyui.apocalypse.cc.cd
 https://hyvps.hytron.io
 https://hz.dport.top
 https://i.delta.chat
+https://i.ifeng.com
 https://i.passcloud.xyz
 https://i.tjvpn.top
 https://i.ytimg.com
@@ -3617,6 +3620,7 @@ https://live.fanmingming.com
 https://live.kankanews.com
 https://live.yang-1989.eu.org
 https://livid.v2ex.com
+https://liying-sub.buzz
 https://llcool.xyz
 https://llgjc.shop
 https://lllo.x19890604.qzz.io
@@ -3942,6 +3946,7 @@ https://newhua99.com
 https://newrss.starlinkclash.ggff.net
 https://news.layervault.com
 https://news.mindynode.com
+https://news.now.com
 https://news.remarkable.com
 https://news.samsung.com
 https://news.skhynix.co.kr
@@ -5290,6 +5295,7 @@ https://tategaki.de
 https://tc.qy1357.top
 https://tc.r07.cloudns.be
 https://tc.ztcloud.xyz
+https://tcptest.cn
 https://tcxf.hssl8088.icu
 https://tecentapi.yunqing.work
 https://tech.channable.com
@@ -5388,6 +5394,7 @@ https://toshare.tosslk.xyz
 https://toting.top
 https://towardsai.net
 https://toysforyou.top
+https://tpap.cloud
 https://tr.gogdog.xyz
 https://tr.z9678.dynv6.net
 https://tr.z9678.rr.nu
@@ -5615,6 +5622,7 @@ https://vot.981176.xyz
 https://vox.nockserv.cloud
 https://vpn-1yo.pages.dev
 https://vpn-4.tgvpnbot.com:3296
+https://vpn.209966.xyz
 https://vpn.28.al
 https://vpn.583180.xyz
 https://vpn.583181.xyz
@@ -5796,6 +5804,7 @@ https://www.360vpn.org
 https://www.36kr.com
 https://www.3kla.cn
 https://www.404media.co
+https://www.4f7kia.vip:7443
 https://www.4gtv.tv
 https://www.4spaces.org
 https://www.52nlp.cn
@@ -5839,6 +5848,7 @@ https://www.awsl.business
 https://www.awyyds.one
 https://www.axios.com
 https://www.baeksangawards.co.kr
+https://www.baipiaoo.site
 https://www.baiyunvpn.xyz
 https://www.base64encode.org
 https://www.bbc.com
@@ -6162,6 +6172,8 @@ https://www.mir.com.my
 https://www.mirusubs.com
 https://www.miyun.me
 https://www.mk.co.kr
+https://www.mk2040.com:9163
+https://www.mk2120.com:9979
 https://www.mm9.ltd
 https://www.mnucv.xyz
 https://www.mojie.cool
@@ -6259,6 +6271,7 @@ https://www.readme-i18n.com
 https://www.realclearpolitics.com
 https://www.rectg.com
 https://www.reddit.com
+https://www.redhat.com
 https://www.redleaf.app
 https://www.redox-os.org
 https://www.redsharknews.com
