@@ -65,6 +65,7 @@ http://archive.ubuntu.com
 http://awcloud.life
 http://b.u9v.cn
 http://b19.se
+http://bale.lovlytehran.ir:2095
 http://beautyandbeast.link
 http://beetle.lander.work
 http://beiyuu.com
@@ -349,6 +350,7 @@ http://n2.us.nexiocloud.com:25439
 http://nVx81Q0ouJA21x8U.xn--fiqs8s40dz2j.com
 http://nanbei.cloud
 http://nangang.pro
+http://nbvpn.top
 http://nc.cm.xiaomi-api.xyz:19581
 http://nekox.eu5.org
 http://nffs.tk
@@ -452,6 +454,7 @@ http://sub.crosswall.org
 http://sub.duckcloud.cc
 http://sub.hideu.cc
 http://sub.infininode.xyz
+http://sub.jarvistech.club
 http://sub.kjdjakskl.cyou
 http://sub.sqeven.me
 http://sub.store
@@ -1003,6 +1006,7 @@ https://65.r07.cloudns.be
 https://65b72027.ghelper.me
 https://66.66jc.top
 https://66195e16-0a53-4563-8515-f6f97d22f4ef.fengchenginx.com
+https://666.66jc.top
 https://666119.xyz
 https://666676666.xyz
 https://668993.xyz
@@ -1505,6 +1509,7 @@ https://app.bybit.com
 https://app.cal.com
 https://app.chartdb.io
 https://app.cloudcone.com
+https://app.cloudcone.com.cn
 https://app.cloudlion.me
 https://app.denza.xyz
 https://app.diagrams.net
@@ -1743,6 +1748,7 @@ https://blog.codingnow.com
 https://blog.crimx.com
 https://blog.csdn.net
 https://blog.daliansky.net
+https://blog.datalust.co
 https://blog.devtang.com
 https://blog.diqigan.cn
 https://blog.dmitrykankalovich.com
@@ -2543,8 +2549,10 @@ https://doubledou.win
 https://doucat.top
 https://douyun.sbs
 https://dove.589669.xyz
+https://down.dginv.click
 https://down.mptext.top
 https://down.nigx.cn
+https://downdetector.com
 https://download-config.windows98.link
 https://download-configb.windows98.link
 https://download.8886698.xyz
@@ -3058,6 +3066,7 @@ https://glitch.com
 https://global.tagonline.asia
 https://globalyun.cc
 https://gloria.social
+https://gma.tavis.tw
 https://gmcenter.prim-e-cloud.com
 https://go.dev
 https://go.go2048.top
@@ -3139,6 +3148,7 @@ https://haojiahuo.top
 https://haokawx.lot-ml.com
 https://haolll.me
 https://haowallpaper.com
+https://happens.lol
 https://harryyifei.notion.site
 https://hashcloud.cz
 https://hawstein.com
@@ -3837,10 +3847,12 @@ https://minapp.com
 https://mind-elixir.com
 https://mindoc.com.cn
 https://mine.ex-girlfriendis.best
+https://miniapps.ai
 https://miniflux.app
 https://minority-extreme-thompson-elite.trycloudflare.com
 https://mireya233.com
 https://mirror.ghproxy.com
+https://mirrors.huaweicloud.com
 https://misakafree.ml
 https://misskey-hub.net
 https://mistral.ai
@@ -4407,6 +4419,7 @@ https://qianggewangluo.shop
 https://qianguyihao.com
 https://qianjin1586.8811334.xyz
 https://qianting666.com
+https://qidijichang.xyz
 https://qifei.daytimemeteor.top
 https://qifei.today.elementfx.com
 https://qingchayun.icu
@@ -4694,6 +4707,7 @@ https://sh.dport.top
 https://shadow-socks-share.herokuapp.com
 https://shadowmere.akiel.dev
 https://shadowmere.xyz
+https://shadowpocket.site
 https://shadowrocket.uk
 https://shan-cloud.xyz
 https://shandiandog.com
@@ -4866,6 +4880,7 @@ https://study1.v1999.sbs
 https://su-b.yun.cat
 https://su.26227.xnn--oort0zc4p.25cy.us
 https://su.hhbggy.com:8888
+https://su.xfjhchr.com:8888
 https://su.xfx-link.com:8888
 https://su.z9678.rr.nu
 https://su1b.suzu.shop
@@ -5650,6 +5665,7 @@ https://v2.sisc.ga
 https://v2.tjiasu.xyz
 https://v2.udid8.com
 https://v2.yukiss.eu.org
+https://v2b.hinetlove.site
 https://v2b.n20.top
 https://v2b.xlr-ml.tk
 https://v2board.life
@@ -5932,6 +5948,7 @@ https://www.ainvest.com
 https://www.alibabacloud.com
 https://www.amazon.co.jp
 https://www.amazon.com
+https://www.amd.com
 https://www.amethyst.rs
 https://www.androidauthority.com
 https://www.androidheadlines.com
@@ -6086,6 +6103,7 @@ https://www.epicgames.com
 https://www.epubit.com
 https://www.erupt.xyz
 https://www.etnews.com
+https://www.eventbrite.com
 https://www.evernote.com
 https://www.exalead.com
 https://www.f2ray.com
@@ -6520,6 +6538,7 @@ https://www.volcengine.com
 https://www.vpngate.net
 https://www.vpnmiao.site
 https://www.vpnunlimitedapp.com
+https://www.vtwoc3.top
 https://www.vtwoc4.top
 https://www.vultr.com
 https://www.w1y1.xyz
@@ -6663,6 +6682,7 @@ https://xf.gl
 https://xf88j.no-mad-world.club
 https://xfa9.eu.org
 https://xfeed.app
+https://xfltd.org
 https://xfm.xz61.cn
 https://xfsnet.com
 https://xg25418.xskjsvip.dpdns.org
