@@ -125,6 +125,7 @@ http://clustrmaps.com
 http://cmall.magestack.cn
 http://cocoacake.net
 http://code.claude.com
+http://concisecoder.io
 http://concurrent.redspider.group
 http://connect.rom.miui.com
 http://connectivitycheck.gstatic.com
@@ -537,6 +538,7 @@ http://vpn.loveskywroks.us.kg
 http://vps.huanshi88.sbs
 http://vsgyajsb.zahramehri.ir
 http://vue3.ccbpm.cn
+http://vulkano.rs
 http://vyy.idsduf.com
 http://vyysub.euquw.cn
 http://wa.me
@@ -632,6 +634,7 @@ http://www.leagueofheroes.ml
 http://www.liaolz.com
 http://www.linkops.cn
 http://www.lizherui.com
+http://www.luduminis.com
 http://www.lvchaapp.vip
 http://www.lvchavpn.vip
 http://www.mantou88.xyz
@@ -1300,6 +1303,7 @@ https://amber85.qjty.buzz
 https://amclubss.com
 https://amin.karkas1.ir
 https://aminpanel.marketepic.ir:8000
+https://amos.me
 https://amz.awsy.top
 https://amzn.to
 https://andrewzuo.com
@@ -1798,6 +1802,7 @@ https://blog.waffles.space
 https://blog.wdssmq.com
 https://blog.wizos.me
 https://blog.yitianshijie.net
+https://blog.yoshuawuyts.com
 https://blogs.gentoo.org
 https://blogs.nvidia.com
 https://blubank.com
@@ -2157,6 +2162,7 @@ https://coolshell.cn
 https://copy.sh
 https://copyq.readthedocs.io
 https://cordys.cn
+https://coreyja.com
 https://corich.cc
 https://coronavirus.jhu.edu
 https://cors.buildtest.site
@@ -3229,6 +3235,7 @@ https://hrqiea.subxly.cfd:8443
 https://hrydy.1111345.xyz
 https://hs.huasuan666.top
 https://hsdgbuys.pages.dev
+https://hsivonen.fi
 https://hssl8088.icu
 https://ht.shunc.xyz
 https://htcmi-20240805.mozhiti.top
@@ -3796,6 +3803,7 @@ https://masuit.com
 https://matcha.su
 https://matrix.to
 https://matrixap.com
+https://matthias-endler.de
 https://maxhjd.jjzcloud.top
 https://maxkb.cn
 https://mb.manbo8.site
@@ -3810,6 +3818,7 @@ https://me.csdn.net
 https://meal.leftright.buzz
 https://media.ccc.de
 https://medium.com
+https://medium.freecodecamp.org
 https://meee.com.tw
 https://meetups.lacrypta.ar
 https://mega.nz
@@ -4028,6 +4037,7 @@ https://new.xn--pbt38zg4v.com
 https://newdee.cf
 https://newhua99.com
 https://newrss.starlinkclash.ggff.net
+https://newrustacean.com
 https://news.layervault.com
 https://news.mindynode.com
 https://news.now.com
@@ -4247,6 +4257,7 @@ https://persepolis.getty.edu
 https://personal.dtcpay.com
 https://pf.apz3xggbio.workers.dev
 https://pgbps.ccwu.cc
+https://phaazon.net
 https://photos.caixin.com
 https://php.404003.xyz
 https://pianyi.jiediandingyuejiji.homes
@@ -4269,9 +4280,11 @@ https://plainapp.app
 https://planetable.eth.limo
 https://platform.adobe.io
 https://platform.claude.com
+https://platform.deepseek.com
 https://platform.djjc.cfd
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
+https://play.rust-lang.org
 https://playfast.org
 https://playwright.dev
 https://plus-doc.dromara.org
@@ -5356,6 +5369,7 @@ https://suti.skin
 https://sux.lol
 https://suying148.xyz
 https://sv1.otruyencdn.com
+https://svartalf.info
 https://svelte.dev
 https://svip.365cloud.me
 https://svip.dovenweb.com
@@ -5366,6 +5380,7 @@ https://swanhub.co
 https://syjccloud.com
 https://synthesize.rs
 https://syragpt.ir
+https://system76.com
 https://syt.sytcloud.top
 https://sytcloud.top
 https://syyn.ianong.cn
@@ -5449,6 +5464,7 @@ https://thehackernews.com
 https://themeisle.com
 https://thenextweb.com
 https://theoldreader.com
+https://theoriginals.io
 https://thepoint1.free886.site
 https://think.codingit.cn
 https://this-week-in-rust.org
@@ -6200,6 +6216,7 @@ https://www.ifanr.com
 https://www.ikuayu.top
 https://www.imgurl.ir
 https://www.infoq.cn
+https://www.infoq.com
 https://www.inoreader.com
 https://www.inspektor-gadget.io
 https://www.instagram.com
@@ -6251,6 +6268,7 @@ https://www.kuaidog010.top
 https://www.kuaigou.life
 https://www.kymjs.com
 https://www.labno3.com
+https://www.landian.news
 https://www.lanjinger.com
 https://www.lanka.cn
 https://www.lanzoup.com
@@ -6535,6 +6553,7 @@ https://www.videogameschronicle.com
 https://www.videolan.org
 https://www.vns735p8.xyz
 https://www.volcengine.com
+https://www.vpnbook.com
 https://www.vpngate.net
 https://www.vpnmiao.site
 https://www.vpnunlimitedapp.com
