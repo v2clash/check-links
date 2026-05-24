@@ -202,6 +202,7 @@ http://edotstudios.com
 http://em7.buzz
 http://epg.51zmt.top:8000
 http://epg.aptvapp.com
+http://event.weibo.com
 http://exchange.gameaurela.click:52952
 http://fanleme.vip
 http://fanqiang88.top
@@ -290,6 +291,7 @@ http://kalcaddle.com
 http://kasku.ai
 http://kitty.sb
 http://kiwi2.cgweb.top
+http://koo.websiteorg.ir:80
 http://krasimirtsonev.com
 http://ksria.com
 http://kuaiyin.vip
@@ -478,6 +480,7 @@ http://subxfxssr.xfxvpn.me
 http://suliannet.cn
 http://sunpaneldemo.enianteam.com
 http://swagger.io
+http://t.cn
 http://t.qq.com
 http://t.smxhx.com
 http://tapirgo.com
@@ -683,6 +686,7 @@ http://www.toodaylab.com
 http://www.uderzo.it
 http://www.uisdc.com
 http://www.umtry.com
+http://www.uucampus.com
 http://www.v2ex.com
 http://www.vogella.com
 http://www.w3cfuns.com
@@ -690,6 +694,7 @@ http://www.w3cplus.com
 http://www.w3ctech.com
 http://www.w3schools.com
 http://www.webwag.com
+http://www.weibo.com
 http://www.wezm.net
 http://www.woshipm.com
 http://www.wujieliulan.com
@@ -1213,6 +1218,7 @@ https://acad.link
 https://acc38639.ghelper.me
 https://access.redhat.com
 https://acck.364685.xyz:2098
+https://account.bilibili.com
 https://accounts.binance.com
 https://acl.syyn.pw
 https://acme-v02.api.letsencrypt.org
@@ -1229,6 +1235,7 @@ https://adg.zcr6.ggff.net
 https://adguard-dns.io
 https://adguard.com
 https://admin-tmpl-test.rencaiyoujia.cn
+https://admin.nezha.su
 https://admin.shanlian.app
 https://admin.vip.edu.kg
 https://admin.xn--iiq451n.com
@@ -2577,6 +2584,7 @@ https://drfytjmjhggnrgergergergerg6555.saojc.xyz
 https://dribbble.com
 https://droidyue.com
 https://ds-33.xyz
+https://dt.shdetai.cn
 https://dt666.xyz
 https://dtjc.xyz
 https://duangks.com
@@ -2631,6 +2639,7 @@ https://dy.wangchen.xyz
 https://dy.xiaozhupeiqix.com
 https://dy.xn--mesx48ahb331x.com
 https://dy.ydzhi.cfd
+https://dy.yh13.xyz
 https://dy0.mmydy.xyz
 https://dy001.maikcloud.top
 https://dy005.maikcloud.top
@@ -2849,6 +2858,7 @@ https://feeded.xyz
 https://feeder.co
 https://feederss.com
 https://feedless.org
+https://feedly.com
 https://feeds.acast.com
 https://feeds.arstechnica.com
 https://feeds.bbci.co.uk
@@ -3290,6 +3300,7 @@ https://id.discourse.com
 https://id.keepsolid.com
 https://idealclover.top
 https://identity-server.dev01.devland.is
+https://idev.dev
 https://iehswe.lobonet.cn
 https://ieplcloud.xyz
 https://ierboryt.spphhnhg.top
@@ -3754,6 +3765,7 @@ https://m.huanqiu.com
 https://m.jdjygold.com
 https://m.jiemian.com
 https://m.leiphone.com
+https://m.lionhd.com
 https://m.stopa.io
 https://m.tmtpost.com
 https://m.weibo.cn
@@ -5536,6 +5548,7 @@ https://trumpyun.com
 https://trunk.rdoproject.org
 https://truthsocial.com
 https://tryhackme.com
+https://trynoguard.com
 https://ts.xship.top
 https://tsbx.6128888.xyz
 https://tsjc.xyz
@@ -5717,6 +5730,7 @@ https://vess.zhuk.dpdns.org
 https://vfox.dev
 https://vi.icarephone.com
 https://viarotel.eu.org
+https://vibe-resume.huize.org
 https://videocardz.com
 https://videofetch.readthedocs.io
 https://vifast.net
@@ -6052,6 +6066,7 @@ https://www.cloudns.net
 https://www.cloudorg.uk
 https://www.cloudshops.xyz
 https://www.cloudwalk.top
+https://www.cls.cn
 https://www.cna.com.tw
 https://www.cnbc.com
 https://www.cnbeta.com
@@ -6664,6 +6679,7 @@ https://wwwx.qyshare.com
 https://wwx.lanzout.com
 https://wwy.yyenh.cn
 https://wx.wuxianjc.top
+https://wxw.moe
 https://wy-paste.lly.cz
 https://wy.flylink.cyou
 https://wylztxfq.qjty1.buzz
@@ -6854,6 +6870,7 @@ https://xycc24424.xskj.dedyn.io
 https://xysxwk250428.3344550.xyz
 https://xz.54264944.xyz
 https://y.kukeyun.cc
+https://y.yfkpay.com
 https://y1k.live
 https://y4ckkxagxaxxefca.duboji.vip
 https://y6-3cj.pages.dev
