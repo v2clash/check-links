@@ -249,6 +249,7 @@ http://gzm-design.guozimi.cn
 http://h5.dooring.cn
 http://hackdesign.org
 http://hackme.thm
+http://half01-ir.phone-store.ir:25005
 http://haohaoxiong.myqnapcloud.com:12580
 http://hbr.org
 http://helloreverb.com
@@ -274,6 +275,8 @@ http://internal-sub.local
 http://invite.xn--yvsa48r.com
 http://ip-api.com
 http://ipv6-test.ch
+http://ir.bbb-subbb.ir:2095
+http://ir.npvnot.com:10116
 http://isna.ir
 http://j2s.buzz
 http://javascriptweekly.com
@@ -291,6 +294,7 @@ http://jshou.top
 http://kalbod-team.ir
 http://kalcaddle.com
 http://kasku.ai
+http://khabaronline.ir
 http://kitty.sb
 http://kiwi2.cgweb.top
 http://koo.websiteorg.ir:80
@@ -800,6 +804,7 @@ https://1024tools.com
 https://10339983.ghelper.me
 https://10ncydlf.flsubcn.cc:2096
 https://10th.sub-airport.com
+https://1111-releases.cloudflareclient.com
 https://1122.yunjijd.xyz
 https://119dot29dot29dot29.cloudflare-dns.com
 https://12123.org
@@ -816,6 +821,7 @@ https://1333111.com
 https://134e92f5.ghelper.me
 https://13533c57.ghelper.me
 https://139df38b.ghelper.me
+https://13mmx.no-mad-world.club
 https://1510de96.ghelper.me
 https://15212712-20f5-40a5-b9aa-8363e0130171.ee137666-1e0a-46db-bbd6-cc18f9841234.accesscam.org
 https://163cfn.232885.xyz
@@ -846,6 +852,7 @@ https://1rmb.tk
 https://1rzy6c5.wxll4.cfd
 https://1st.sub-airport.com
 https://1wfafs.life
+https://1wm6e.no-mad-world.club
 https://1ytcom01.1yunti.net
 https://1yuanfly.live
 https://2.342242.icu
@@ -1077,6 +1084,7 @@ https://7dee9343.ghelper.me
 https://7e5d3f1d.ghelper.me
 https://7eb04bbd.ghelper.me
 https://7jyrf.no-mad-world.club
+https://7m8tk.no-mad-world.club
 https://7th-subscription-from-chickenfarmer.top
 https://8088.hssl8088.icu
 https://81a6e0cd-5a8a-3500-997d-d7b3b73465d3.huaweippy.com
@@ -1135,6 +1143,7 @@ https://9ec48a6a.ghelper.me
 https://9f2f182a.ghelper.me
 https://9f3ebf45.ghelper.me
 https://9f4730e8.ghelper.me
+https://9kzt7.no-mad-world.club
 https://9pvc9ewxcc.r.worldssl.net
 https://9to5mac.com
 https://API.OKAB3.COM
@@ -1330,6 +1339,7 @@ https://ant.design
 https://ant.zbb25.filegear-sg.me
 https://antdv-pro.com
 https://anti-ad.net
+https://anti-ban.dynx.pro:8443
 https://antifyapp.com
 https://anycast.dns.nextdns.io
 https://anycast.uncensoreddns.org
@@ -1415,6 +1425,7 @@ https://api.linkedton.com
 https://api.meomiao.me
 https://api.meomiao.us
 https://api.minimaxi.com
+https://api.misakanet.buzz
 https://api.mudidi1.win
 https://api.mxlweb.xyz
 https://api.ndsxfkjfvhzdsfio.quest
@@ -1607,6 +1618,7 @@ https://auth.newlikebooks.xyz
 https://authjs.dev
 https://autoglm.zhipuai.cn
 https://autowzry.pages.dev
+https://avgt.ink
 https://aw.abc8848.com
 https://awa.inekokkk.immobilien
 https://awacloud.online
@@ -2313,6 +2325,7 @@ https://ddns.shecan.ir
 https://ddsfsdfsdf.tiktok.casa
 https://ddys.yunjisuan.cf
 https://ddys.yunjisuan.gq
+https://deamnetd.3seed.ru:8888
 https://deb.nodesource.com
 https://debe9623.ghelper.me
 https://deepfakevfx.com
@@ -2455,6 +2468,7 @@ https://dns.paesa.es
 https://dns.pub
 https://dns.quad9.net
 https://dns.rubyfish.cn
+https://dns.sarak.as
 https://dns.shecan.ir
 https://dns.smartguard.io
 https://dns.surfshark.com
@@ -2478,6 +2492,7 @@ https://doc.sun-panel.top
 https://doc.tduckcloud.com
 https://doc.traefik.io
 https://doc.yunxin.163.com
+https://docs.amnezia.org
 https://docs.ansible.com
 https://docs.aptvapp.com
 https://docs.aws.amazon.com
@@ -2713,6 +2728,7 @@ https://e7399a94.ghelper.me
 https://earthworm.cuixueshe.com
 https://easylist-downloads.adblockplus.org
 https://ebe396da.ghelper.me
+https://ec.ltn.com.tw
 https://ec5smonchl973s.wca1rs59sefb1kl655b0.online
 https://eck8.miemie.uk
 https://economy.caixin.com
@@ -3341,6 +3357,7 @@ https://inangua.lwjyj.com
 https://indieapps.space
 https://inessential.com
 https://info.iic08924f5w3b65o.xyz
+https://informaten.com
 https://ino.ir
 https://ino.school
 https://ins77.link
@@ -3403,6 +3420,7 @@ https://ipv6-zepto-sel-1.edge.nextdns.io
 https://ipw.cn
 https://iqiaqia.xyz
 https://ir.amd.com
+https://ir.bbb-subbb.ir
 https://iranbax.net
 https://irancell.ir
 https://iranopasmigirim.com
@@ -3427,6 +3445,7 @@ https://j.seaspirit.dpdns.org
 https://j.sub12345.org
 https://j20-cloud.com
 https://j2s.buzz
+https://jahannews.com
 https://jamesdaily.life
 https://japidocs.agilestudio.cn
 https://javaguide.cn
@@ -3616,6 +3635,7 @@ https://kxswa.tk
 https://kyvless.pages.dev
 https://l.dabai.in
 https://l.db-link01.top
+https://l1wn2.no-mad-world.club
 https://l5vzf.no-mad-world.club
 https://lab.magiconch.com
 https://lab.passiomatic.com
@@ -3671,6 +3691,7 @@ https://limboy.me
 https://limiaocloud.org
 https://line1.nowjiasu.com
 https://ling.0u0-cdn.link
+https://ling.school
 https://ling2.fnjs7.cc
 https://linger.cc
 https://lingering-lab-7b1b.jamph137.workers.dev
@@ -3830,6 +3851,7 @@ https://maxkb.cn
 https://mb.manbo8.site
 https://mbinary.xyz
 https://mc.jiedianxielou.workers.dev
+https://mci.ir
 https://mcp-skills.ai.antalpha.com
 https://mcp.dpenly.org
 https://mcs-mimp-web.sf-express.com
@@ -3920,6 +3942,7 @@ https://mojie.online
 https://mojie.store
 https://mojie0201.xn--8stx8olrwkucjq3b.com
 https://molunerfinn.com
+https://momoyu.app
 https://money.udn.com
 https://morerss.com
 https://mosquitto.org
@@ -4264,6 +4287,7 @@ https://pb.z9678.v6.army
 https://pb.zcr9.dedyn.io
 https://pbs.twimg.com
 https://pc.ctyun.cn
+https://pcq7y.no-mad-world.club
 https://pdda.me
 https://pdfcandy.com
 https://pdfcraft.devtoolcafe.com
@@ -4383,6 +4407,7 @@ https://proud-fire-1775.mahmmod2025.workers.dev
 https://proxies.bihai.cf
 https://proxy-manager-ggeu.onrender.com
 https://proxy.aries.ovh
+https://proxy.avgt.ink
 https://proxy.batiex.ink
 https://proxy.crazygeeky.com
 https://proxy.fldhhhhhh.top
@@ -4428,6 +4453,7 @@ https://pvn4hq.subxly.cfd
 https://pvn4hq.subxly.cfd:8443
 https://pvn4hq.xiaoliyusub.top:8443
 https://pvsmi.no-mad-sub.one
+https://pwac.gzi8998-ddns0721.eu
 https://pxQEH3U.subxly.cfd:8443
 https://pxkj.999g.xyz
 https://pxmd.co
@@ -4543,6 +4569,7 @@ https://rewards.bing.com
 https://reymit.ir
 https://rgergergergerg6555.saojc.xyz
 https://ridiqulous.com
+https://rifiv.no-mad-world.club
 https://rigengjiedian.one
 https://rimondl.ir
 https://rio.ggusers.com
@@ -5207,6 +5234,7 @@ https://sub1.all--green.com
 https://sub1.bbjc.xyz
 https://sub1.efshop.cc
 https://sub1.elkcloud.top
+https://sub1.gilloffroad.ir:2096
 https://sub1.haiqilai.lol
 https://sub1.huy.0.srl
 https://sub1.jade-brun.top
@@ -5305,6 +5333,7 @@ https://subs1001.apolloxi.art
 https://subscheck.isfree.pp.ua
 https://subscribe-1.newbee8.monster
 https://subscribe-3-emo.xxmad.com
+https://subscribe-xb.xiaobaivpn.cyou
 https://subscribe.681881.xyz
 https://subscribe.arapi.top
 https://subscribe.bityun.org
@@ -5529,6 +5558,7 @@ https://tn.zcr25.rr.nu
 https://tnetvpn.com
 https://tnetz.pro
 https://to2026.xyz
+https://token-plan-cn.xiaomimimo.com
 https://token604.us.kg
 https://tokenapi.fbcloud.lol
 https://too.st
@@ -6208,6 +6238,7 @@ https://www.googo.ml
 https://www.gstatic.com
 https://www.guanguans.cn
 https://www.guanxi.cloudns.be
+https://www.guru3d.com
 https://www.gyy.pw
 https://www.hadean.com
 https://www.haidaobot.xyz
@@ -6509,6 +6540,7 @@ https://www.spcloud.us
 https://www.speedtest.net
 https://www.speedtestmobile.de
 https://www.sqlite.org
+https://www.sse.com.cn
 https://www.ssrtool.com
 https://www.sstank.top
 https://www.star-history.com
@@ -6668,6 +6700,7 @@ https://www.yystv.cn
 https://www.yzhxr.vip
 https://www.z1z1.xyz
 https://www.zabbix.com
+https://www.zaobao.com.sg
 https://www.zdoc.app
 https://www.zentao.net
 https://www.zhangxinxu.com
@@ -6693,6 +6726,7 @@ https://www9.9th-subscription-from-chickenfarmer.top
 https://wwwa.qyshare.com:2083
 https://wwwjs.pro
 https://wwwk.qyshare.com:2083
+https://wwwww.12.kg
 https://wwwx.qyshare.com
 https://wwx.lanzout.com
 https://wwy.yyenh.cn
@@ -6887,6 +6921,7 @@ https://xxy.free.hr
 https://xycc24424.xskj.dedyn.io
 https://xysxwk250428.3344550.xyz
 https://xz.54264944.xyz
+https://xzjb8.no-mad-world.club
 https://y.kukeyun.cc
 https://y.yfkpay.com
 https://y1k.live
@@ -6951,6 +6986,7 @@ https://youxiu88.xiaofeixia.click
 https://youxiu9571.xiaofeixia.click
 https://youyoo.ccwink.cc
 https://ypso.cc
+https://yq8kx.no-mad-world.club
 https://yrnkumbg.catnetconfig.com
 https://yro.slashdot.org
 https://ysjc.us.kg
@@ -6979,6 +7015,7 @@ https://yyds.emovpn.top
 https://yyds.xueshan.shop
 https://yyhj.ae1autumn.dpdns.org
 https://yyzz.ink
+https://yz6on.no-mad-world.club
 https://z.7li7li.com
 https://z.7li7li.me
 https://z.ai
