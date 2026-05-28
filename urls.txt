@@ -871,6 +871,7 @@ https://20647ea7.ghelper.me
 https://20cfe2ef.ghelper.me
 https://218a63e2.ghelper.me
 https://22.lownet.xyz
+https://22cc.dbcloud.sbs
 https://231787.xyz
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz
 https://25054128.xyz
@@ -2775,6 +2776,7 @@ https://emacs-china.org
 https://emm-7zy.pages.dev
 https://emooo.ml
 https://emoooo.club
+https://en.bitcoin.it
 https://en.softonic.com
 https://en.yna.co.kr
 https://encrypted-tbn0.gstatic.com
@@ -2795,6 +2797,7 @@ https://erpnext-demo.frappe.cloud
 https://esimsetup.android.com
 https://et.seaspirit.dpdns.org
 https://etcd.io
+https://etoneya.su
 https://etproxypool.cf
 https://eu.umami.is
 https://evef8ow37e.execute-api.us-east-1.amazonaws.com
@@ -3102,6 +3105,7 @@ https://gitlab.gnome.org
 https://gitlab.icarephone.com
 https://gitlab.redox-os.org
 https://gitter.im
+https://gitverse.ru
 https://gkd.li
 https://gkd.sublink.cc
 https://glados.space
@@ -3658,6 +3662,7 @@ https://lansecs.top
 https://laodayun.com
 https://laogongshuo.com
 https://laosijicc.top
+https://laratranslate.com
 https://latiaocloud.net
 https://laverna.cc
 https://laxcity.pages.dev
@@ -4177,6 +4182,7 @@ https://obdo.cc
 https://obfusgated.com
 https://ocean.likelike.ip-ddns.com
 https://ocrmypdf.readthedocs.io
+https://octohide.com
 https://ocypod.readthedocs.io
 https://oddetall.no
 https://odysee.com
@@ -4226,6 +4232,7 @@ https://openit.daycat.space
 https://openit.littlesite.ml
 https://openit.ml
 https://openjdk.org
+https://openproxylist.com
 https://opensource.com
 https://opensource.org
 https://openui.fly.dev
@@ -5473,6 +5480,7 @@ https://tanz.dog
 https://tao.zz.ac
 https://taoshu.in
 https://taoyuanjiasu.com
+https://taplink.cc
 https://taskfile.dev
 https://tategaki.de
 https://tc.qy1357.top
@@ -6337,6 +6345,7 @@ https://www.kuaidog.xyz
 https://www.kuaidog008.top
 https://www.kuaidog010.top
 https://www.kuaigou.life
+https://www.kuaiyin002.com
 https://www.kymjs.com
 https://www.labno3.com
 https://www.landian.news
@@ -6478,6 +6487,7 @@ https://www.politico.com
 https://www.postgresql.org
 https://www.ppssqq.com
 https://www.privateinternetaccess.com
+https://www.prnewswire.com
 https://www.processon.com
 https://www.producthunt.com
 https://www.prop.cf
@@ -6494,6 +6504,7 @@ https://www.radix-ui.com
 https://www.rainbond.com
 https://www.ralfj.de
 https://www.raspberrypi.com
+https://www.raycast.com
 https://www.raygo.cc
 https://www.rbc.ru
 https://www.readme-i18n.com
@@ -6673,6 +6684,7 @@ https://www.xingjiabijichang.com
 https://www.xingsu.club
 https://www.xingsu.lol
 https://www.xingsu.shop
+https://www.xinhuanet.com
 https://www.xiyou666.xyz
 https://www.xmfsubscribe.com
 https://www.xmfvpn.com
