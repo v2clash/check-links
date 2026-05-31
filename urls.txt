@@ -414,6 +414,8 @@ http://qeshmyar.com
 http://qingmang.me
 http://qm.qq.com
 http://qws1002.serv00.net
+http://r3mrcg001286ek2.cybervena.com:50099
+http://r3mrcg00129437x.cybervena.com:50099
 http://rakuen.thec.me
 http://reader.youdao.com
 http://realnode.me
@@ -550,7 +552,11 @@ http://vegapit.com
 http://venus.hidencloud.com:25657
 http://vip.365cloud.me
 http://vip2.xxyjc.xyz
+http://vip3.myspacex.shop:20700
 http://vip3.myspacex.shop:80
+http://vip8.myspacex.shop:443
+http://vip9.myspacex.shop:443
+http://vip9.myspacex.shop:80
 http://vlife.cc
 http://vpn.gangko.cn
 http://vpn.gougouvpn.xyz:88
@@ -1919,6 +1925,7 @@ https://bulink.me
 https://bulink.xyz
 https://bulinkbulink.com
 https://bunnyspeedox.online
+https://businesshub.avast.com
 https://butppo.473221.xyz
 https://butterfly-dag.gitee.io
 https://buymeacoffee.com
@@ -3113,6 +3120,7 @@ https://getmalus.com
 https://getnode.dksb.store
 https://getomni.ai
 https://getstream.io
+https://geturl-wchbenralk.cn-beijing.fcapp.run
 https://gfagdefrgf.436143.xyz
 https://gfdlaw9.xiaoliyu.xyz:8443
 https://gfwairport.icu
@@ -3362,6 +3370,7 @@ https://hyliu.me
 https://hyui.apocalypse.cc.cd
 https://hyvps.hytron.io
 https://hz.dport.top
+https://hzyy.lanzoux.com
 https://i.delta.chat
 https://i.ifeng.com
 https://i.passcloud.xyz
@@ -5735,6 +5744,7 @@ https://ui.honeycomb.io
 https://ui.shadcn.com
 https://ui.toast.com
 https://uijduvfglbmnuqwefvg.ifxfg.cn
+https://uk.finance.yahoo.com
 https://ume.la
 https://uneasy.win
 https://unfiltered.adguard-dns.com
@@ -5853,6 +5863,7 @@ https://v2rayshare.com
 https://v2s.ip-ddns.com
 https://v2y.xyz
 https://v3.ganglink.sbs
+https://v4e51426181d1e514.yunding.lat
 https://v7.zcr25.dedyn.io
 https://v7ssyhub.top
 https://vapp.linkedton.com
@@ -6142,6 +6153,7 @@ https://www.applnn.com
 https://www.artificial-intelligence.blog
 https://www.asriran.com
 https://www.audacityteam.org
+https://www.avast.com
 https://www.awa520.cloud
 https://www.awesomemacapp.com
 https://www.awsl.business
@@ -6287,6 +6299,7 @@ https://www.eventbrite.com
 https://www.evernote.com
 https://www.exalead.com
 https://www.expressvpn.works
+https://www.f-secure.com
 https://www.f2ray.com
 https://www.farsroid.com
 https://www.fastea.top
