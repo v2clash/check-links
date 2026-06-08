@@ -427,6 +427,7 @@ http://proxypool.turinglabs.net
 http://putao.i2345.me
 http://putao.i2345.org
 http://py.kjol.cc
+http://python.org
 http://qe83xk711.sabkt.gdipper.com
 http://qeshmyar.com
 http://qingmang.me
@@ -3457,6 +3458,7 @@ https://httpbin.org
 https://httpie.io
 https://htvviru.top
 https://huahe.link
+https://huaikhwang.central-world.org
 https://huanyuyunvip.com
 https://huasuan666.top
 https://huawei.xhjvpn.cn
@@ -3632,6 +3634,7 @@ https://j.seaspirit.dpdns.org
 https://j.sub12345.org
 https://j20-cloud.com
 https://j2s.buzz
+https://jadeai.cturing.cn
 https://jahannews.com
 https://jamesdaily.life
 https://japidocs.agilestudio.cn
@@ -3847,6 +3850,7 @@ https://lansecs.oxdtangx.top
 https://lansecs.top
 https://laodayun.com
 https://laogongshuo.com
+https://laosdjqowd.naigai.me
 https://laosijicc.top
 https://laratranslate.com
 https://latiaocloud.net
@@ -4339,6 +4343,7 @@ https://nkpvpn.site
 https://nmfan1.com
 https://nmsubs.com
 https://nn0310.xn--8stx8olrwkucjq3b.com
+https://nn8qozmu.nn8qozmu.top
 https://nnmjk.wc0.ccwu.cc
 https://nnn3ro.link
 https://nnnnnmj.huangshang.site
@@ -5005,6 +5010,7 @@ https://seed4.me
 https://seekingalpha.com
 https://seele.stadynode.online
 https://sematec-co.com
+https://seminar.mobilensm.ir
 https://semver.org
 https://senders.yahooinc.com
 https://sendi.ir
@@ -5703,8 +5709,10 @@ https://svip.365cloud.me
 https://svip.dovenweb.com
 https://svip.xy666.ggff.net
 https://svip8.cn
+https://svn.redmine.org
 https://svn.xn--gmqaaaaaaaa.com
 https://swanhub.co
+https://swiftnet.wiki
 https://syjccloud.com
 https://synthesize.rs
 https://syragpt.ir
@@ -6083,6 +6091,7 @@ https://vips.lol
 https://vipurl.giize.com
 https://virtserver.swaggerhub.com
 https://visitor-badge.laobi.icu
+https://vistar.lat
 https://vite.itnavs.com
 https://vivaldi.com
 https://vk.c08.rr.nu
@@ -6255,6 +6264,7 @@ https://wjkc123.com
 https://wjkc66.vip
 https://wk-auto-update-3e7.pages.dev
 https://wk.baodaoji.com
+https://wly312.buzz
 https://wm01dy.wmyun.men
 https://wocao.su7.me
 https://woeprgivbh.packios.com
@@ -6466,6 +6476,7 @@ https://www.dgtle.com
 https://www.dgycom.com
 https://www.diatec.co.jp
 https://www.digitalocean.com
+https://www.digitimes.com
 https://www.diva.so
 https://www.dji.com
 https://www.djjc.cfd
@@ -6535,6 +6546,7 @@ https://www.forrestthewoods.com
 https://www.foxnews.com
 https://www.franxx.cloud
 https://www.freebuf.com
+https://www.freecadweb.org
 https://www.freeclashnode.com
 https://www.freeflyingcloud.xyz
 https://www.freefq.com
@@ -6841,6 +6853,7 @@ https://www.radix-ui.com
 https://www.rainbond.com
 https://www.ralfj.de
 https://www.raspberrypi.com
+https://www.raspberrypi.org
 https://www.raycast.com
 https://www.raygo.cc
 https://www.rbc.ru
