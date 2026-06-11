@@ -197,6 +197,7 @@ http://docs.kubecost.com
 http://docs.mongodb.org
 http://docs.openstack.org
 http://download.oracle.com
+http://download.riferoser.icu:56594
 http://duoshuo.com
 http://dy.2983839.xyz
 http://dy.changyouVPN.top
@@ -565,6 +566,7 @@ http://uicss.cn
 http://ukr.snaptext.shop
 http://unhandledexpression.com
 http://universaldependencies.org
+http://updates.jenkins-ci.org
 http://uploaded.ir
 http://user.dafeiji.one
 http://user.tsunaminet.cc
@@ -1859,6 +1861,7 @@ https://bigbus.me
 https://bigproxies.herokuapp.com
 https://bihai.cf
 https://bil8.wjz2cdz3wr.workers.dev
+https://billing.stripe.com
 https://bin.mudfish.net
 https://bing.com
 https://bird.1024.one
@@ -2016,6 +2019,7 @@ https://bunnyspeedox.online
 https://businesshub.avast.com
 https://butppo.473221.xyz
 https://butterfly-dag.gitee.io
+https://buy.stripe.com
 https://buymeacoffee.com
 https://bvzlp5yfwo0g6jplac5ko4yw97srx0of.guybat-e-s-750-4-6.workers.dev
 https://bwh81.net
@@ -2336,6 +2340,7 @@ https://coronavirus.jhu.edu
 https://cors.buildtest.site
 https://coscup.org
 https://count.getloli.com
+https://counterpointresearch.com
 https://cozhli177055.pages.dev
 https://cp.cloudflare.com
 https://cp.nb6.qzz.io
@@ -2527,6 +2532,7 @@ https://developer.mozilla.org
 https://developer.okta.com
 https://developer.themoviedb.org
 https://developers.bitgo-dev.com
+https://developers.cloudflare.com
 https://developers.openai.com
 https://developers.redhat.com
 https://developers.sap.com
@@ -2723,6 +2729,7 @@ https://docs.taro.zone
 https://docs.termix.site
 https://docs.turso.tech
 https://docs.volta.sh
+https://docs.x.ai
 https://docsify.js.org
 https://docusaurus.io
 https://doh--oneplus.doh.pub
@@ -2961,6 +2968,7 @@ https://epg.v1.mk
 https://epoch.ai
 https://erciyun.net
 https://erfanzadeh.ir
+https://ernestryu.com
 https://erp.lframework.com
 https://erpnext-demo.frappe.cloud
 https://eseminar.tv
@@ -3071,6 +3079,7 @@ https://feel.xylive.cc
 https://feichanghaotlszuduanshiwodeyumingxuanzhuan.esucloud.com
 https://feijige.rujiao.icu
 https://feima.xn--fiqr3f3yq87hgq1c.com
+https://feiniaoyun.life
 https://feiniaoyun.org
 https://feiniaoyun.top
 https://feiniaoyun.xyz
@@ -3305,6 +3314,7 @@ https://go.hhyun.in
 https://go.qianglie.cc
 https://go.yueyun.de
 https://gods.coding.net
+https://gogs.io
 https://goii.cc
 https://gokrazy.org
 https://golang.design
@@ -3374,6 +3384,7 @@ https://hackage.haskell.org
 https://hacker-podcast.agi.li
 https://hackerone.com
 https://hacks.mozilla.org
+https://hacs.xyz
 https://haibucuo.xyz
 https://hailangya.com
 https://haitunfree.luodaifan.top
@@ -3634,6 +3645,7 @@ https://ipw.cn
 https://iqiaqia.xyz
 https://ir.amd.com
 https://ir.bbb-subbb.ir
+https://ir.logitech.com
 https://iranbax.net
 https://irancell.ir
 https://iranopasmigirim.com
@@ -3886,6 +3898,7 @@ https://laxcity.pages.dev
 https://layoutit.com
 https://lbank.com
 https://lbxjc.online
+https://ld.i365.tech
 https://ld246.com
 https://ldgb.pages.dev
 https://ldld.whtjdasha.com
@@ -3970,6 +3983,7 @@ https://live.fanmingming.cn
 https://live.fanmingming.com
 https://live.kankanews.com
 https://live.yang-1989.eu.org
+https://live12.arvanlive.ir
 https://livid.v2ex.com
 https://liying-sub.buzz
 https://lizhi.shop
@@ -4571,6 +4585,7 @@ https://people.centos.org
 https://people.debian.org
 https://people.gnome.org
 https://persepolis.getty.edu
+https://persianasports.com
 https://personal.dtcpay.com
 https://petstore.swagger.io
 https://pf.apz3xggbio.workers.dev
@@ -4802,6 +4817,7 @@ https://rakuen.thec.me
 https://ran.do
 https://ran.ranhaha.zdjzhejshsxintaid.kuaivpn.app
 https://ranchero.com
+https://ransa.niubiliuliuliuwocao.a.kuaivpn.app
 https://raoku-pm.hf.space
 https://raphting.dev
 https://rarbg.to
@@ -4878,6 +4894,7 @@ https://rockvpn.4bmg9.online
 https://rook.io
 https://ropayi2026.ir
 https://rostam.app
+https://roxiestreams.su
 https://roxijet.cloud
 https://royal-tooth-f6f2.jamph131411.workers.dev
 https://rrrrrrrrrrrghhh.857657.xyz
@@ -5091,6 +5108,7 @@ https://shimo.im
 https://shiyuanyinian.passwallwall.world
 https://shop-piqiu.makadns.com
 https://shop.banyunxiaoxi.icu
+https://shop.mci.ir
 https://shop.tg10000.com
 https://shop.wwkejishe.top
 https://shop.xiaolongyun.buzz
@@ -5122,6 +5140,7 @@ https://sky.rethinkdns.com
 https://skymail.ink
 https://skywalking.apache.org
 https://skywind.me
+https://slack.com
 https://slarker.me
 https://slashdot.org
 https://slimy-janine-lirtpass-0136632c.koyeb.app
@@ -5142,6 +5161,7 @@ https://sni.111000.dynv6.net
 https://snowy.xiaonuo.vip
 https://snyk.io
 https://social-dog.net
+https://social.treehouse.systems
 https://socialify.git.ci
 https://sockboom.me
 https://sodacloud.pw
@@ -5244,6 +5264,7 @@ https://store.epicgames.com
 https://store.kakocloud.pro
 https://store.lizhi.io
 https://store.steampowered.com
+https://streamcorner.fyi
 https://streams.canonical.com
 https://stripe.com
 https://strongvpn.com
@@ -5263,6 +5284,7 @@ https://sub-01.767564.xyz
 https://sub-1.rsjc.xyz
 https://sub-1.smjcdh.top
 https://sub-9pu.pages.dev
+https://sub-all-service.shop
 https://sub-apcra7g8b9andpfv.z01.azurefd.net
 https://sub-api.seeu-u.com
 https://sub-bgp1.jsmao.cloud:9008
@@ -5465,6 +5487,7 @@ https://sub.subnebula.live
 https://sub.subscribe-needay.xyz
 https://sub.subxxxxxxxxxxxxxxxxxxxxxxx.xyz
 https://sub.superidolsmile.top
+https://sub.surfcloud.ink
 https://sub.taco.homes
 https://sub.tagsub.net
 https://sub.tangping.cloud
@@ -5906,6 +5929,7 @@ https://topiam.cn
 https://topsex.cc
 https://torna.cn
 https://toshare.tosslk.xyz
+https://totalsportek.tips
 https://toting.top
 https://towardsai.net
 https://toysforyou.top
@@ -6299,6 +6323,7 @@ https://wiki.polkadot.network
 https://wiki.qemu.org
 https://wiki.repcz.link
 https://wiki.strongswan.org
+https://wiki.ubuntu.com
 https://wiki.videolan.org
 https://win2.h5e8s7tcqe.workers.dev
 https://win263.top
@@ -6679,6 +6704,7 @@ https://www.inoreader.com
 https://www.inspektor-gadget.io
 https://www.instagram.com
 https://www.invenglobal.com
+https://www.iptvsmarters.com
 https://www.iranintl.com
 https://www.irannsr.org
 https://www.isc.org
@@ -6872,6 +6898,7 @@ https://www.paofusub.com
 https://www.paofusub2.com
 https://www.paopao.info
 https://www.paopaoyunyi.top
+https://www.parallels.com
 https://www.patreon.com
 https://www.pcgamer.com
 https://www.pddc.me
@@ -7029,6 +7056,7 @@ https://www.twitch.tv
 https://www.u9bbbb.com
 https://www.uber.com
 https://www.udacity.com
+https://www.udemy.com
 https://www.uisdc.com
 https://www.uniprot.org
 https://www.uoyun.com
@@ -7425,6 +7453,7 @@ https://your-domain.com
 https://your-domain.workers.dev
 https://your-oidc.issuer.com
 https://your-provider.com
+https://your-proxy.com
 https://your-server.com
 https://your-worker.workers.dev
 https://yourco.webhook.office.com
@@ -7451,6 +7480,7 @@ https://yuanbao.yuanbaojc.store
 https://yuguo.us
 https://yuhaokun.xyz
 https://yume.cyou
+https://yummyx.org
 https://yun.xiaoyao01.com
 https://yunjijd.xyz
 https://yunmianshi.com.cn
@@ -7513,6 +7543,7 @@ https://zhuhai.uk
 https://zhuiyun.shop
 https://zhuzhu12.xyz
 https://zhuzhuzhu.whtjdasha.com
+https://zicaiy.cc
 https://zingfast.vn
 https://zipoapps.com
 https://zjby.wxgqlfx.fun
