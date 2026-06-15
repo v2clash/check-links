@@ -200,6 +200,7 @@ http://docs.openstack.org
 http://download.oracle.com
 http://download.riferoser.icu:56594
 http://duoshuo.com
+http://durbinlive.org
 http://dy.2983839.xyz
 http://dy.changyouVPN.top
 http://dy.changyouvpn.top
@@ -1150,6 +1151,7 @@ https://789.st
 https://78fb170a-8f5c-46e9-991c-2b12fe04c1d1.xn--mes358a.art
 https://78fbbb3c.ghelper.me
 https://79406c9b.ghelper.me
+https://794132.xueshanlink.com
 https://7ad1645c.ghelper.me
 https://7b7d6d73.ghelper.me
 https://7cd49968.nmsubs.com
@@ -1449,6 +1451,7 @@ https://aotu.io
 https://ap.niaodi.top
 https://ap.niubi.site
 https://api-bigbear-v2-sub.sodtool.com
+https://api-docs.aevo.xyz
 https://api-docs.deepseek.com
 https://api-docs.honeycomb.io
 https://api-goodtek.loliloli.live
@@ -2476,6 +2479,7 @@ https://dbjc.xyz
 https://dbxio.com
 https://dc.arsalandalvand.ir
 https://dc289a58.ghelper.me
+https://dcapi.gbox.top
 https://dcf28d31.jego.vip
 https://dd.al
 https://dd.csjc.win
@@ -3287,6 +3291,7 @@ https://gfagdefrgf.436143.xyz
 https://gfdlaw9.xiaoliyu.xyz:8443
 https://gfwairport.icu
 https://gfwglass.tk
+https://gfyweuuchsa.shop
 https://gg2.hneko.buzz
 https://gggh.huangshang.online
 https://ggghj.www890604.dpdns.org
@@ -3570,6 +3575,7 @@ https://i4.fit
 https://iBrRN.subxly.cfd:8443
 https://iGap.net
 https://iao.su
+https://ibale.org
 https://ibb.co
 https://iconsiam.terminal69.win
 https://id.discourse.com
@@ -4715,6 +4721,7 @@ https://preview.smartadmin.vip
 https://preview.szadmin.cn
 https://pris.ly
 https://prismreports.org
+https://privacy.claude.com
 https://privacy.openai.com
 https://pro-api.coingecko.com
 https://pro.76898102.xyz
@@ -4992,6 +4999,7 @@ https://runapi.net
 https://runbooks.prometheus-operator.dev
 https://runlian.cc
 https://runner-cortex-tenant.beta.runwhen.com
+https://rushlmo.org
 https://rust.cc
 https://rustinblockchain.org
 https://rvorch.treze.cc
@@ -5918,6 +5926,7 @@ https://the.exa.website
 https://theasc.com
 https://thehackernews.com
 https://themeisle.com
+https://thenewstack.io
 https://thenextweb.com
 https://theoldreader.com
 https://theoriginals.io
@@ -6176,6 +6185,7 @@ https://v4.dogapi.yachts
 https://v4e51426181d1e514.yunding.lat
 https://v7.zcr25.dedyn.io
 https://v7ssyhub.top
+https://vanced.to
 https://vapp.linkedton.com
 https://vase.bengalj.com
 https://vben.vvbin.cn
@@ -6412,6 +6422,7 @@ https://wuyouyun.shop
 https://wvw.guanxi.cloudns.be
 https://ww1.mfssr.xyz
 https://wwbbd.lanzouw.com
+https://wwbpv.lanzouu.com
 https://wwe.lanzoui.com
 https://wwe.trx1.cyou
 https://wwi.lanzoui.com
@@ -6531,6 +6542,7 @@ https://www.bytesizego.com
 https://www.c-span.org
 https://www.c6nw0s.vip:6001
 https://www.caixin.com
+https://www.callofduty.com
 https://www.carpetpacific.com
 https://www.catssr.host
 https://www.catssr.one
@@ -7104,6 +7116,7 @@ https://www.tomatov2.buzz
 https://www.tomshardware.com
 https://www.toodaylab.com
 https://www.toolhelper.cn
+https://www.topcashback.com
 https://www.topcashback.de
 https://www.torlock.com
 https://www.torproject.org
@@ -7373,6 +7386,7 @@ https://xn--9kqx21a0sv.com
 https://xn--9kqz23b19z.com
 https://xn--9krt36k.com
 https://xn--bnq37rc0nw50b.com
+https://xn--ciq7ko0lg8x.com
 https://xn--cp3a08l.com
 https://xn--dlqs4sc0nope.online
 https://xn--dlyx70g.xn--4gqs5ymhk43c.eu.org
