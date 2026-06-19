@@ -303,6 +303,7 @@ http://ipv6-test.ch
 http://ir.bbb-subbb.ir:2095
 http://ir.npvnot.com:10116
 http://ir.npvnot.com:10122
+http://ir.npvnot.com:11131
 http://isna.ir
 http://it5.taskflowhub.org:2083
 http://j2s.buzz
@@ -823,6 +824,7 @@ http://ywl.201593.xyz
 http://yy-cmi.mozhiti.top
 http://yzxxy.top
 http://yzxxy.top:7001
+http://zdsjcrmhlcnfs.shop
 http://zemzeme.app
 http://zespia.tw
 http://zh.d2l.ai
@@ -865,6 +867,7 @@ https://1.bethebest.eu.org
 https://1.juanwangjc.top
 https://1.mjjclub.top
 https://1.my52.my
+https://1.ovofast.xyz
 https://1.xn--xc3ao8r.top
 https://1.zlwl.org
 https://1000userguide.com
@@ -1338,6 +1341,7 @@ https://adg.zcr6.ggff.net
 https://adguard-dns.io
 https://adguard-vpn.com
 https://adguard.com
+https://adm.unicoridor.ru
 https://admin-tmpl-test.rencaiyoujia.cn
 https://admin.apigyuyjioh.xyz
 https://admin.nezha.su
@@ -1992,6 +1996,7 @@ https://board.queqiao.online
 https://boats.gitlab.io
 https://bobapp.nfspeed01.com
 https://bobapp.xuebifast.com
+https://bold-hall-23be.dnw-vip-amir-1.workers.dev
 https://book.douban.com
 https://book.hostnow.top
 https://bookfere.com
@@ -2118,6 +2123,7 @@ https://cchh2.pages.dev
 https://ccymq.no-mad-sub.one
 https://cd2662bd.jego.vip
 https://cdc.smslease.link
+https://cdn-34.triplebit.dev
 https://cdn-35.triplebit.dev
 https://cdn-39.triplebit.dev
 https://cdn-web-api.moeu.top
@@ -3591,6 +3597,7 @@ https://i.passcloud.xyz
 https://i.tjvpn.top
 https://i.ytimg.com
 https://i03.1ytaff.com
+https://i2y2o9h1.y1x4o2j4.t5m8k8m1.fun.shop.com.kuaivpn.app
 https://i3wm.org
 https://i4.fit
 https://iBrRN.subxly.cfd:8443
@@ -4494,6 +4501,7 @@ https://notegen.top
 https://notifications.ashevillenc.gov
 https://notls.11111111.eu.org
 https://notls.lukongtou.eu.org
+https://novaproxy.online
 https://novc.f6net.net
 https://now-pages-sub-em4.pages.dev
 https://nowpayments.io
@@ -4695,6 +4703,7 @@ https://platform.adobe.io
 https://platform.claude.com
 https://platform.deepseek.com
 https://platform.djjc.cfd
+https://platform.openai.com
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
 https://play.rust-lang.org
@@ -4710,6 +4719,7 @@ https://podba.se
 https://podcast.kkbox.com
 https://podfestchina.com
 https://podshows.fr
+https://poeifyydsgh.shop
 https://pointernull.com
 https://pokelink.xn--4gsvmh74cwxi.cn
 https://poleurl.dy.wfcsy.com
@@ -7003,6 +7013,7 @@ https://www.okanc.net
 https://www.ollama.com
 https://www.omm556.xyz
 https://www.onamae.com
+https://www.online-collage-maker.com
 https://www.onlinedoctranslator.com
 https://www.openim.io
 https://www.openssl.org
@@ -7018,6 +7029,7 @@ https://www.paofusub.com
 https://www.paofusub2.com
 https://www.paopao.info
 https://www.paopaoyunyi.top
+https://www.paperbunny.asia
 https://www.parallels.com
 https://www.patreon.com
 https://www.pcgamer.com
@@ -7100,6 +7112,7 @@ https://www.scmp.com
 https://www.sec-wiki.com
 https://www.sec.gov
 https://www.servicemesher.com
+https://www.servicenow.com
 https://www.sharetribe.com
 https://www.sharghdaily.com
 https://www.sharpgan.com
@@ -7158,6 +7171,7 @@ https://www.theinformation.com
 https://www.thelec.net
 https://www.thepaper.cn
 https://www.theverge.com
+https://www.thiings.co
 https://www.tianxianbaby.com
 https://www.tintup.com
 https://www.tiny.cloud
@@ -7320,6 +7334,7 @@ https://www.zoomon.ir
 https://www.ztcloud.xyz
 https://www.zuodianme.uk
 https://www16.bigairport-eleventh-sub.top
+https://www2.bigairport-eleventh-sub.com
 https://www2.shouldiblockads.com
 https://www5.bigairport-thirteenth-sub.com
 https://www6.1st-subscription-from-chickenfarmer.top
@@ -7586,6 +7601,7 @@ https://your-airport-2.com
 https://your-domain.com
 https://your-domain.workers.dev
 https://your-oidc.issuer.com
+https://your-org.zulipchat.com
 https://your-provider.com
 https://your-proxy.com
 https://your-server.com
@@ -7698,6 +7714,7 @@ https://zouma.guanhua.xyz
 https://zoziapps.ch
 https://zqjc.org
 https://zu1k.com
+https://zulip.com
 https://zuul.openstack.org
 https://zww.me
 https://zxx.im
