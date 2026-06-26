@@ -1253,6 +1253,7 @@ https://DNS.SHECAN.ir
 https://Doh1.B-Cdn.net
 https://FAO9itw.nicecloud.win:8443
 https://GYKXQd.nicecloud.win:8443
+https://HOSTNAME.DOMAINNAME:8443
 https://Instagram.com
 https://JpjfL54G.subxly.cfd:8443
 https://N2VOlP.mcsslk.xyz
@@ -1346,6 +1347,7 @@ https://ad1b0156.ghelper.me
 https://ad62e717.ghelper.me
 https://adblock.doh.mullvad.net
 https://adblockultimate.net
+https://adclick.one
 https://addons.mozilla.org
 https://adg.b01.dns-dynamic.net
 https://adg.z9678.rr.nu
@@ -1509,8 +1511,10 @@ https://api.apihs.cfd
 https://api.asailor.org
 https://api.bigme.online:8211
 https://api.biqibao.site
+https://api.bluesminds.com
 https://api.bppp.shop
 https://api.branch.io
+https://api.cloudflare.com
 https://api.cloudindex.ai
 https://api.day.app
 https://api.dingyueapi.win
@@ -1544,6 +1548,7 @@ https://api.ikuuu.science
 https://api.immtel.co
 https://api.immtel.me
 https://api.ipify.org
+https://api.jiux001.cc
 https://api.jsm.one
 https://api.krill-ai.com
 https://api.ktcat.online
@@ -1895,6 +1900,7 @@ https://beta.dev01.devland.is
 https://betamagic.nl
 https://bf4ede2b.cf-workers-sub-69z.pages.dev
 https://bglyquhwuqaz.us-west-1.clawcloudrun.com
+https://bgpview.io
 https://bh.jiedianxielou.workers.dev
 https://bia2.ezaivl5hwf.workers.dev
 https://biaupload.net
@@ -2555,6 +2561,7 @@ https://ddys.yunjisuan.gq
 https://deamnetd.3seed.ru:8888
 https://deb.nodesource.com
 https://debe9623.ghelper.me
+https://decrypt.co
 https://deepfakevfx.com
 https://deepimg.io
 https://deepwiki.com
@@ -2669,6 +2676,7 @@ https://dl.filefabot.ir
 https://dl.flyingbird.vip
 https://dl.k8s.io
 https://dl.owokkvsxks.store
+https://dl.p6p.net
 https://dl.toolschi.com
 https://dl.vfkum.website
 https://dl1.androidcloob.com
@@ -2966,6 +2974,7 @@ https://dywebozmbm.1145145.com
 https://dyydjfhkfg.dmyeyedm.com
 https://dyzh.zhangyucheng0720.workers.dev
 https://dyzk.020318.xyz
+https://dz.qqqqqq.tk
 https://dzpd.jiedianxielou.workers.dev
 https://e.coding.net
 https://e.dlife.cn
@@ -2996,6 +3005,7 @@ https://easylink.space
 https://easylist-downloads.adblockplus.org
 https://ebe396da.ghelper.me
 https://ebike-test.s3.dualstack.ap-southeast-1.amazonaws.com
+https://ec.europa.eu
 https://ec.ltn.com.tw
 https://ec5smonchl973s.wca1rs59sefb1kl655b0.online
 https://eck8.miemie.uk
@@ -4373,6 +4383,7 @@ https://musicfe.dev
 https://musicfreepluginshub.2020818.xyz
 https://musics-fa.com
 https://mxlsub.me
+https://mxtoolbox.com
 https://my.335570.xyz
 https://my.JamfPro:8443
 https://my.auth.server
@@ -4485,6 +4496,7 @@ https://newdee.cf
 https://newhua99.com
 https://newrss.starlinkclash.ggff.net
 https://newrustacean.com
+https://news.adobe.com
 https://news.layervault.com
 https://news.mindynode.com
 https://news.now.com
@@ -4496,6 +4508,7 @@ https://news.ycombinator.com
 https://newshacker.me
 https://newsify.co
 https://newsroom.arm.com
+https://newsroom.ibm.com
 https://newsroom.pinterest.com
 https://newsroom.snap.com
 https://newsubscribe.hlasw.com
@@ -5291,6 +5304,7 @@ https://skr.daozhang.site
 https://skr8oblwwy.chinat.eu.org
 https://skrspc.com
 https://sky.rethinkdns.com
+https://sky.shuna.duab.kioalc.cn.fun.efgo.my
 https://skymail.ink
 https://skywalking.apache.org
 https://skywind.me
@@ -5402,6 +5416,7 @@ https://starlinkcloud.xyz
 https://starsail.cloud
 https://startmy.cc
 https://startupsventurecapital.com
+https://stat.ripe.net
 https://static.rust-lang.org
 https://station.tuotuoyun.vip
 https://station26-cnbr512.ac2026.live
@@ -6199,6 +6214,7 @@ https://update.dotusub.xyz
 https://update.glados-config.com
 https://update.glados-config.org
 https://updates.push.services.mozilla.com
+https://upee.substack.com
 https://upld.zone.id
 https://uploadb.com
 https://uploadb.me
@@ -6680,6 +6696,7 @@ https://www.cberner.com
 https://www.ccsub.online
 https://www.ccsub.org
 https://www.cctalk.com
+https://www.ceipa.net
 https://www.cfmem.com
 https://www.chainnode.com
 https://www.changhai.org
@@ -7083,6 +7100,7 @@ https://www.nushell.sh
 https://www.nutsfind.com
 https://www.nvidia.com
 https://www.nytimes.com
+https://www.oiioii.ai
 https://www.okanc.net
 https://www.ollama.com
 https://www.omm556.xyz
@@ -7337,6 +7355,7 @@ https://www.wogwog.top
 https://www.woniucloud.cyou
 https://www.worthe-it.co.za
 https://www.woshipm.com
+https://www.woyaofu.com
 https://www.wpdaxue.com
 https://www.wsj.com
 https://www.wyr.me
@@ -7764,6 +7783,7 @@ https://zero.76898102.xyz
 https://zero.marisalnc.com
 https://zeroyyds.cc
 https://zestlink.com
+https://zeus-panel-nz0ntm.zeus-rnoyhb.workers.dev
 https://zfjvpn.gitbook.io
 https://zh-hans.micro361.org
 https://zh.momobaby.org
