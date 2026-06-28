@@ -293,6 +293,7 @@ http://huggingface.co
 http://hukai.me
 http://hypercritical.co
 http://i.sqeven.me
+http://iajnzfwzca.shop
 http://iamsujie.com
 http://ibcl.us
 http://ice77.top
@@ -511,6 +512,7 @@ http://soft.clang.cn
 http://soft.vpser.net
 http://somewhere.com
 http://source.scripting.com
+http://speedtest.net
 http://ss.pythonic.life
 http://ssrdingyue.ueuo.com
 http://stackoverflow.com
@@ -1081,6 +1083,7 @@ https://5587c578.ghelper.me
 https://56.77vy.xyz
 https://562dd2da-d6a6-49ca-8ec2-f65fbb4b2e2c.xn--l6qx3lcvp58x.com
 https://562f.ffcjiiyrt.cc
+https://5689.qub.qzz.io
 https://569a4b92.ghelper.me
 https://569cdn.1010520.click
 https://57.77vy.xyz
@@ -2177,6 +2180,7 @@ https://cdn.maxo.top
 https://cdn.nlark.com
 https://cdn.nodeimage.com
 https://cdn.rei.my.id
+https://cdn.seyhello.sbs:2096
 https://cdn.statically.io
 https://cdn.t9c.co
 https://cdn.teaartcloud.com
@@ -2231,6 +2235,7 @@ https://chaoxn.top
 https://chaozhijc.xyz
 https://charts.bitnami.com
 https://chat.mistral.ai
+https://chat.openai.com
 https://chat.tawana.online
 https://chat.whatsapp.com
 https://chat2db.opensource.alibaba.com
@@ -3602,6 +3607,7 @@ https://hs.huasuan666.top
 https://hsdgbuys.pages.dev
 https://hsivonen.fi
 https://hssl8088.icu
+https://hsy.zcamaf.com
 https://ht.shunc.xyz
 https://htcmi-20240805.mozhiti.top
 https://htdy02.mozhiti.top
@@ -4406,6 +4412,7 @@ https://my.nekocloud.top
 https://my.pathx.me
 https://my.racknerd.com
 https://my.uupload.ir
+https://my.veilora.net
 https://my.vpnnederland.nl
 https://my.xn--9kqv25eu2o.com
 https://my.zone.id
@@ -5320,6 +5327,7 @@ https://slashdot.org
 https://slimy-janine-lirtpass-0136632c.koyeb.app
 https://slsub.dingyuedizhi.xyz
 https://sm2.doh.pub
+https://smailpro.com
 https://smallairport-first-sub.top
 https://smallairport.icu
 https://smartadmin.vip
@@ -6352,6 +6360,7 @@ https://vifast.net
 https://vikunja.io
 https://viloh.xyz
 https://vincode.io
+https://vip-03.fl-sub.site:2096
 https://vip.365cloud.me
 https://vip.kernel-mirrors.org
 https://vip.putata.eu.org
@@ -6926,6 +6935,7 @@ https://www.inkandswitch.com
 https://www.inoreader.com
 https://www.inspektor-gadget.io
 https://www.instagram.com
+https://www.interactivebrokers.com
 https://www.invenglobal.com
 https://www.ioslnn.com
 https://www.iptvsmarters.com
