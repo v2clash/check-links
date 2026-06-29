@@ -138,6 +138,7 @@ http://cloudupup.com
 http://club.i50dh.net
 http://clustrmaps.com
 http://cmall.magestack.cn
+http://cn.nikkei.com
 http://cocoacake.net
 http://code.claude.com
 http://concisecoder.io
@@ -160,6 +161,7 @@ http://d.har01d.cn
 http://d.xyss.xyz
 http://d.zaix.ru
 http://d01.flexynode.com:25890
+http://d222.d222.xyz
 http://dad.xiaobaivpn.cyou
 http://dannpu.com
 http://daramet.com
@@ -392,6 +394,7 @@ http://my.kubecost.url
 http://my.uupload.ir
 http://myapp.chentiansaber.top
 http://mycompany.com
+http://myrpkfugqclgwc.shop
 http://mzhou.me
 http://n.huasenjio.top
 http://n15uvht4r659107p.eastasia.cloudapp.azure.com
@@ -1330,6 +1333,7 @@ https://ably.com
 https://abmedia.io
 https://about.fb.com
 https://about.instagram.com
+https://abr.mohammadreza.top:2096
 https://abrehamrahi.ir
 https://abxy.odrevo.xyz
 https://abyssvpn.com
@@ -3227,6 +3231,7 @@ https://fk.wangdu.site
 https://fk.wwkjs.top
 https://fku-ppg.co.uk
 https://flabrance.tech
+https://flare089.sunyi.io
 https://flashcat.cloud
 https://flathub.org
 https://flingtrainer.com
@@ -3407,6 +3412,7 @@ https://gitlab.com
 https://gitlab.gnome.org
 https://gitlab.icarephone.com
 https://gitlab.redox-os.org
+https://gitlab.torproject.org
 https://gitter.im
 https://gitverse.ru
 https://gkd.li
@@ -4509,6 +4515,7 @@ https://newhua99.com
 https://newrss.starlinkclash.ggff.net
 https://newrustacean.com
 https://news.adobe.com
+https://news.bjd.com.cn
 https://news.layervault.com
 https://news.mindynode.com
 https://news.now.com
@@ -4629,6 +4636,7 @@ https://one.one.one.one
 https://oneclash.cc
 https://onedock.i3m.upv.es:11443
 https://onefall.top
+https://onejailbreak.com
 https://onelighter.site
 https://online.jobtool.cn
 https://onlines7.top
@@ -4870,6 +4878,7 @@ https://protonvpn.com
 https://proud-fire-1775.mahmmod2025.workers.dev
 https://proxies.bihai.cf
 https://proxy-manager-ggeu.onrender.com
+https://proxy.api.030101.xyz
 https://proxy.aries.ovh
 https://proxy.avgt.ink
 https://proxy.batiex.ink
@@ -4968,6 +4977,7 @@ https://qqqqqqqqqqqqqqqqqqqq.n3el78lqhbc5yhb2.xyz
 https://qqwljs.cc
 https://qqww.yunjijd.xyz
 https://qr.alipay.com
+https://qriowkpqhgxjnapxpdgc.supabase.co
 https://qu.ax
 https://quilljs.com
 https://quq.world
@@ -5014,6 +5024,7 @@ https://realvpn.v2yunvipaff.com
 https://realvtest.qytvipaff.cc
 https://reborn.kaochang.ltd
 https://record.piao.news
+https://red-bank.ir
 https://red.anthropic.com
 https://red.colacloud.free.hr
 https://redash.io
@@ -6435,6 +6446,8 @@ https://vyy.idsduf.com
 https://vyyy.vyunyunnode.top
 https://w.url.cn
 https://w1.maxo.top
+https://w1.wanhdy.com
+https://w2.whengdl.com
 https://w258963147.ztcloud.xyz
 https://w3id.org
 https://w7ds66pudd.todust.cc
@@ -6490,6 +6503,7 @@ https://weekly.75.team
 https://weekly.caixin.com
 https://weekly.manong.io
 https://weekly.pychina.org
+https://weekly.pythoncat.top
 https://weekly.tw93.fun
 https://wefound.cc
 https://weibo.com
@@ -6763,6 +6777,7 @@ https://www.csyyds.xyz
 https://www.ctee.com.tw
 https://www.ctyun.cn
 https://www.cube-soft.jp
+https://www.cw2vm4.vip:6003
 https://www.cwy-water.us.kg
 https://www.cxkv2.xyz
 https://www.cxygzl.com
@@ -6912,6 +6927,7 @@ https://www.hollywoodreporter.com
 https://www.honeycomb.io
 https://www.hongx.sbs
 https://www.hotlaplantat.com
+https://www.hp.com
 https://www.htyun.cc
 https://www.huawei.com
 https://www.huaweicloud.com
@@ -7100,6 +7116,7 @@ https://www.niemanlab.org
 https://www.nikon.com
 https://www.nintendo.co.jp
 https://www.nintendo.com
+https://www.nintendo.com.hk
 https://www.nintendolife.com
 https://www.nist.gov
 https://www.nite07.com
@@ -7577,6 +7594,7 @@ https://xn--9kq838ftid.shop
 https://xn--9kq85xcu6b.com
 https://xn--9kq902dpj2a.com
 https://xn--9kqp0yy4f.com
+https://xn--9kqs1lo79d.com
 https://xn--9kqt60cjmy.shop
 https://xn--9kqv03dn4b.xyz
 https://xn--9kqx21a0sv.com
