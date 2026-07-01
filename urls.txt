@@ -1368,6 +1368,7 @@ https://adg.zcr6.ggff.net
 https://adguard-dns.io
 https://adguard-vpn.com
 https://adguard.com
+https://adk.dev
 https://adm.unicoridor.ru
 https://admin-tmpl-test.rencaiyoujia.cn
 https://admin.apigyuyjioh.xyz
@@ -2231,6 +2232,7 @@ https://cf.loveqyun.cyou
 https://cf2.gwxiazai.com
 https://cfj.chuifengji.top
 https://cfn88.232885.qzz.io
+https://cfnew.269228.dpdns.org
 https://cfno1.pages.dev
 https://cfproxy.wukaige.com
 https://cfyun.top
@@ -2510,6 +2512,7 @@ https://damp-mode-4de5.6006101.workers.dev
 https://dango-docs.ap-sh.starivercs.cn
 https://daniel.haxx.se
 https://danke.sbs
+https://daramet.com
 https://dardi.ir
 https://darioamodei.com
 https://dash.2cny.sbs
@@ -2849,6 +2852,7 @@ https://doh-random-upstream.nicolas-dorriere.fr
 https://doh.18bit.cn
 https://doh.360.cn
 https://doh.443888.xyz
+https://doh.alidns.com
 https://doh.apad.pro
 https://doh.cleanbrowsing.org
 https://doh.dns.sb
@@ -3038,6 +3042,7 @@ https://edd.zbb06.filegear-sg.me
 https://eddy1.snow00.us
 https://edfd8348.ghelper.me
 https://edge-x.me
+https://edget.269228.dpdns.org
 https://edgetunnel-cmliu.lyqnihao.dpdns.org
 https://edgeware.gitbook.io
 https://editor.runjs.cool
@@ -3057,6 +3062,7 @@ https://eduos.roncoo.net
 https://ee.seaspirit.dpdns.org
 https://ee7b114b-2dff-4e9d-b427-4d1c2ac2e12f.fengchenginx.com
 https://eed.z07.cloudns.be
+https://eee-cor.pages.dev
 https://efficiencyfollow.notion.site
 https://efxxl.xyz
 https://egernapp.com
@@ -3282,6 +3288,7 @@ https://fr.fr2048.top
 https://fragment.com
 https://frame.work
 https://free-fs.top
+https://free.269228.dpdns.org
 https://free.andiliba.cc
 https://free.apprcn.com
 https://free.cfnode.shop
@@ -3440,6 +3447,7 @@ https://go-mod-viewer.appspot.com
 https://go.dev
 https://go.go2048.top
 https://go.hhyun.in
+https://go.nobitex.ir
 https://go.qianglie.cc
 https://go.yueyun.de
 https://godofprompt.ai
@@ -3935,6 +3943,7 @@ https://kazlauskas.me
 https://kcsub.click
 https://kcsub.vip
 https://kde.org
+https://kdjfoq2.246bwe2.com
 https://kdjfoq2.47fbw4b.com
 https://keda.sh
 https://keepachangelog.com
@@ -4308,6 +4317,7 @@ https://mfqtybrzstkf.ap-northeast-1.clawcloudrun.com
 https://mfvpn.fuchen.indevs.in
 https://mgnb.vip
 https://mhxwfgsl.qjty1.buzz
+https://mi9.com
 https://miaomiao.xn--7rs48z0nlr6hc8cqz4a.com
 https://miaosu.jiediandingyuejiji.homes
 https://micheer.net
@@ -4546,6 +4556,7 @@ https://newsroom.arm.com
 https://newsroom.ibm.com
 https://newsroom.pinterest.com
 https://newsroom.snap.com
+https://newsub.269228.dpdns.org
 https://newsubscribe.hlasw.com
 https://nexdora.sogoyunt.cc
 https://nexmoe.com
@@ -4857,6 +4868,7 @@ https://pptr.dev
 https://pqjc.site
 https://pr.kuaifaka.com
 https://pre.paimon.gq
+https://predict.gamify3.com
 https://prefab.prefect.io
 https://premiumeconomy.carpetpacific.com
 https://premproxy.com
@@ -7034,6 +7046,7 @@ https://www.kuaigou.life
 https://www.kuaiyin002.com
 https://www.kymjs.com
 https://www.labno3.com
+https://www.lajiaoyun.xyz
 https://www.lambdafunctions.com
 https://www.landian.news
 https://www.lanjinger.com
@@ -7238,6 +7251,7 @@ https://www.redsharknews.com
 https://www.renren.io
 https://www.research-collection.ethz.ch
 https://www.reuters.com
+https://www.rfc-editor.org
 https://www.ricoh-imaging.com.cn
 https://www.right.com.cn
 https://www.rijksmuseum.nl
