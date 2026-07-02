@@ -1468,9 +1468,11 @@ https://andrewzuo.com
 https://andygrove.io
 https://angel.co
 https://angularindepth.com
+https://anonymousplanet.net
 https://another.020118118.best
 https://another.com
 https://another1.264869.xyz
+https://anotherdayu.com
 https://anotherdy.020118119.best
 https://ansuyun.xyz
 https://answer.apache.org
@@ -2725,16 +2727,19 @@ https://dns.adguard-dns.com
 https://dns.adguard.com
 https://dns.alidns.com
 https://dns.alidns.com:443
+https://dns.anon.no
 https://dns.cfiec.net
 https://dns.cloudflare-gateway.com
 https://dns.cloudflare.com
 https://dns.dnswarden.com
+https://dns.dynx.pro
 https://dns.gi.co.id
 https://dns.hinet.net
 https://dns.ipv6dns.com
 https://dns.kerekes.xyz
 https://dns.melalandia.tk
 https://dns.nextdns.io
+https://dns.nullsproxy.com
 https://dns.paesa.es
 https://dns.pub
 https://dns.quad9.net
@@ -3373,6 +3378,7 @@ https://gbshct.spphhnhg.top
 https://gbtgurl.me
 https://gcore.jsdelivr.net
 https://geektutu.com
+https://genkit.dev
 https://geodata.kelee.one
 https://george.mand.is
 https://get.biu001.xyz
@@ -3591,6 +3597,7 @@ https://hjcm2.pages.dev
 https://hjcm3.pages.dev
 https://hjdy-3i1.608618.xyz
 https://hk.bjjii.com
+https://hk.finance.yahoo.com
 https://hk.hkuk.xyz
 https://hk10m.wxgqlfx.vip
 https://hk59.wxgqlfx.top
@@ -3638,6 +3645,7 @@ https://htcmi-20240805.mozhiti.top
 https://htdy02.mozhiti.top
 https://html.spec.whatwg.org
 https://html5-apps-repo-rt.cfapps.eu12.hana.ondemand.com
+https://httb.ir
 https://httpbin.org
 https://httpie.io
 https://htvviru.top
@@ -4212,6 +4220,7 @@ https://lzw.me
 https://lzysub.online
 https://m.bilibili.com
 https://m.cnbeta.com
+https://m.economictimes.com
 https://m.etnews.com
 https://m.freeopenvpn.org
 https://m.halvirox9371.bar
@@ -4278,6 +4287,7 @@ https://matcha.su
 https://matrix.to
 https://matrixap.com
 https://matthias-endler.de
+https://max.rethinkdns.com
 https://max.ru
 https://maxhjd.jjzcloud.top
 https://maxkb.cn
@@ -4846,6 +4856,7 @@ https://pool-840979.asia1.kinto.io
 https://pool.sagithome.com
 https://popcornlab.de
 https://portal.aws.amazon.com
+https://portal.cloudnium.net
 https://portal.f2vip.net
 https://portal.gdmmdo.ga
 https://portal.mofeiyun.com
@@ -5008,6 +5019,7 @@ https://qqww.yunjijd.xyz
 https://qr.alipay.com
 https://qriowkpqhgxjnapxpdgc.supabase.co
 https://qu.ax
+https://quicksnap.fujifilm.com
 https://quilljs.com
 https://quq.world
 https://qwe.097482.xyz
@@ -5644,6 +5656,7 @@ https://sub.mlsao.top
 https://sub.mogufan.com
 https://sub.mugua.one
 https://sub.murphyweb.sbs
+https://sub.murphyweb.site
 https://sub.narutos.link
 https://sub.netv2.cc
 https://sub.nex7.us.kg
@@ -6520,6 +6533,7 @@ https://web.coo.wiki
 https://web.dev
 https://web.elevengo.ru
 https://web.gmssh.com
+https://web.nnpy.org
 https://web.pandarobot.chat
 https://web.resource.org
 https://web.snappfood.com.tr:2096
@@ -6750,6 +6764,7 @@ https://www.bytesizego.com
 https://www.c-span.org
 https://www.c6nw0s.vip:6001
 https://www.caixin.com
+https://www.calcalistech.com
 https://www.callofduty.com
 https://www.carpetpacific.com
 https://www.catssr.host
@@ -7529,6 +7544,7 @@ https://www9.9th-subscription-from-chickenfarmer.top
 https://wwwa.qyshare.com:2083
 https://wwwjs.pro
 https://wwwk.qyshare.com:2083
+https://wwww.12.kg
 https://wwwww.12.kg
 https://wwwx.qyshare.com
 https://wwx.lanzout.com
@@ -7634,6 +7650,7 @@ https://xn--9kq838ftid.shop
 https://xn--9kq85xcu6b.com
 https://xn--9kq902dpj2a.com
 https://xn--9kqp0yy4f.com
+https://xn--9kqs1lo79d.cc
 https://xn--9kqs1lo79d.com
 https://xn--9kqt60cjmy.shop
 https://xn--9kqv03dn4b.xyz
