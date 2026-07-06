@@ -38,6 +38,7 @@ http://Telegram.iRoV2ray.lol
 http://Wizwiz.miox.sbs
 http://a.62-us.com
 http://a.ydoo.vip:5917
+http://abduzeedo.com
 http://activemq.apache.org
 http://adkx.net
 http://admin.dianshixinxi.com:90
@@ -91,6 +92,7 @@ http://blog.csdn.net
 http://blog.farmostwood.net
 http://blog.fens.me
 http://blog.grayson.org.cn
+http://blog.invisionapp.com
 http://blog.jiasule.com
 http://blog.jobbole.com
 http://blog.jsfor.com
@@ -139,6 +141,7 @@ http://cloudupup.com
 http://club.i50dh.net
 http://clustrmaps.com
 http://cmall.magestack.cn
+http://cn.engadget.com
 http://cn.nikkei.com
 http://cocoacake.net
 http://code.claude.com
@@ -223,6 +226,7 @@ http://dy007.sanxi.cyou
 http://dydz.xn--mesv8bx6xtx3b.com:2006
 http://dynamic.yuanjingtech.com
 http://e.weibo.com
+http://e4.cover20.ir:16156
 http://e8a580bd3a51b6050aabd8919a17d106.52pokemon.top
 http://easylist.to
 http://edotstudios.com
@@ -404,6 +408,7 @@ http://n.huasenjio.top
 http://n15uvht4r659107p.eastasia.cloudapp.azure.com
 http://n2.us.nexiocloud.com:25416
 http://n2.us.nexiocloud.com:25439
+http://n4.cover20.ir:19964
 http://nVx81Q0ouJA21x8U.xn--fiqs8s40dz2j.com
 http://namrcg001640lrm.cybervena.com:50099
 http://nanbei.cloud
@@ -471,6 +476,7 @@ http://rabbitmq.com
 http://rakuen.thec.me
 http://read-more.cx
 http://reader.youdao.com
+http://readhub.bayes.cafe
 http://realnode.me
 http://redbeardlab.com
 http://redis.io
@@ -783,6 +789,7 @@ http://www.tei-c.org
 http://www.tkgj.life
 http://www.toodaylab.com
 http://www.uderzo.it
+http://www.ui.cn
 http://www.uisdc.com
 http://www.umtry.com
 http://www.uucampus.com
@@ -802,6 +809,7 @@ http://www.xianguo.com
 http://www.xiaoqiang.org
 http://www.youtube.com
 http://www.yslow.net
+http://www.zcool.com.cn
 http://www.zhangwj.com
 http://www.zhangxinxu.com
 http://www.zhanxin.info
@@ -2209,6 +2217,7 @@ https://cdn.kineticbloom.org
 https://cdn.maxo.top
 https://cdn.nlark.com
 https://cdn.nodeimage.com
+https://cdn.pikayun.com
 https://cdn.rei.my.id
 https://cdn.seyhello.sbs:2096
 https://cdn.statically.io
@@ -2491,6 +2500,7 @@ https://cxsub.club
 https://cxsub.pro
 https://cyberguard.cfd
 https://cybernews.com
+https://cyberpress.org
 https://cyberscoop.com
 https://cybersecuritynews.com
 https://cygw.ciyuan78.help
@@ -2910,6 +2920,7 @@ https://downloader.caorushizi.cn
 https://downloads.onelighter.site
 https://downloads.snapp.site
 https://dozzle.dev
+https://dp3.config-sync.com
 https://dpaste.com
 https://dpaste.org
 https://dpkj0402.indevs.in
@@ -3967,6 +3978,7 @@ https://kawaiifreevpn-7ds.pages.dev
 https://kawaiifreevpn.pages.dev
 https://kaze1.aisaka-taiga.com
 https://kazlauskas.me
+https://kc8ehydtznmmxbcihofm3hkhdmq8ansb.skygo0527.top
 https://kcsub.click
 https://kcsub.vip
 https://kde.org
@@ -4028,6 +4040,7 @@ https://kortuyou.us.kg
 https://koumakan.quickline.top
 https://kqdfk.no-mad-world.club
 https://kr-sel.doh.sb
+https://kr00lwbck8finkxhvskf8i7fhx4pwbfb.skygo0527.top
 https://krebsonsecurity.com
 https://krillapps.com
 https://kronos.plan9-dns.com
@@ -4585,6 +4598,7 @@ https://news.samsung.com
 https://news.skhynix.co.kr
 https://news.xbox.com
 https://news.ycombinator.com
+https://newsdig.tbs.co.jp
 https://newshacker.me
 https://newsify.co
 https://newsroom.arm.com
@@ -4673,6 +4687,7 @@ https://obfusgated.com
 https://ocean.likelike.ip-ddns.com
 https://ocrmypdf.readthedocs.io
 https://octohide.com
+https://octopuspalm.top
 https://ocypod.readthedocs.io
 https://oddetall.no
 https://odysee.com
@@ -4836,6 +4851,7 @@ https://pichoro.horosama.com
 https://pickitup247.com
 https://picx.xpoet.cn
 https://pierre.computer
+https://pikayun.com
 https://piligou88.top
 https://pincht.sbs
 https://pindan.tk
@@ -5083,6 +5099,7 @@ https://rcktnl.site
 https://reabble.cn
 https://react.dev
 https://reader.960960.xyz
+https://readhub.cn
 https://readine.app
 https://readkit.app
 https://readpo.com
@@ -6112,6 +6129,7 @@ https://tc.r07.cloudns.be
 https://tc.ztcloud.xyz
 https://tcptest.cn
 https://tcxf.hssl8088.icu
+https://te.tuotuoyun.fyi
 https://tecentapi.yunqing.work
 https://tech.channable.com
 https://tech.huanqiu.com
@@ -6213,6 +6231,7 @@ https://token.sensenova.cn
 https://token604.us.kg
 https://tokenapi.fbcloud.lol
 https://too.st
+https://tool.chinaz.com
 https://tool.ren
 https://tools.ietf.org
 https://toolschi.com
@@ -6507,6 +6526,7 @@ https://vpn6688.com
 https://vpnfast.online
 https://vpngiare.net
 https://vpnhack.com
+https://vpnserverhub.com
 https://vpnyyds.link
 https://vps.aifoxin.com:37970
 https://vps.hosting
@@ -6571,6 +6591,7 @@ https://web.nnpy.org
 https://web.pandarobot.chat
 https://web.resource.org
 https://web.snappfood.com.tr:2096
+https://web.staryun.xyz
 https://web.tline.website
 https://web.xn--gwt061a.top
 https://web02.fbcn.pro
@@ -6793,6 +6814,7 @@ https://www.brendangregg.com
 https://www.broadcom.com
 https://www.builder.io
 https://www.bumingbai.net
+https://www.business-standard.com
 https://www.businessinsider.com
 https://www.butnono.com
 https://www.buymeacoffee.com
@@ -6816,6 +6838,7 @@ https://www.cctalk.com
 https://www.ceipa.net
 https://www.cfmem.com
 https://www.chainnode.com
+https://www.change.org
 https://www.changhai.org
 https://www.chaojijichang.com
 https://www.chenqiushi.cf
@@ -7072,6 +7095,7 @@ https://www.jiux001.cc
 https://www.jiuyuelu.xyz
 https://www.jokerps.com
 https://www.joshmatthews.net
+https://www.js8686.top
 https://www.json.org
 https://www.kaikaiyun.beauty
 https://www.kaisir.cn
@@ -7225,6 +7249,7 @@ https://www.nsfwlover.com
 https://www.ntp.org
 https://www.nushell.sh
 https://www.nutsfind.com
+https://www.nvenix.icu
 https://www.nvidia.com
 https://www.nytimes.com
 https://www.oiioii.ai
@@ -7788,6 +7813,7 @@ https://xxjsm.xn--nrqu89ap6f632c.xn--io0a7i
 https://xxnmsl.com
 https://xxx.a.com
 https://xxx.b.com
+https://xxx.com
 https://xxx.xiaoshihoukepangle.sbs
 https://xxx3.kjzhan.top
 https://xxxu.xyz
