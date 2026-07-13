@@ -2945,6 +2945,7 @@ https://crazystresser.net
 https://creativecommons.org
 https://crocidb.com
 https://crontab.guru
+https://crontab.online
 https://crushs.cyou
 https://crushs.top
 https://cry33.com
@@ -3450,6 +3451,7 @@ https://download.pytorch.org
 https://download.sekurvpn.com
 https://download.wireguard.com
 https://downloader.caorushizi.cn
+https://downloads.immortalwrt.org
 https://downloads.onelighter.site
 https://downloads.snapp.site
 https://dozzle.dev
@@ -6870,6 +6872,7 @@ https://sub.wendingjichang.com
 https://sub.westigon.me
 https://sub.white.pp.ua
 https://sub.whitedns.one
+https://sub.wild233.cf
 https://sub.wl-sub1.com
 https://sub.wordvlog.link
 https://sub.wukong.bond
@@ -8237,6 +8240,7 @@ https://www.franxx.cloud
 https://www.freebuf.com
 https://www.freecadweb.org
 https://www.freeclashnode.com
+https://www.freedesktop.org
 https://www.freeflyingcloud.xyz
 https://www.freefq.com
 https://www.freepik.com
