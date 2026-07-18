@@ -114,6 +114,7 @@ http://archlinux.lan:38324
 http://arrow.apache.org
 http://asb.dmhpro.top:2096
 http://asb.op-house.top:2096
+http://atcentra.com
 http://awcloud.life
 http://aws.amazon.com
 http://b.naiun.node-is.green:51112
@@ -379,6 +380,7 @@ http://gy.666666222.shop:20035
 http://gy.666666222.shop:20052
 http://gy.666666222.shop:34338
 http://gzm-design.guozimi.cn
+http://h-k01.loveroise.com:54000
 http://h-k02.loveroise.com:54002
 http://h5.dooring.cn
 http://hackdesign.org
@@ -695,6 +697,7 @@ http://s3.subcsyun.online
 http://s4.subcsyun.online
 http://s9.serv00.com:1074
 http://sc.piee.pw
+http://scamalytics.com
 http://scary.beasts.org
 http://schemas.android.com
 http://schemas.auth0.com
@@ -709,6 +712,7 @@ http://segmentfault.com
 http://sgp02.network-cdn-gw-yd.net:45507
 http://shadowmere.akiel.dev
 http://shiyuanyinian.xyz
+http://shop.88hy.top
 http://shop.oreilly.com
 http://shoppingmall.electricbanana.click
 http://shortlink.nageoffer.com
@@ -885,6 +889,7 @@ http://weike.jd.com
 http://weiwuhui.com
 http://weoknow.com
 http://whatismyipaddress.com
+http://whoer.net
 http://wifi.vivo.com.cn
 http://wiki.apache.org
 http://wiki.cifaz.com
@@ -1148,6 +1153,7 @@ http://zkwn.plan.ji8.site
 http://zkwn.plan.jpn.im
 http://zzy.my
 https://00.222333123.xyz
+https://000000.dns.nextdns.io
 https://001.583180.xyz
 https://001.6891256.xyz
 https://007e.icu
@@ -1254,6 +1260,7 @@ https://1nf.top
 https://1node.sbs
 https://1o2.690423.xyz:8081
 https://1panel.cn
+https://1password.com
 https://1phaHD.tosslk.xyz
 https://1q43.blog
 https://1rmb.tk
@@ -1355,6 +1362,7 @@ https://36kr.com
 https://374861a1.ghelper.me
 https://37cdn.ski9.cn
 https://391101980.xyz
+https://399dd33c.ghelper.me
 https://39f0777a.ghelper.me
 https://3ae574b2.ghelper.me
 https://3b0795de.ghelper.me
@@ -2135,6 +2143,7 @@ https://api.xfltd.xyz
 https://api.xhofe.top
 https://api.xiaofeigun.online
 https://api.xinghongapi.xyz
+https://api.xingyueapi.com
 https://api.xingzhige.com
 https://api.xinyo.vip
 https://api.xjichang.buzz
@@ -2195,6 +2204,7 @@ https://app.18sa.xyz
 https://app.1zp8.xyz
 https://app.aibase.com
 https://app.alice.ws
+https://app.aplisay.com
 https://app.bybit.com
 https://app.cal.com
 https://app.chartdb.io
@@ -2220,6 +2230,7 @@ https://app.kora.ai
 https://app.krisp.ai
 https://app.lbankfa.com
 https://app.legeth.cc
+https://app.legeth.net
 https://app.lwjyj.com
 https://app.mitce.com
 https://app.mitce.net
@@ -2540,6 +2551,7 @@ https://blog.1aim.com
 https://blog.5200515.xyz
 https://blog.adobe.com
 https://blog.approveapi.com
+https://blog.atom.io
 https://blog.banyunxiaoxi.icu
 https://blog.bytebytego.com
 https://blog.changs.co.uk
@@ -2566,6 +2578,7 @@ https://blog.guillaume-gomez.fr
 https://blog.guowenfh.com
 https://blog.hartwork.org
 https://blog.huoding.com
+https://blog.iany.me
 https://blog.imalan.cn
 https://blog.japaric.io
 https://blog.jetbrains.com
@@ -3342,6 +3355,7 @@ https://dedust.io
 https://deepfakevfx.com
 https://deepimg.io
 https://deepquery.cn
+https://deepswe.datacurve.ai
 https://deepweb.net
 https://deepwiki.com
 https://deershare.com
@@ -3494,6 +3508,7 @@ https://dls4.iran-gamecenter-host.com
 https://dna.hamilton.ie
 https://dnf-plugins-core.readthedocs.io
 https://dns-adguard.heinu.cf
+https://dns-cdn-hw.trli.club
 https://dns-unfiltered.adguard.com
 https://dns.403.online
 https://dns.aa.net.uk
@@ -3516,6 +3531,7 @@ https://dns.kerekes.xyz
 https://dns.melalandia.tk
 https://dns.nextdns.io
 https://dns.nullsproxy.com
+https://dns.oszx.co
 https://dns.paesa.es
 https://dns.pub
 https://dns.quad9.net
@@ -3628,6 +3644,7 @@ https://docs.solace.com
 https://docs.solidjs.com
 https://docs.spicyboy.cn
 https://docs.spring.io
+https://docs.sqlc.dev
 https://docs.stackstorm.com
 https://docs.taro.zone
 https://docs.termix.site
@@ -3641,6 +3658,7 @@ https://docusaurus.io
 https://doh--oneplus.doh.pub
 https://doh-de.blahdns.com
 https://doh-own-recursion.nicolas-dorriere.fr
+https://doh-pure.onedns.net
 https://doh-random-upstream.nicolas-dorriere.fr
 https://doh.18bit.cn
 https://doh.360.cn
@@ -3648,11 +3666,14 @@ https://doh.42l.fr
 https://doh.443888.xyz
 https://doh.alidns.com
 https://doh.apad.pro
+https://doh.applied-privacy.net
 https://doh.cleanbrowsing.org
 https://doh.crypto.sx
 https://doh.dns.sb
+https://doh.dnslify.com
 https://doh.dnspod.com
 https://doh.dnswarden.com
+https://doh.ffmuc.net
 https://doh.libredns.gr
 https://doh.mullvad.net
 https://doh.onedns.net
@@ -3660,6 +3681,7 @@ https://doh.opendns.com
 https://doh.pub
 https://doh.pub:443
 https://doh.qis.io
+https://doh.sb
 https://doh.seby.io:8443
 https://doh3.dns.nextdns.io
 https://doi.org
@@ -4037,6 +4059,7 @@ https://fanqiang88.top
 https://fanqiangdang.com
 https://fanqiangvpn.com
 https://fanqie.buzz
+https://fanvpn.net
 https://fanyun.pro
 https://farsnews.ir
 https://fast.gfwstable.icu
@@ -4517,6 +4540,7 @@ https://hackernoon.com
 https://hackerone.com
 https://hacks.mozilla.org
 https://hacs.xyz
+https://hagsteel.com
 https://haibucuo.xyz
 https://hailangya.com
 https://hailuoai.video
@@ -4774,6 +4798,7 @@ https://imcys.com
 https://img-mom.bitibiti.workers.dev
 https://img.buymeacoffee.com
 https://img.fastcybers.com
+https://img.icons8.com
 https://img.ikaka.in
 https://img.otruyenapi.com
 https://img.ozzo.top
@@ -4917,6 +4942,7 @@ https://itjustasub.icu
 https://itjustasub.net
 https://itjustasub.shop
 https://itlao6.com
+https://itnext.io
 https://itns.s3.us-east-2.amazonaws.com
 https://itubego.com
 https://ivira.ai
@@ -5234,6 +5260,7 @@ https://laogongshuo.com
 https://laosdjqowd.naigai.me
 https://laosijicc.top
 https://laratranslate.com
+https://latency-test.skk.moe
 https://latiaocloud.net
 https://laverna.cc
 https://laxcity.pages.dev
@@ -5262,6 +5289,7 @@ https://lemoncake.xyz
 https://lepture.com
 https://let.bnsubservdom.com
 https://letsencrypt.org
+https://levelup.gitconnected.com
 https://lh2gry1fffkx.top
 https://li2.drsaina.com
 https://liangxin.xyz
@@ -5368,6 +5396,7 @@ https://llcool.xyz
 https://llgapi.tannel.asia
 https://llgjc.shop
 https://lllo.x19890604.qzz.io
+https://llm-agent.aplisay.com
 https://lly.cz
 https://llyh.cc
 https://lm.laomaoyun.me
@@ -5557,7 +5586,9 @@ https://meetups.lacrypta.ar
 https://mega.io
 https://mega.nz
 https://meganesulli.com
+https://megav.app
 https://meiall.xyz
+https://meisai2.xn--chqu2nzsxv3y.com
 https://memebase.cheezburger.com
 https://meoo.com
 https://meoovpn.net
@@ -5680,6 +5711,7 @@ https://movie.douban.com
 https://movie1.dianying.lat
 https://movie2.dianying.lat
 https://mozilla.cloudflare-dns.com
+https://mozillagfx.wordpress.com
 https://mp.weixin.qq.com
 https://mp4.wanlidag.top
 https://mp4t.com
@@ -6199,6 +6231,7 @@ https://paugram.com
 https://pavo.eu.org
 https://paws.community
 https://pay.666811.xyz
+https://pay.ldxp.cn
 https://pay.xinghongpay.top
 https://paybtc.com.au
 https://paydock.com
@@ -6492,6 +6525,7 @@ https://qidijichang.com
 https://qidijichang.xyz
 https://qifei.daytimemeteor.top
 https://qifei.today.elementfx.com
+https://qijia.qhrgobull.fun
 https://qilan.de
 https://qingchayun.icu
 https://qinghuanyun.top
@@ -6815,6 +6849,7 @@ https://sanguayun.jiumaojiu.net
 https://sanqianlijinxiuheshan.us.kg
 https://sanxijichang.com
 https://sapi.ssapi.net
+https://saraf.app
 https://saucenao.com
 https://sb.swiftnet.cloud
 https://sb3.freeapp.buzz
@@ -6829,6 +6864,7 @@ https://scaffrey.coding.net
 https://scalar-staging.riot.im
 https://scalar-staging.vector.im
 https://scalar.vector.im
+https://scamalytics.com
 https://scamminder.com
 https://scan.bestsky.tools
 https://scdy03.scsub.com
@@ -6902,6 +6938,7 @@ https://shanhai.me
 https://shanhai.one
 https://shanlinks.com
 https://shardingsphere.apache.org
+https://share.112233.cyou
 https://share.bwb.global
 https://share.feijipan.com
 https://share.lanol.cn
@@ -7626,6 +7663,7 @@ https://subs.pithecia.com
 https://subs.xttlove.uk
 https://subs.zeabur.app
 https://subs1001.apolloxi.art
+https://subsc.syq.tw
 https://subscheck.isfree.pp.ua
 https://subscribe-1.newbee8.monster
 https://subscribe-3-emo.xxmad.com
@@ -7811,6 +7849,7 @@ https://tc.qy1357.top
 https://tc.r07.cloudns.be
 https://tc.ztcloud.xyz
 https://tcity8.top
+https://tcpquality.ibsgss.uk
 https://tcptest.cn
 https://tcxf.hssl8088.icu
 https://tdmmo.xyz
@@ -8268,6 +8307,7 @@ https://videomazani.com
 https://view.inews.qq.com
 https://vifast.net
 https://vikunja.io
+https://villa.parkson-market.org
 https://viloh.xyz
 https://vimeo.com
 https://vincode.io
@@ -8860,6 +8900,7 @@ https://www.dwgan9.vip:9149
 https://www.dynaconf.com
 https://www.eaimty.com
 https://www.easyfastcloud.com
+https://www.easysub.net
 https://www.eclipse.org
 https://www.economist.com
 https://www.edeyuan.com
@@ -9039,6 +9080,7 @@ https://www.hybrid-analysis.com
 https://www.hyproxy.xyz
 https://www.hzcat.net
 https://www.i18ncode.com
+https://www.ia.ac.cn
 https://www.ibm.com
 https://www.icloud.com
 https://www.idc.com
@@ -9477,6 +9519,7 @@ https://www.sec-wiki.com
 https://www.sec.gov
 https://www.semafor.com
 https://www.sensenova.cn
+https://www.sensetime.com
 https://www.servicemesher.com
 https://www.servicenow.com
 https://www.sharetribe.com
@@ -9700,6 +9743,7 @@ https://www.wogwog.top
 https://www.wondercv.com
 https://www.woniucloud.cyou
 https://www.wordvlog.link
+https://www.worldaic.com.cn
 https://www.worldvpn.net
 https://www.worthe-it.co.za
 https://www.woshipm.com
