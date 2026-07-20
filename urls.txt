@@ -675,6 +675,7 @@ http://redis.io
 http://refactoring.guru
 http://remna.st
 http://rentry.co
+http://repo.or.cz
 http://resource.touhou.center
 http://responsivedesignweekly.com
 http://rickyhan.com
@@ -994,6 +995,7 @@ http://www.kodiplayer.cn
 http://www.leagueofheroes.ml
 http://www.liaolz.com
 http://www.linkops.cn
+http://www.linode.com
 http://www.lizherui.com
 http://www.luduminis.com
 http://www.lvchaapp.vip
@@ -1590,6 +1592,7 @@ https://8ed5ead6.ghelper.me
 https://8eec4500.ghelper.me
 https://8f8f6358.ghelper.me
 https://8payj.no-mad-world.club
+https://8zkll.no-mad-sub.one
 https://9.qnopp.com
 https://90317953.ghelper.me
 https://9090.eastwind.ggff.net
@@ -2486,6 +2489,7 @@ https://beiten.ir
 https://beiyon.hanbao.lol
 https://beiyon4.hanbao.lol
 https://bellingcat.gitbook.io
+https://belowthesurface.amsterdam
 https://benchmarksgame-team.pages.debian.net
 https://bengalj.com
 https://bensll.top
@@ -3065,6 +3069,9 @@ https://cloudog.us.kg
 https://cloudposse.com
 https://cloudreve.top
 https://cloxy.io
+https://cluster-api-ibmcloud.sigs.k8s.io
+https://cluster-api-openstack.sigs.k8s.io
+https://cluster-api.sigs.k8s.io
 https://clusterhq.atlassian.net
 https://clv.lshan.eu.org
 https://cm-sub.pz.pe
@@ -3914,6 +3921,7 @@ https://ec.europa.eu
 https://ec.ltn.com.tw
 https://ec5smonchl973s.wca1rs59sefb1kl655b0.online
 https://eck8.miemie.uk
+https://eco.us.ovhcloud.com
 https://economy.caixin.com
 https://ed.zcr3.ddns-ip.net
 https://ed451bf1.ghelper.me
@@ -4179,6 +4187,7 @@ https://flare089.sunyi.io
 https://flash.jin10.com
 https://flashcat.cloud
 https://flathub.org
+https://flavourmachine.com
 https://flclash.cc
 https://flingtrainer.com
 https://fliphtml5.com
@@ -4356,6 +4365,7 @@ https://genkit.dev
 https://geodata.kelee.one
 https://george.mand.is
 https://geph.io
+https://gerrit.wikimedia.org
 https://get.biu001.xyz
 https://get.dalao.ws
 https://get.getccad.top
@@ -4440,6 +4450,7 @@ https://go-mod-viewer.appspot.com
 https://go.dev
 https://go.go2048.top
 https://go.hhyun.in
+https://go.k8s.io
 https://go.nobitex.ir
 https://go.onelink.me
 https://go.qianglie.cc
@@ -4459,6 +4470,7 @@ https://gold.3ssem.com
 https://golden57.qjty.buzz
 https://goldenegg.snappfood.ir
 https://gongyiyun.cf
+https://goo.gl
 https://goo.gs
 https://goo.su
 https://goodlink.cc
@@ -4485,6 +4497,7 @@ https://greatdk.com
 https://greatfirevpn.com
 https://greekreporter.com
 https://gridsome.org
+https://grok.com
 https://grr.la
 https://grslfa.clashx.app
 https://gs.kkhhddnn.cn
@@ -5218,6 +5231,7 @@ https://kuaiyinapi.com
 https://kuajing.pro
 https://kubadownload.com
 https://kubernetes.io
+https://kubernetes.slack.com
 https://kukeyun.cc
 https://kunlun.kunlun01.com
 https://kurdstore.info
@@ -5561,6 +5575,7 @@ https://matin.matinmo.top:2096
 https://matreshkavpn.com
 https://matrix.to
 https://matrixap.com
+https://matterport.com
 https://matthias-endler.de
 https://mattw.io
 https://max.rethinkdns.com
@@ -5571,6 +5586,7 @@ https://mb.manbo8.site
 https://mbinary.xyz
 https://mc.jiedianxielou.workers.dev
 https://mci.ir
+https://mcn.edu
 https://mcp-skills.ai.antalpha.com
 https://mcp.dpenly.org
 https://mcp.octogen.ai
@@ -5581,6 +5597,7 @@ https://me.csdn.net
 https://meal.leftright.buzz
 https://medallia.com
 https://media.ccc.de
+https://mediawiki.org
 https://medium.com
 https://medium.freecodecamp.org
 https://meee.com.tw
@@ -5752,6 +5769,7 @@ https://multikeys.outlinekeys.net
 https://muniu.click
 https://muniu.ink
 https://muniucloud.net
+https://mused.com
 https://music.douban.com
 https://music.easygourl.xyz
 https://music.ydev.tech
@@ -5857,6 +5875,7 @@ https://nannou.cc
 https://nano.nachoneko.cn
 https://nanobrew.trilok.ai
 https://nat.freecloud.ltd
+https://naturalhistory.si.edu
 https://navatel.app
 https://navi.onamae.com
 https://nbphp.mqywl.cn
@@ -5912,6 +5931,7 @@ https://newrustacean.com
 https://news.adobe.com
 https://news.aolifu.org
 https://news.bjd.com.cn
+https://news.clateway.com
 https://news.cri.cn
 https://news.ifeng.com
 https://news.itsfoss.com
@@ -6119,6 +6139,7 @@ https://openpath.quest
 https://openproxylist.com
 https://openrouter.ai
 https://opensend.namuh.co
+https://opensource.adobe.com
 https://opensource.com
 https://opensource.org
 https://opentip.kaspersky.com
@@ -6128,6 +6149,7 @@ https://openvidu.io
 https://openvpn-ssh.com
 https://openvpn.net
 https://openweathermap.org
+https://oracle.zoom.us
 https://orbot.app
 https://ordns.he.net
 https://origamiboy.herokuapp.com
@@ -6264,6 +6286,7 @@ https://perf.rust-lang.org
 https://persepolis.getty.edu
 https://persianasports.com
 https://personal.dtcpay.com
+https://petapixel.com
 https://petstore.swagger.io
 https://pf.apz3xggbio.workers.dev
 https://pfjc.im
@@ -6309,6 +6332,7 @@ https://platform.deepseek.com
 https://platform.djjc.cfd
 https://platform.kimi.com
 https://platform.openai.com
+https://platform.qianwenai.com
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
 https://play-cs.com
@@ -6639,6 +6663,7 @@ https://region-a.geo-1.identity.hpcloudsvc.com:35357
 https://registry.npmmirror.com
 https://reimu-tools.102498.xyz
 https://rekcarc-tsc-uht.readthedocs.io
+https://relay.git-news.local
 https://relaypay.io
 https://relit.no-mad-world.club
 https://remaker.ai
@@ -7188,6 +7213,7 @@ https://store.kakocloud.pro
 https://store.lizhi.io
 https://store.steampowered.com
 https://storyboard.openstack.org
+https://stream.git-news.local
 https://streamable.com
 https://streamcorner.fyi
 https://streams.canonical.com
@@ -7778,6 +7804,8 @@ https://suscribethenetword.beecloud.club
 https://suti.skin
 https://sux.lol
 https://suying148.xyz
+https://suying91.xyz
+https://suying98.xyz
 https://sv1.otruyencdn.com
 https://svartalf.info
 https://svelte.dev
@@ -7846,6 +7874,7 @@ https://taplink.cc
 https://tappr.io
 https://tapsi.link
 https://tarahno.com
+https://tas360.au
 https://taskfile.dev
 https://tategaki.de
 https://tc.qy1357.top
@@ -7863,6 +7892,7 @@ https://tech.huanqiu.com
 https://tech.ifeng.com
 https://tech.localenby.is
 https://tech.meituan.com
+https://tech2.npm.edu.tw
 https://techcrunch.com
 https://technogold.gold
 https://techsiro.com
@@ -8330,6 +8360,7 @@ https://vips.lol
 https://vipurl.giize.com
 https://vipxgyun.com
 https://virtserver.swaggerhub.com
+https://virtual.basilicasanpietro.va
 https://visitor-badge.laobi.icu
 https://vistar.lat
 https://vistart.art
@@ -8717,6 +8748,7 @@ https://www.baiyunvpn.xyz
 https://www.barebones.com
 https://www.base64encode.net
 https://www.base64encode.org
+https://www.bayeuxmuseum.com
 https://www.bbc.co.uk
 https://www.bbc.com
 https://www.bee2.cloud
@@ -9051,6 +9083,7 @@ https://www.hao6v.cc
 https://www.happ.su
 https://www.happymao.cat
 https://www.haproxy.com
+https://www.haraldjoergens.com
 https://www.hcaptcha.com
 https://www.heavens-above.com
 https://www.helingqi.com
@@ -9196,6 +9229,7 @@ https://www.kuaidog009.top
 https://www.kuaidog010.top
 https://www.kuaigou.life
 https://www.kuaiyin002.com
+https://www.kubernetes.dev
 https://www.kymjs.com
 https://www.labiennale.org
 https://www.labno3.com
@@ -9313,6 +9347,7 @@ https://www.mtfol.com
 https://www.mtruning.club
 https://www.multcloud.com
 https://www.munute.com
+https://www.museivaticani.va
 https://www.mxnzp.com
 https://www.mxssr1.top
 https://www.mxssr3.top
@@ -9663,6 +9698,7 @@ https://www.truepush.com
 https://www.tutorialspoint.com
 https://www.tv-tokyo.co.jp
 https://www.tvlnn.com
+https://www.tweedewereldoorlog.nl
 https://www.twitch.tv
 https://www.u9bbbb.com
 https://www.uber.com
@@ -9747,6 +9783,7 @@ https://www.wogwog.top
 https://www.wondercv.com
 https://www.woniucloud.cyou
 https://www.wordvlog.link
+https://www.workbuddy.cn
 https://www.worldaic.com.cn
 https://www.worldvpn.net
 https://www.worthe-it.co.za
@@ -9987,6 +10024,7 @@ https://xiongchumo.shop
 https://xjichang.buzz
 https://xjj.zzxi.de
 https://xjyjc.top
+https://xkcd.com
 https://xlog.app
 https://xmake.io
 https://xmission-slc-1.edge.nextdns.io
@@ -10373,6 +10411,7 @@ https://zoneabc.net
 https://zongyunti.site
 https://zoogvpn.com
 https://zookeeper.apache.org
+https://zoom.us
 https://zoonavigator.elkozmon.com
 https://zotez2.ezbio.net
 https://zou666.vip
