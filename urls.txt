@@ -2534,6 +2534,7 @@ https://bin.mudfish.net
 https://bin.oksh.re
 https://bing.com
 https://biofy.cn
+https://biont-training.eu
 https://bird.1024.one
 https://birdohub.site
 https://bit.ly
@@ -2974,6 +2975,7 @@ https://ckxxapp.ckxx.net
 https://claimd.geo-drops.com
 https://clang.llvm.org
 https://clarityai.co
+https://clash-meta.wiki
 https://clash.221207.xyz
 https://clash.crossxx.com
 https://clash.jctaoo.site
@@ -3007,6 +3009,7 @@ https://clickhouse.yandex
 https://client-api.riolu.link
 https://client-sub.aisu.life
 https://client-sub.cloudlion.top
+https://client.mastershoop.ir:2096
 https://client.webhostmost.com
 https://client00.chat.mibbit.com
 https://cloud-images.ubuntu.com
@@ -3543,6 +3546,7 @@ https://dns.oszx.co
 https://dns.paesa.es
 https://dns.pub
 https://dns.quad9.net
+https://dns.quad9.net:5053
 https://dns.rubyfish.cn
 https://dns.sarak.as
 https://dns.shecan.ir
@@ -3642,6 +3646,7 @@ https://docs.private-ai.com
 https://docs.projectcalico.org
 https://docs.pyrogram.org
 https://docs.qq.com
+https://docs.qwencloud.com
 https://docs.ray.io
 https://docs.replit.com
 https://docs.requarks.io
@@ -3970,6 +3975,8 @@ https://elevenlabs.io
 https://elgoog.im
 https://eli.thegreenplace.net
 https://eliv2ray.cloud
+https://elixir-europe.org
+https://elixiruknode.org
 https://elytra.app
 https://emacs-china.org
 https://emkdl9db.xtd8.top:2083
@@ -3995,6 +4002,7 @@ https://epg.112114.xyz
 https://epg.pw
 https://epg.v1.mk
 https://epoch.ai
+https://erasmus-plus.ec.europa.eu
 https://erciyun.net
 https://erfanzadeh.ir
 https://ernestryu.com
@@ -4343,6 +4351,7 @@ https://g5h.zcr25.ggff.net
 https://g933cec.cdn.uunode.com
 https://gabmus.gitlab.io
 https://galaxy.starcloud.monster
+https://galaxyproject.org
 https://galaxystore.samsung.com
 https://game.skport.com
 https://gap.im
@@ -5496,6 +5505,7 @@ https://m.mpaypass.com.cn
 https://m.o29o.xyz
 https://m.soundcloud.com
 https://m.stopa.io
+https://m.sub12345.org
 https://m.tb.cn
 https://m.thepaper.cn
 https://m.tmtpost.com
@@ -6675,6 +6685,7 @@ https://renzhesub.com
 https://replicate.com
 https://reports.exodus-privacy.eu.org
 https://repzt3P1yq.qinyues4.cc
+https://research.adobe.com
 https://research.myshell.ai
 https://research.roundtable.ai
 https://research.swtch.com
@@ -7378,6 +7389,7 @@ https://sub.lmspeed.top
 https://sub.lyunsub.win
 https://sub.lzyjc.xyz
 https://sub.magic.lat
+https://sub.maoxiongnet.com
 https://sub.marshopco.ir
 https://sub.marsix.cc
 https://sub.mianfeiyun.online
@@ -8240,6 +8252,7 @@ https://v.ifeng.com
 https://v.ilikeu.dpdns.org
 https://v.moon2046.com
 https://v.mqs.hk
+https://v.recipes
 https://v.spwvpn.com
 https://v.vivia.cc.cd
 https://v.youku.com
@@ -8684,6 +8697,7 @@ https://www.abcd168.icu
 https://www.aboutamazon.com
 https://www.abubalay.com
 https://www.accountkiller.com
+https://www.acme-astro.eu
 https://www.adobe.com
 https://www.ag-grid.com
 https://www.aibase.com
@@ -8854,6 +8868,7 @@ https://www.cnfeat.com
 https://www.cnstock.com
 https://www.cockroachlabs.com
 https://www.cocotoyou.com
+https://www.codeflicker.ai
 https://www.codewoody.com
 https://www.coindesk.com
 https://www.commoninja.com
@@ -8861,6 +8876,7 @@ https://www.consul.io
 https://www.conventionalcommits.org
 https://www.cooc.cloud
 https://www.coolapk.com
+https://www.corbel-project.eu
 https://www.cordc.net
 https://www.coursera.org
 https://www.coze.com
@@ -8947,6 +8963,7 @@ https://www.efcloud.cc
 https://www.eftposaustralia.com.au
 https://www.elecrow.com
 https://www.elinksapi.com
+https://www.elixir-europe.org
 https://www.emqx.com
 https://www.engadget.com
 https://www.entekhab.ir
@@ -9043,6 +9060,7 @@ https://www.geedea.pro
 https://www.geekersoft.cn
 https://www.geekpark.net
 https://www.gelonghui.com
+https://www.genome.gov
 https://www.genspark.ai
 https://www.getbamboo.io
 https://www.gfwstable.icu
@@ -9288,6 +9306,7 @@ https://www.m2net.lol
 https://www.macbl.com
 https://www.macrozheng.com
 https://www.macrumors.com
+https://www.macworld.com
 https://www.mahsaserver.com
 https://www.maikami.vip
 https://www.make8.com
@@ -9441,6 +9460,7 @@ https://www.oschina.net
 https://www.otcopusapp.cc
 https://www.ottcloud.net
 https://www.ourbit.com
+https://www.ouvrirlascience.fr
 https://www.ovpn.com
 https://www.owenmcgrann.com
 https://www.panda-cloud.life
@@ -9602,6 +9622,7 @@ https://www.star-history.com
 https://www.starlinkproxy.com
 https://www.starlinkss.vip
 https://www.startracecloud.com
+https://www.stdaily.com
 https://www.stellar.org
 https://www.stewed.top
 https://www.strofe.com
@@ -9700,6 +9721,7 @@ https://www.tv-tokyo.co.jp
 https://www.tvlnn.com
 https://www.tweedewereldoorlog.nl
 https://www.twitch.tv
+https://www.typeless.com
 https://www.u9bbbb.com
 https://www.uber.com
 https://www.udacity.com
@@ -9866,6 +9888,7 @@ https://www.youtube-nocookie.com
 https://www.youtube.com
 https://www.youxincloud.net
 https://www.youzi.pw
+https://www.youzikaryl.top
 https://www.ytdy666.buzz
 https://www.yuefei789.com
 https://www.yuki-sub.top
@@ -10213,6 +10236,7 @@ https://yay520.com
 https://ycFU7u.tosslk.xyz
 https://ycx.mxjs.xyz
 https://ydapi.dingyuetot.vip
+https://yebekhe.link
 https://yefengjc.xyz
 https://yek.link
 https://yenab4kq3ohqbpj4lxmlm47lpahaf0bk.skygo0527.top
