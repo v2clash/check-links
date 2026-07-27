@@ -1129,6 +1129,8 @@ http://yebekhe.link
 http://yebekhe.site
 http://yk.iot098.cn
 http://youhui.plus
+http://yourdomain.com
+http://yourdomain.com:1905
 http://youtu.be
 http://youtube.com
 http://ypgt.tk:12580
@@ -1886,6 +1888,7 @@ https://aizaozao.com
 https://ajd239d3jh.jastmp.org
 https://ajreport.beliefteam.cn
 https://akarin.dev
+https://akile.ai
 https://akool.com
 https://alex0.dev
 https://alexproxy001.herokuapp.com
@@ -4067,6 +4070,7 @@ https://expressjs.com
 https://extractor-demos.pages.dev
 https://extrm.info
 https://ez-a0a517.ezaccess15bd9b0.workers.dev
+https://ezaccess1-spider-ezaccess1-c797.up.railway.app
 https://ezidebit.com
 https://f-35.store
 https://f-droid.org
@@ -4470,6 +4474,7 @@ https://git.tt-rss.org
 https://git.xmpp-it.net
 https://git.yulei.icu
 https://gitcode.com
+https://gitcode.net
 https://gitcoin.co
 https://gitea.com
 https://gitee.com
@@ -4929,6 +4934,7 @@ https://investors.broadcom.com
 https://invideo.io
 https://invite.payfun.com
 https://invite.wgetcloud.ltd
+https://invite.xingch.live
 https://invite.xlcc.live
 https://invite.xn--yvsa48r.com
 https://invite.zhifeijijiasu.cc
@@ -5119,6 +5125,7 @@ https://joshlf.com
 https://josig-f74b41601fc7.herokuapp.com
 https://jostar-data.nl
 https://journals.aps.org
+https://journals.sagepub.com
 https://joust.com.au
 https://jp.krc4.com
 https://jp.taishan1.pro
@@ -5294,6 +5301,7 @@ https://kunlun.kunlun01.com
 https://kurdstore.info
 https://kurominetwork.ggff.net
 https://kuromisubs.shop
+https://kutumu.top
 https://kuutamoinen.xyz
 https://kxswa.tk
 https://kyvless.pages.dev
@@ -8477,6 +8485,7 @@ https://vless3.datatestvless.click
 https://vlesscm.fuyiwl.com
 https://vlesss.xttd.eu.org
 https://vlso.1d.mom
+https://vlso1.1d.mom
 https://vmess.yxxc.cn
 https://vms.drweb.com
 https://vms.drweb.ru
@@ -9918,6 +9927,7 @@ https://www.xfxssr.com
 https://www.xfxssr.me
 https://www.xg-hub.icu
 https://www.xg-site03.xyz
+https://www.xhby.net
 https://www.xhei.ml
 https://www.xiabingbao.com
 https://www.xiaobaicloud.tk
