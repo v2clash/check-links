@@ -2255,6 +2255,7 @@ https://app.jisuba.live
 https://app.khoonehmetri.com
 https://app.kora.ai
 https://app.krisp.ai
+https://app.lava.xyz
 https://app.lbankfa.com
 https://app.legeth.cc
 https://app.legeth.net
@@ -5575,6 +5576,7 @@ https://m.etnews.com
 https://m.freeopenvpn.org
 https://m.halvirox9371.bar
 https://m.huanqiu.com
+https://m.ithome.com
 https://m.jdjygold.com
 https://m.jiemian.com
 https://m.jrj.com.cn
@@ -7772,6 +7774,7 @@ https://sub5.huy.0.srl
 https://sub5.tnetvpn.site
 https://sub6.mifjun.net
 https://sub666.yydzx.xyz
+https://sub716.vpn2.cc
 https://sub88.xyz
 https://sub9.xn--5usv4t3x3c.xyz
 https://suba.f2vip.net
@@ -8066,6 +8069,7 @@ https://tg.iamdt002.dpdns.org
 https://tg.lcvpn.sbs
 https://tg.sintotgch.com
 https://tg.z-cloud.dynv6.net
+https://tg9.lvcha.one
 https://tgdev.io
 https://tghjjcp.bestcloud.lol
 https://tglink.io
@@ -8517,6 +8521,7 @@ https://vlesss.xttd.eu.org
 https://vllm.ai
 https://vlso.1d.mom
 https://vlso1.1d.mom
+https://vlsovip.1d.mom
 https://vmess.yxxc.cn
 https://vms.drweb.com
 https://vms.drweb.ru
@@ -8625,6 +8630,7 @@ https://wdsl88cc-sl.shenlong.wiki
 https://weavr.ai
 https://web.archive.org
 https://web.coo.wiki
+https://web.dashbit.top
 https://web.dev
 https://web.elevengo.ru
 https://web.gmssh.com
@@ -9397,6 +9403,7 @@ https://www.laoniu49.top
 https://www.laozuo.org
 https://www.laruence.com
 https://www.latepost.com
+https://www.lava.xyz
 https://www.lbank.com
 https://www.lbxjc.online
 https://www.lcpro.vip
