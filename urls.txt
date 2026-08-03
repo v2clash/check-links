@@ -1959,6 +1959,7 @@ https://ant.design
 https://ant.zbb25.filegear-sg.me
 https://antdv-pro.com
 https://anthropic.com
+https://anthropic.skilljar.com
 https://anti-ad.net
 https://anti-ban.dynx.pro:8443
 https://antifyapp.com
@@ -3653,6 +3654,7 @@ https://docs.cherry-ai.com
 https://docs.cilium.io
 https://docs.cloudbees.com
 https://docs.codax.site
+https://docs.comfy.org
 https://docs.confluent.io
 https://docs.cozy.io
 https://docs.crawlab.cn
@@ -5687,6 +5689,7 @@ https://max.rethinkdns.com
 https://max.ru
 https://maxhjd.jjzcloud.top
 https://maxkb.cn
+https://maya.net
 https://mb.manbo8.site
 https://mbinary.xyz
 https://mc.jiedianxielou.workers.dev
@@ -6319,6 +6322,7 @@ https://pan.qiwenshare.com
 https://pan.quark.cn
 https://pan.wxqqurl.cn
 https://pan.xunlei.com
+https://panda-sub.178278.xyz
 https://pandafly.site
 https://pandoc.org
 https://pandownload.net
@@ -7643,6 +7647,7 @@ https://sub.venurax.xyz
 https://sub.verybigball.org
 https://sub.viefast.vn
 https://sub.vip.sd
+https://sub.vlessfo.ru
 https://sub.vpntz.com
 https://sub.vvcloud.us.kg
 https://sub.websubscribe.net
@@ -9126,6 +9131,7 @@ https://www.erupt.xyz
 https://www.eset.com
 https://www.etemadnewspaper.ir
 https://www.etemadonline.com
+https://www.ether.fi
 https://www.etnews.com
 https://www.euractiv.com
 https://www.evan888.top
@@ -9495,6 +9501,7 @@ https://www.mindskip.net
 https://www.mindvideo.ai
 https://www.minecraft.net
 https://www.minimax.io
+https://www.minimaxi.com
 https://www.mir.com.my
 https://www.mirusubs.com
 https://www.miyun.me
@@ -9740,6 +9747,7 @@ https://www.scifinow.co.uk
 https://www.scmp.com
 https://www.sec-wiki.com
 https://www.sec.gov
+https://www.sega.co.jp
 https://www.semafor.com
 https://www.sensenova.cn
 https://www.sensetime.com
