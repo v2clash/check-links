@@ -536,6 +536,7 @@ http://macshuo.com
 http://mahsaserver.com
 http://mail.qq.com
 http://mail2.thirdpaull.monster:57327
+http://main.pythash.tr
 http://man7.org
 http://maprdocs.mapr.com
 http://mbox.idsduf.com
@@ -1681,6 +1682,7 @@ https://Instagram.com
 https://JpjfL54G.subxly.cfd:8443
 https://KMzz8DDAO4.mofangsub01.lat
 https://KtgcEg.absslk.xyz
+https://LOSE.netnet11.shop:2096
 https://N2VOlP.mcsslk.xyz
 https://NcLAhc.subxly.cfd:8443
 https://NoTMIKE.dev
@@ -1994,6 +1996,7 @@ https://api-jx.02000.top
 https://api-jx.02000.xin
 https://api-linkcube.net
 https://api-qw.02000.net
+https://api-qw.gonghailin.xin
 https://api-salkjdhajs-cdm.mcwy.xyz
 https://api-suc.0z.gs
 https://api-yq.02000.net
@@ -2729,6 +2732,7 @@ https://brew.sh
 https://bridge.lovecloud.me
 https://bridge.skyhong.tw
 https://briefcake.com
+https://browsec.page.link
 https://browser.networkwebmail.com
 https://browserleaks.com
 https://bsc-blockbook.nownodes.io
@@ -2807,6 +2811,7 @@ https://c4ad11f6.ghelper.me
 https://c5.wtf
 https://c59d6f0d.ghelper.me
 https://c6.y.qq.com
+https://c6et83fe1u99lr8j5w4s9iwik9565bqx.pages.dev
 https://c795577.parspack.net
 https://c7a91e3b-84d2-4c6f-9b71-2e8d4a6f3c11.com
 https://c7dabe95.proxy-978.pages.dev
@@ -4048,6 +4053,7 @@ https://emnkk.vfkum.website
 https://emoji.build
 https://emooo.ml
 https://emoooo.club
+https://empty-mouse-fbb7.alizareh4024.workers.dev
 https://emyJAP.mcsslk.xyz
 https://en.bitcoin.it
 https://en.cppreference.com
@@ -4415,6 +4421,7 @@ https://g.luxury
 https://g1.subjsm.cyou
 https://g1.xfuti.com
 https://g15311cec.cdn.uunode.com
+https://g2a.xxx.cn
 https://g3i.buzz
 https://g4rh0t1shzow.top
 https://g5.l4cqo1sz54.workers.dev
@@ -5077,6 +5084,7 @@ https://javascriptweekly.com
 https://javen205.gitee.io
 https://javidnetworkwatch.com
 https://jb.taipeicity.news
+https://jbkempf.com
 https://jc.005431.xyz
 https://jc.fanqiangdang.com
 https://jc.huasuan666.top
@@ -5443,6 +5451,7 @@ https://lingyuan.jiumaojiu.net
 https://linhongbo.com
 https://link.dingyueapi.net
 https://link.esnclink.com
+https://link.gridpointgo.com
 https://link.hhqq.net
 https://link.jscdn.cn
 https://link.juejin.cn
@@ -5538,6 +5547,7 @@ https://lookscanned.io
 https://loopycloud.ggff.net
 https://lore.kernel.org
 https://loremflickr.com
+https://lose.netnet11.shop:2096
 https://lottery.67696769.xyz
 https://love.52pokemon.cc
 https://love.52pokemon66.cc
@@ -5748,6 +5758,7 @@ https://microapp.gitee.io
 https://microformats.org
 https://midscenejs.com
 https://mie-sub.pz.pe
+https://mifa.world
 https://mifi.no
 https://mihanblockchain.com
 https://mihayun.top
@@ -6124,6 +6135,7 @@ https://node.lxseek.top
 https://node.nodefree.me
 https://node.oneclash.cc
 https://node.reami.us
+https://node.v2rayu.cc
 https://node.yifang02.men
 https://node.zasublink.com
 https://node.zasublinkv1.com
@@ -6207,6 +6219,7 @@ https://omdia.tech.informa.com
 https://omim.org
 https://omni.k8s9.com
 https://omnifile.co
+https://omniflash.net
 https://omnivore.app
 https://omp.exchange
 https://on.soundcloud.com
@@ -6255,6 +6268,7 @@ https://openit.littlesite.ml
 https://openit.ml
 https://openit.uitsrt.top
 https://openjdk.org
+https://openmdw.ai
 https://openpath.quest
 https://openproxylist.com
 https://openrouter.ai
@@ -6280,6 +6294,7 @@ https://osjdkdkk6469uajsm197.xn--5hqx9e52gdss.xyz
 https://oskolkhan.site
 https://oso.sh
 https://oss-alibabaclod.fsddsadsavgroup.top
+https://oss.oneclash.cc
 https://oss.pithecia.com
 https://oss.v2rayse.com
 https://ossrs.io
@@ -7470,6 +7485,7 @@ https://sub.domiw.com
 https://sub.ducklink.net
 https://sub.dukadi.one
 https://sub.dwlei.com
+https://sub.elitev2.ir:88
 https://sub.elkcloud.cc
 https://sub.eruca.cc
 https://sub.extc.shop
@@ -7503,6 +7519,7 @@ https://sub.hot123.me
 https://sub.htg8866.us.kg
 https://sub.hxlm9527.xyz
 https://sub.hycloud.shop
+https://sub.iampedi5.live
 https://sub.id9.cc
 https://sub.inets.io
 https://sub.infininode.xyz
@@ -8092,6 +8109,7 @@ https://tg.iamdt002.dpdns.org
 https://tg.lcvpn.sbs
 https://tg.sintotgch.com
 https://tg.z-cloud.dynv6.net
+https://tg8.lvcha.one
 https://tg9.lvcha.one
 https://tg9.lvcha.sbs
 https://tgdev.io
@@ -8864,6 +8882,7 @@ https://www.aignes.com
 https://www.aimixian.cn
 https://www.ainvest.com
 https://www.airport.lat
+https://www.aisi.gov.uk
 https://www.aixploria.com
 https://www.akcbtt.vip
 https://www.alibabacloud.com
@@ -8898,6 +8917,7 @@ https://www.apkmirror.com
 https://www.appinn.com
 https://www.applnn.cc
 https://www.applnn.com
+https://www.are.na
 https://www.artificial-intelligence.blog
 https://www.askahh.com
 https://www.asriran.com
@@ -9278,6 +9298,7 @@ https://www.hideipvpn.com
 https://www.hidoha.net
 https://www.himalaya.com
 https://www.hjtnt.link
+https://www.hk01.com
 https://www.hkfaa.com
 https://www.hneko.world
 https://www.hollywoodreporter.com
@@ -10363,6 +10384,7 @@ https://xs.mashiroshina.top
 https://xsbb25420.xskj999.ggff.net
 https://xsg2025.xsgsvip.dpdns.org
 https://xsgg25.xsgsvip.dpdns.org
+https://xship.2fa.cat
 https://xship.top
 https://xsj520.top
 https://xsjv2.live
@@ -10558,6 +10580,7 @@ https://yyhj.ae1autumn.dpdns.org
 https://yylx5.yylxjichang.link
 https://yysk.yitzu.cn.qingf.top
 https://yyzz.ink
+https://yz.yingzisub123123.com:30000
 https://yz.yinheyz.cfd
 https://yz6on.no-mad-world.club
 https://z.7li7li.com
