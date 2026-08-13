@@ -604,6 +604,7 @@ http://noorgpt.ir
 http://nosubscription.org
 http://notes.valdikss.org.ru
 http://notlsd.com
+http://ns.ch
 http://nuxyun.v2rayflash.top
 http://nvjiodsuhfb.shop
 http://ofdwqebhuzta.shop
@@ -1321,6 +1322,7 @@ https://221877f7-7b37-32f2-b6ad-d76cffb05c8d.nginx24tanz.xyz
 https://22cc.dbcloud.sbs
 https://231787.xyz
 https://23333.youzizizi.top
+https://234.qzz.io
 https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz
 https://25054128.xyz
 https://262235.xyz
@@ -1598,6 +1600,7 @@ https://81a6e0cd-5a8a-3500-997d-d7b3b73465d3.huaweippy.com
 https://81bfa329.ghelper.me
 https://822c634a.ghelper.me
 https://829f0f86.ghelper.me
+https://83232441.xyz
 https://835d842d.ghelper.me
 https://84b262c8.ghelper.me
 https://86400.com.au
@@ -1780,6 +1783,7 @@ https://aaaa.gay
 https://aac.wzai.top
 https://aaxc.club
 https://ab.dabai.in
+https://abadis.ir
 https://abbabav2board.foxspirit.vip
 https://abc.52pokemon.cc
 https://abc.com
@@ -3981,6 +3985,7 @@ https://e.coding.net
 https://e.dlife.cn
 https://e.ee88.tk
 https://e.lllm.dpdns.org
+https://e.pcloud.com
 https://e04ecf1d.ghelper.me
 https://e1-f55.pages.dev
 https://e1.xxr9ft26m5.workers.dev
@@ -4095,6 +4100,7 @@ https://epclub.xyz
 https://epg.112114.xyz
 https://epg.pw
 https://epg.v1.mk
+https://epg.zsdc.eu.org
 https://epoch.ai
 https://erasmus-plus.ec.europa.eu
 https://erciyun.net
@@ -5248,6 +5254,7 @@ https://kalbodteam.ir
 https://kami.tw93.fun
 https://kan.gar.ooo
 https://kanao.xyz
+https://kaneo.app
 https://kaochang.click
 https://kaolacloud.site
 https://kaopu.news
@@ -5432,6 +5439,7 @@ https://ldgb.pages.dev
 https://ldld.whtjdasha.com
 https://ldp2642.brucewang777.eu.cc
 https://leaflow.net
+https://learn.chatgpt.com
 https://learn.netdata.cloud
 https://learngitbranching.js.org
 https://leezn.eu.org
@@ -5678,6 +5686,7 @@ https://mafclub.online
 https://magic-api.ssssssss.org.cn
 https://magicae.pics
 https://magiceraser.org
+https://magicv.art
 https://mahanmusic.net
 https://maho.chipsfuck.fish
 https://mahour-music.ir:2053
@@ -5840,6 +5849,7 @@ https://ml4.hfhfb.homes
 https://ml6.hfhfb.homes
 https://mlimli.art
 https://mlshu.com
+https://mlshu.top
 https://mlshu.xyz
 https://mly01-1111.miaolianyun.my
 https://mly01.miaolianyun.my
@@ -6807,6 +6817,7 @@ https://rarbg.to
 https://raspy-silence-6035.c7b1iy135u.workers.dev
 https://raw.fastgit.org
 https://raw.fgit.ml
+https://raw.giteeusercontent.com
 https://raw.githack.com
 https://raw.gitmirror.com
 https://raw.gitslow.tk
@@ -6826,6 +6837,7 @@ https://readkit.app
 https://readpo.com
 https://readwise.io
 https://realvpn.v2yunvipaff.com
+https://realvtest.galaxyvipaff01.cc
 https://realvtest.qytvipaff.cc
 https://reborn.kaochang.ltd
 https://record.piao.news
@@ -7374,6 +7386,7 @@ https://st-sub.fly.dev
 https://stability.ai
 https://stackedit.io
 https://stackoverflow.com
+https://staffdeck.openbmb.cn
 https://stanforduniversity.qualtrics.com
 https://star-history.com
 https://star-rail-map.appsample.com
@@ -8266,6 +8279,7 @@ https://toolschi.com
 https://top.qning.top
 https://topiam.cn
 https://topsex.cc
+https://topsters.co
 https://torna.cn
 https://torrentfreak.com
 https://toshare.tosslk.xyz
@@ -8332,6 +8346,7 @@ https://tv.modemhub.work
 https://tv.zaringo.sbs
 https://tv2.zaringo.sbs
 https://tvbox.catvod.com
+https://tw.boostqz.com
 https://tw.stock.yahoo.com
 https://tweedegolf.nl
 https://twox.ir
@@ -9398,6 +9413,7 @@ https://www.ikuajings.com
 https://www.ikuayu.top
 https://www.imgurl.ir
 https://www.imvbox.com
+https://www.imwzh.com
 https://www.infomaniak.com
 https://www.infoq.cn
 https://www.infoq.com
@@ -9615,6 +9631,7 @@ https://www.moonriver.sbs
 https://www.morningstar.com
 https://www.moviesho.com
 https://www.mozilla.org
+https://www.mplus.org.hk
 https://www.mpyit.com
 https://www.msftconnecttest.com
 https://www.msit.go.kr
@@ -9736,6 +9753,7 @@ https://www.pasyun.com
 https://www.patreon.com
 https://www.pcgamer.com
 https://www.pclnn.com
+https://www.pcloud.com
 https://www.pdda.me
 https://www.pddc.me
 https://www.persianboxx.com
@@ -9781,6 +9799,7 @@ https://www.qualcomm.cn
 https://www.qualcomm.com
 https://www.qunima.cc
 https://www.rabbitmq.com
+https://www.racevpn.com
 https://www.radiozamaneh.com
 https://www.radix-ui.com
 https://www.rainbond.com
