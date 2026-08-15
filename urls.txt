@@ -516,6 +516,7 @@ http://lianjiasub.work
 http://liberize.me
 http://link.busuu.com
 http://link.linkdns.xyz:9092
+http://linux.do
 http://list.ciron.net
 http://llvm.org
 http://lokistack-dev-gateway-http.openshift-logging.svc:8080
@@ -935,6 +936,7 @@ http://www.apache.org
 http://www.battware.co.uk
 http://www.benmutou.com
 http://www.bfyun.top
+http://www.bing.com
 http://www.blakesmith.me
 http://www.bloglines.com
 http://www.boardchannels.com.cn
@@ -1567,6 +1569,7 @@ https://717db74a.ghelper.me
 https://719401146.online
 https://722008e7.ghelper.me
 https://728a2214.ghelper.me
+https://72rjf.sakuracloud.vip
 https://735aa828cdfb.qtt-163cdn.com
 https://736ca2b2.ghelper.me
 https://738.msjrfkh.com
@@ -1867,11 +1870,13 @@ https://afa3c676.ghelper.me
 https://afdian.com
 https://afdian.net
 https://affiliates.mswb120x.xyz
+https://affwinro.io
 https://afranet.ir
 https://aftabnews.ir
 https://afun-waf.trafficmanager.net
 https://afun.la
 https://ag.bnpm.dynu.net:30443
+https://agentrouter.org
 https://agmprojects.com
 https://agtv.me
 https://ai-bot.cn
@@ -3851,6 +3856,7 @@ https://drvpn.net
 https://ds-33.xyz
 https://dsa.noseisei.com
 https://dsl.one.pl
+https://dspeoql.tprsmi.com
 https://dt.shdetai.cn
 https://dt666.xyz
 https://dtjc.xyz
@@ -4511,6 +4517,7 @@ https://geturl-wchbenralk.cn-beijing.fcapp.run
 https://getzeus.app
 https://gfagdefrgf.436143.xyz
 https://gfdlaw9.xiaoliyu.xyz:8443
+https://gfvgx.jgqvji.com
 https://gfwairport.icu
 https://gfwglass.tk
 https://gfyweuuchsa.shop
@@ -5194,6 +5201,7 @@ https://jmoesub.bygcloud.com
 https://jmp.sh
 https://jmssub.net
 https://jnir.lightnright.com
+https://jnjdp.tprsmi.com
 https://jnz.cs.com.cn
 https://jnzstatic.cs.com.cn
 https://jobs.lever.co
@@ -5351,6 +5359,7 @@ https://kr-sel.doh.sb
 https://kr00lwbck8finkxhvskf8i7fhx4pwbfb.skygo0527.top
 https://krebsonsecurity.com
 https://krillapps.com
+https://krlutn.tckqxx.com
 https://kronos.plan9-dns.com
 https://ktm.qeayr.cn
 https://ktm001.top
@@ -5577,6 +5586,7 @@ https://lmaff01.lmspeed.co
 https://lmjc.xyz
 https://lmskk.lanzouv.com
 https://lmstudio.ai
+https://lncqc.jgqvji.com
 https://lnithefedhwadf2qhhald5l23zdadzci.skygo0527.top
 https://lnk.ink
 https://lobehub.com
@@ -6336,6 +6346,7 @@ https://openui.n256.com
 https://openvidu.io
 https://openvpn-ssh.com
 https://openvpn.net
+https://openvuln.vulnhunter.pro
 https://openweathermap.org
 https://oracle.zoom.us
 https://orbot.app
@@ -6682,6 +6693,7 @@ https://proxypoolsstest.herokuapp.com
 https://proxypoolv2.tk
 https://proxyvip.xyz
 https://proxyway.com
+https://ps.air-outer.com
 https://psce.pw
 https://psiphon.ca
 https://psiphon3.com
@@ -7220,6 +7232,7 @@ https://shorturl.asia
 https://shouyeren.uk
 https://shp.ee
 https://shrtm.nu
+https://shrty.me
 https://shua.leyz.top
 https://shuiguo60.top
 https://shuiniu.web.app
@@ -7448,6 +7461,7 @@ https://streamshare.wireway.ch
 https://stripe.com
 https://strongvpn.com
 https://sttsub.top
+https://studio.dots.ai
 https://study.jaycloud11111.top
 https://study.small1999.sbs
 https://study1.v1999.sbs
@@ -8090,6 +8104,7 @@ https://t2bot.io
 https://t4.secan.icu
 https://ta.mao2cloud.com
 https://tabdeal.org
+https://tabitoken.com
 https://tableconvert.com
 https://tagcdnsub.work
 https://tagembed.com
@@ -8134,6 +8149,7 @@ https://tech.huanqiu.com
 https://tech.ifeng.com
 https://tech.localenby.is
 https://tech.meituan.com
+https://tech.yahoo.com
 https://tech2.npm.edu.tw
 https://techcrunch.com
 https://technogold.gold
@@ -8173,6 +8189,7 @@ https://testingcf.jsdelivr.net
 https://texon.io
 https://textideo.com
 https://tf.nikishop13.online
+https://tfajn.hcjwj.com
 https://tfboys.cloudtaste.xyz
 https://tg.apocalypse.cc.cd
 https://tg.i-c-a.su
@@ -9947,6 +9964,8 @@ https://www.techighness.com
 https://www.technolife.ir
 https://www.technologyreview.com
 https://www.techpowerup.com
+https://www.techradar.com
+https://www.techspot.com
 https://www.techug.com
 https://www.televisionacademy.com
 https://www.tenorshare.com
