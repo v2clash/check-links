@@ -138,6 +138,7 @@ http://bitcoin.stackexchange.com
 http://biu001.com
 http://ble.ir
 http://blog.blindspotsecurity.com
+http://blog.cloudflare.com
 http://blog.cnbang.net
 http://blog.csdn.net
 http://blog.farmostwood.net
@@ -2181,6 +2182,7 @@ https://api.sub-100.one
 https://api.sub-200.club
 https://api.sub-300.club
 https://api.sublink.dev
+https://api.sushi3.cloud
 https://api.together.ai
 https://api.toubiec.cn
 https://api.touhou.center
@@ -6328,6 +6330,7 @@ https://openai.com
 https://openai.justsong.cn
 https://openai01.net
 https://openart.ai
+https://opencode.ai
 https://opencollective.com
 https://opencut.app
 https://opendatalab.com
@@ -7373,6 +7376,7 @@ https://squareup.com
 https://sr.ht
 https://sraylink.com
 https://src.ydcloud.us
+https://src.yohuo.eu.org
 https://srftbg.sendmailt.com
 https://srfux4zuwq.qinyues4.cc
 https://srga.quest
@@ -7613,6 +7617,7 @@ https://sub.id9.cc
 https://sub.inets.io
 https://sub.infininode.xyz
 https://sub.irys.dpdns.org
+https://sub.jetservices.ir:2096
 https://sub.jfjs.cc
 https://sub.jige.li
 https://sub.jileiyun.top
@@ -8161,6 +8166,7 @@ https://tech.yahoo.com
 https://tech2.npm.edu.tw
 https://techcrunch.com
 https://technogold.gold
+https://technopay.ir
 https://techsiro.com
 https://teddy-chen-tw.blogspot.com
 https://tehransms.online
@@ -8873,6 +8879,7 @@ https://wjkc123.com
 https://wjkc66.vip
 https://wk-auto-update-3e7.pages.dev
 https://wk.baodaoji.com
+https://wk392.sakuracloud.vip
 https://wl.awcmam.com
 https://wl77vv.ccwu.cc
 https://wloc-pages.pages.dev
@@ -9160,6 +9167,7 @@ https://www.codeflicker.ai
 https://www.codewoody.com
 https://www.coindesk.com
 https://www.commoninja.com
+https://www.computerworld.com
 https://www.consul.io
 https://www.conventionalcommits.org
 https://www.cooc.cloud
@@ -9385,6 +9393,7 @@ https://www.guanguans.cn
 https://www.guanxi.cloudns.be
 https://www.guerrillamail.com
 https://www.guru3d.com
+https://www.gurufocus.com
 https://www.gyy.pw
 https://www.gzcloud.shop
 https://www.hadean.com
@@ -9449,6 +9458,7 @@ https://www.imwzh.com
 https://www.infomaniak.com
 https://www.infoq.cn
 https://www.infoq.com
+https://www.infrastructure.gov.au
 https://www.inkandswitch.com
 https://www.inoreader.com
 https://www.inspektor-gadget.io
@@ -10064,6 +10074,7 @@ https://www.uploadina.com
 https://www.uptvs.com
 https://www.upx8.com
 https://www.ure.best
+https://www.usatoday.com
 https://www.usdt.gl
 https://www.usitc.gov
 https://www.ut6owx.vip:9977
@@ -10677,6 +10688,7 @@ https://yun.iyiyun.xyz
 https://yun.xiaoyao01.com
 https://yunanyun.app
 https://yunduanjc.top
+https://yunfanplus.com
 https://yunjijd.xyz
 https://yunlu.jiumaojiu.net
 https://yunlu.vip
