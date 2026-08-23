@@ -194,6 +194,7 @@ http://ciallo.elegy.icu:7001
 http://cinowu.duoshuo.com
 http://clash.razord.top
 http://clash77.top
+http://clau.de
 http://claude.ai
 http://cliffle.com
 http://cloudflare.com
@@ -3022,6 +3023,7 @@ https://chaoxn.top
 https://chaozhijc.xyz
 https://charityhost.org
 https://charts.bitnami.com
+https://chat.deepseek.com
 https://chat.mistral.ai
 https://chat.openai.com
 https://chat.qwen.ai
@@ -5919,6 +5921,7 @@ https://mmyyds.xyz
 https://mn7gcvn1iul6.top
 https://mnkcloud.xyz
 https://mo.mojieurl.com
+https://mobileweb.mellat.ir
 https://mobomb.ir
 https://mochizuki.top
 https://mocloudplus.com
