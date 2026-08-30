@@ -116,6 +116,7 @@ http://arrow.apache.org
 http://asb.dmhpro.top:2096
 http://asb.op-house.top:2096
 http://assets.gateway-stream.com
+http://asterweb.jpl.nasa.gov
 http://atcentra.com
 http://awcloud.life
 http://aws.amazon.com
@@ -132,6 +133,7 @@ http://best.momoxiaodian.cc
 http://beta.mattenadene.org:54075
 http://beta.moon.fm
 http://betinja.bet
+http://bfrd.link
 http://bgroup.node3.s.nodelist-airport.com:50001
 http://bh.ayud.top
 http://bing.com
@@ -230,6 +232,7 @@ http://ctmm.gscloud.bond:31620
 http://cursor.com
 http://cutout.pro
 http://cybersyndrome.net
+http://cycling.waymarkedtrails.org
 http://d.firim.pro
 http://d.har01d.cn
 http://d.xyss.xyz
@@ -577,6 +580,7 @@ http://mozilla.org
 http://mp.weixin.qq.com
 http://mrpm.cc
 http://msvpn.gougouvpn.xyz:88
+http://mtb.waymarkedtrails.org
 http://mvilla.it
 http://mvo-dl.top
 http://mx2.drawnrisha.one:55988
@@ -659,8 +663,10 @@ http://panel.nfspeed01.com
 http://panel.toolspik.com
 http://panel.versland.io
 http://paste.c-net.org
+http://pecl.php.net
 http://persianboxx.com
 http://pf.juzimao01.cloud
+http://php.net
 http://physics.oregonstate.edu
 http://pic.sdodo.com
 http://picwish.com
@@ -926,6 +932,7 @@ http://whoer.net
 http://wifi.vivo.com.cn
 http://wiki.apache.org
 http://wiki.cifaz.com
+http://wiki.openstreetmap.org
 http://windirstat.net
 http://windscribe.com
 http://wow.mio.gay
@@ -1048,6 +1055,7 @@ http://www.mysql.com
 http://www.net.cn
 http://www.netvibes.com
 http://www.nicevpns.com
+http://www.ninjacrab.com
 http://www.novatti.com
 http://www.ocert.org
 http://www.ohh.ink
@@ -1383,6 +1391,7 @@ https://30158025.ghelper.me
 https://30178aeb-8299-045d-fb67-ae12ce73dd2c.buou.lol
 https://302acd11.ghelper.me
 https://30388d70-6f5c-4d7c-8daa-9d3df7c5c526.9150e878-8296-4798-a172-c3fe66b8dee5.ddnsgeek.com
+https://307.run
 https://3093492f6b2332f8server.lycoris.one
 https://309pb.zbb.dns-dynamic.net
 https://309pb.zc08.us.kg
@@ -1865,6 +1874,7 @@ https://adblock.doh.mullvad.net
 https://adblockultimate.net
 https://adclick.one
 https://add.aptv.app
+https://add.king361.cf
 https://addapit.ssorg.us.kg
 https://addons.mozilla.org
 https://adg.b01.dns-dynamic.net
@@ -2348,6 +2358,7 @@ https://app.netlify.com
 https://app.nextvpn.xyz
 https://app.notion.com
 https://app.operately.com
+https://app.patr.cloud
 https://app.ppssqq.com
 https://app.rebrandly.com
 https://app.rookiebase.cn
@@ -2421,6 +2432,7 @@ https://asiatech.ir
 https://ask.xsccusm.com:8888
 https://aspoem.com
 https://assets-uat.ajio.ril.com
+https://asterweb.jpl.nasa.gov
 https://astro.build
 https://astropad.com
 https://astutewheel.com.au
@@ -2479,6 +2491,7 @@ https://azadnet-freedom-iranian1.pages.dev
 https://azadnet-freedom-iranian2.pages.dev
 https://azadnet-freedom-iranian3.pages.dev
 https://azi.azzico.cc
+https://azmirror.com
 https://azsub.acousticlab.site
 https://azure.cloudflare-dns.com
 https://azyun.top
@@ -2912,6 +2925,7 @@ https://c842122.parspack.net
 https://c99a91a9.ghelper.me
 https://c99c4620.edge-069caa23.pages.dev
 https://caa-familly.sbs
+https://cadsr.cancer.gov
 https://cafbit.com
 https://cafebazaar.ir
 https://cainiao164.top
@@ -3117,6 +3131,7 @@ https://circloud123.com
 https://citi.terminal69.win
 https://cj.sina.cn
 https://ck2.yunxiangvip.mom
+https://ckardaris.com
 https://ckeditor.com
 https://ckpt.cc
 https://ckxxapp.ckxx.net
@@ -3548,6 +3563,7 @@ https://deepimg.io
 https://deepquery.cn
 https://deepseek.com
 https://deepswe.datacurve.ai
+https://deeptutor.info
 https://deepweb.net
 https://deepwiki.com
 https://deershare.com
@@ -3611,6 +3627,7 @@ https://developer.okta.com
 https://developer.salesforce.com
 https://developer.samsung.com
 https://developer.themoviedb.org
+https://developer.vmware.com
 https://developers.bitgo-dev.com
 https://developers.cloudflare.com
 https://developers.figma.com
@@ -3853,11 +3870,13 @@ https://docs.spicyboy.cn
 https://docs.spring.io
 https://docs.sqlc.dev
 https://docs.stackstorm.com
+https://docs.sysdig.com
 https://docs.taro.zone
 https://docs.termix.site
 https://docs.traefik.io
 https://docs.turso.tech
 https://docs.vllm.ai
+https://docs.vmware.com
 https://docs.volta.sh
 https://docs.x.ai
 https://docs.z.ai
@@ -3910,6 +3929,7 @@ https://doris.apache.org
 https://doslvcpq5ql74gid.pythonanywhere.com
 https://dot.pub
 https://dot.theojs.cn
+https://dotnetthoughts.net
 https://doub.io
 https://doubi.lol
 https://doubledou.win
@@ -4180,6 +4200,7 @@ https://eitaa.com
 https://ejq9qy8emd.feishu.cn
 https://eladmin.vip
 https://eleduck.com
+https://element.eleme.io
 https://elena.com.co
 https://elevenlabs.io
 https://elgoog.im
@@ -4231,6 +4252,7 @@ https://etoneya.su
 https://etproxypool.cf
 https://etproxypool.ga
 https://eu.umami.is
+https://eu1.app.sysdig.com
 https://evef8ow37e.execute-api.us-east-1.amazonaws.com
 https://even.axxi.site
 https://event.baai.ac.cn
@@ -4473,6 +4495,7 @@ https://forum.koishi.xyz
 https://forum.naixi.net
 https://forum.proxmox.com
 https://fosstodon.org
+https://four.htmx.org
 https://foxtiming.com
 https://fpacecloud.com
 https://fqjc.xyz
@@ -4484,6 +4507,7 @@ https://free-fs.top
 https://free-ss.site
 https://free.1g.gay
 https://free.269228.dpdns.org
+https://free.889876.xyz
 https://free.andiliba.cc
 https://free.apprcn.com
 https://free.cfnode.shop
@@ -4498,6 +4522,7 @@ https://free.itdog.cloud
 https://free.jingfu.cf
 https://free.juzi.lat
 https://free.kcjs.me
+https://free.king361.cf
 https://free.kingfu.cf
 https://free.kingfu.top
 https://free.legeth.com
@@ -4895,6 +4920,7 @@ https://hiddify0422.pages.dev
 https://hidemy.name
 https://higgsfield.ai
 https://hikaripe-sc.hikaricalyx.com
+https://hiking.waymarkedtrails.org
 https://himalayas.app
 https://hintsnet.com
 https://hitokoto.cn
@@ -5467,6 +5493,7 @@ https://kkjiasu.top
 https://kkkkkkk.vvvv.ee
 https://kkn.fi
 https://kkocdko.site
+https://kktoken.cc
 https://kkzui.com
 https://kl05.ximicloud.net
 https://klap.app
@@ -6055,6 +6082,7 @@ https://monetizeai.site
 https://money.udn.com
 https://moneyeasilyfkh.top
 https://moneyeasilyxfd.top
+https://monzo.com
 https://morerss.com
 https://morphe-patches.software
 https://mosquitto.org
@@ -6430,6 +6458,7 @@ https://ocean.likelike.ip-ddns.com
 https://ocloudvpn.com
 https://ocrmypdf.readthedocs.io
 https://octohide.com
+https://octopus.com
 https://octopuspalm.top
 https://ocypod.readthedocs.io
 https://oddetall.no
@@ -6491,9 +6520,11 @@ https://openai.com
 https://openai.justsong.cn
 https://openai01.net
 https://openart.ai
+https://openchart.choerodon.com.cn
 https://opencode.ai
 https://opencollective.com
 https://opencut.app
+https://opendatacommons.org
 https://opendatalab.com
 https://opendev.org
 https://opengym.duarte-santos.ch
@@ -6504,6 +6535,7 @@ https://openit.littlesite.ml
 https://openit.ml
 https://openit.uitsrt.top
 https://openjdk.org
+https://openmaps.fr
 https://openmdw.ai
 https://openpath.quest
 https://openproxylist.com
@@ -6912,6 +6944,7 @@ https://pvn4hq.subxly.cfd:8443
 https://pvn4hq.xiaoliyusub.top:8443
 https://pvsmi.no-mad-sub.one
 https://pwac.gzi8998-ddns0721.eu
+https://pwning.systems
 https://px.xinyo.me
 https://pxQEH3U.subxly.cfd:8443
 https://pxkj.999g.xyz
@@ -6932,6 +6965,7 @@ https://qd.sunchen.top
 https://qd1.8811334.xyz
 https://qdkfweb.cn
 https://qdyun.cf
+https://qebapps.statichost.page
 https://qeshmyar.com
 https://qfg.dukadi.shop
 https://qfluentwidgets.com
@@ -7065,6 +7099,7 @@ https://reference-url-citation.invalid
 https://reffpa.com
 https://refor1314.us.kg
 https://refpa3665.com
+https://refstack.openstack.org
 https://regery.com
 https://region-a.geo-1.identity.hpcloudsvc.com:35357
 https://registry.npmmirror.com
@@ -7092,6 +7127,7 @@ https://research.web3.foundation
 https://resolver2.dns.watch
 https://restheart.org
 https://restless-cherry-a0b5.yasinsky980.workers.dev
+https://rethinkdb.com
 https://rethinkdns.com
 https://retrogamesnexus.com
 https://reurl.cc
@@ -7607,6 +7643,7 @@ https://stackoverflow.com
 https://staffdeck.openbmb.cn
 https://stanforduniversity.qualtrics.com
 https://star-history.com
+https://star-history.dera.page
 https://star-rail-map.appsample.com
 https://star.starflycloud.com
 https://starchart.cc
@@ -8286,6 +8323,7 @@ https://sy.wgkzg.com
 https://syjccloud.com
 https://synthesize.rs
 https://syragpt.ir
+https://sysdig.my.company.com
 https://system76.com
 https://syt.sytcloud.top
 https://sytcloud.top
@@ -8431,6 +8469,7 @@ https://thenextweb.com
 https://theoldreader.com
 https://theoriginals.io
 https://theosintvault.io
+https://thepodcastapp.dev
 https://thepoint1.free886.site
 https://thereallo.dev
 https://theresanaiforthat.com
@@ -8528,7 +8567,9 @@ https://tr.z9678.rr.nu
 https://tr.z9678.v6.army
 https://trac.parrot.org
 https://trace.moe
+https://trackawesomelist.us17.list-manage.com
 https://transfer.52python.cn
+https://translatewiki.net
 https://translator.broadinstitute.org
 https://travis-ci.org
 https://trc.metrix.ir
@@ -8685,6 +8726,7 @@ https://us.nothing.tech
 https://us.ziyun.cyou
 https://us02-lax.beijing.st
 https://us1.zhuk.dpdns.org
+https://us2.app.sysdig.com
 https://us2.campaign-archive.com
 https://usa.yuyuki.link
 https://usepanda.com
@@ -8832,6 +8874,7 @@ https://videofetch.readthedocs.io
 https://videomazani.com
 https://view.inews.qq.com
 https://vifast.net
+https://vika.cn
 https://vikunja.io
 https://villa.parkson-market.org
 https://viloh.xyz
@@ -9063,6 +9106,7 @@ https://wiki.jenkins-ci.org
 https://wiki.kache.moe
 https://wiki.mcy.im
 https://wiki.metacubex.one
+https://wiki.openstreetmap.org
 https://wiki.polkadot.network
 https://wiki.qemu.org
 https://wiki.repcz.link
@@ -9290,6 +9334,7 @@ https://www.bizcover.com.au
 https://www.bjch999.com
 https://www.bleepingcomputer.com
 https://www.blindambition.co.uk
+https://www.blogger.com
 https://www.bloomberg.com
 https://www.bm-link.com
 https://www.bmpi.dev
@@ -9482,6 +9527,7 @@ https://www.eevpn.com
 https://www.efcloud.bio
 https://www.efcloud.cc
 https://www.eftposaustralia.com.au
+https://www.elastic.co
 https://www.elecrow.com
 https://www.elinksapi.com
 https://www.elixir-europe.org
@@ -9998,6 +10044,7 @@ https://www.nutsfind.com
 https://www.nvenix.icu
 https://www.nvidia.com
 https://www.nytimes.com
+https://www.octopus.com
 https://www.oiioii.ai
 https://www.okanc.com
 https://www.okanc.net
@@ -10014,6 +10061,7 @@ https://www.openmodel.ai
 https://www.opensparkz.tech
 https://www.openssl.org
 https://www.openstack.org
+https://www.openstreetmap.org
 https://www.opentech.fund
 https://www.opera.com
 https://www.oreilly.com
@@ -10301,6 +10349,7 @@ https://www.torlock.com
 https://www.torproject.org
 https://www.toutiao.com
 https://www.toyaml.com
+https://www.trackawesomelist.com
 https://www.trash-mail.com
 https://www.trendforce.com
 https://www.tribler.org
@@ -10349,6 +10398,7 @@ https://www.v2youzi.top
 https://www.varzesh3.com
 https://www.vaticannews.va
 https://www.vchangyi.com
+https://www.vectorian.be
 https://www.velochronnet.com
 https://www.veracrypt.fr
 https://www.vfast.life
