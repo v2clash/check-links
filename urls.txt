@@ -1868,6 +1868,7 @@ https://ably.com
 https://abmedia.io
 https://about.fb.com
 https://about.instagram.com
+https://about.suno.com
 https://abr.mohammadreza.top:2096
 https://abrehamrahi.ir
 https://abxy.odrevo.xyz
@@ -2877,6 +2878,7 @@ https://bridge.lovecloud.me
 https://bridge.skyhong.tw
 https://briefcake.com
 https://browsec.page.link
+https://browser.geekbench.com
 https://browser.networkwebmail.com
 https://browserleaks.com
 https://bsc-blockbook.nownodes.io
@@ -4021,6 +4023,7 @@ https://download.pytorch.org
 https://download.sekurvpn.com
 https://download.wireguard.com
 https://downloader.caorushizi.cn
+https://downloads.claude.ai
 https://downloads.immortalwrt.org
 https://downloads.onelighter.site
 https://downloads.snapp.site
@@ -4336,6 +4339,7 @@ https://exo.cloudtaste.xyz
 https://expense-manager.com
 https://experienceleague.adobe.com
 https://expertmedias.org
+https://explore.omsystem.com
 https://expressjs.com
 https://extractor-demos.pages.dev
 https://extrm.info
@@ -4347,6 +4351,7 @@ https://f-droid.org
 https://f.kxyz.eu.org
 https://f001.backblazeb2.com
 https://f105039.lvcha.me
+https://f105062.lvcha.me
 https://f1e7c332.ghelper.me
 https://f2.st0103.top
 https://f360da61.ghelper.me
@@ -5561,6 +5566,7 @@ https://king-gpt.ir
 https://king-movie.net
 https://king.likelike.ip-ddns.com
 https://kipfel.youzizi.top
+https://kiraai.vn
 https://kite-demo.zzde.me
 https://kite.zzde.me
 https://kitsch.xn--8stx8olrwkucjq3b.com
@@ -6096,6 +6102,7 @@ https://mifa.world
 https://mifi.no
 https://mihanblockchain.com
 https://mihayun.top
+https://mihomo-fa.ai.studio
 https://mikanani.me
 https://miku.onl
 https://milli.gold
@@ -7169,6 +7176,7 @@ https://radiumcapital.com.au
 https://rahnemacollege.com
 https://rakuen.thec.me
 https://ran.do
+https://ran.qhrgobull.fun
 https://ran.ranhaha.zdjzhejshsxintaid.kuaivpn.app
 https://ranchero.com
 https://rande.huna.shabijcaonimade.bibaochi.sha.kuaivpn.app
@@ -7200,6 +7208,7 @@ https://reader.960960.xyz
 https://readhub.cn
 https://readine.app
 https://readkit.app
+https://readmate.app
 https://readpo.com
 https://readwise.io
 https://realpython.com
@@ -7278,6 +7287,7 @@ https://ripaojiedian.coding.net
 https://riscv.org
 https://rk.wuxianliulianng.xyz
 https://rk.xn--mest45ax3al6m4k5cvwf.shop
+https://roadmap.sh
 https://robertohuertas.com
 https://rockblack.pro
 https://rocket.rs
@@ -7311,6 +7321,7 @@ https://rss.jkl-sub.com
 https://rss.linghunyun.xyz
 https://rss.msclm.net
 https://rss.mugua-sub2.xyz
+https://rss.nodeseek.com
 https://rss.okggrss.buzz
 https://rss.paoluz.xyz
 https://rss.rss-node.com
@@ -8431,6 +8442,7 @@ https://support.getflix.com
 https://support.huaweicloud.com
 https://support.ipvanish.com
 https://support.logi.com
+https://support.nintendo.com
 https://support.nym.com
 https://support.packet.com
 https://support.qq.com
@@ -9483,6 +9495,7 @@ https://www.bbc.co.uk
 https://www.bbc.com
 https://www.bee2.cloud
 https://www.behance.net
+https://www.believe.com
 https://www.ben-evans.com
 https://www.benq.com
 https://www.bestblogs.dev
@@ -10152,6 +10165,7 @@ https://www.museivaticani.va
 https://www.mxnzp.com
 https://www.mxssr1.top
 https://www.mxssr3.top
+https://www.myfonts.com
 https://www.mysubmail.com
 https://www.mysubsoft.com
 https://www.mytunneling.com
@@ -10220,6 +10234,7 @@ https://www.nsloon.com
 https://www.nsmc.org.cn
 https://www.nssurge.com
 https://www.ntp.org
+https://www.ntsb.gov:443
 https://www.nushell.sh
 https://www.nutbit.net
 https://www.nutsfind.com
@@ -10298,6 +10313,7 @@ https://www.pluchon.com
 https://www.pokemon.com
 https://www.polarstars.org
 https://www.politico.com
+https://www.polskieradio.pl
 https://www.postgresql.org
 https://www.ppssqq.com
 https://www.prevoty.com
