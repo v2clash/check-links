@@ -789,6 +789,7 @@ http://speedtest.net
 http://split.tg
 http://ss.045.node-for-bigairport.win:19000
 http://ss.pythonic.life
+http://ssl.fastly.com
 http://ssrdingyue.ueuo.com
 http://stackoverflow.com
 http://stairnode.cczzuu.top
@@ -2922,6 +2923,7 @@ https://buymeacoffee.com
 https://bvzlp5yfwo0g6jplac5ko4yw97srx0of.guybat-e-s-750-4-6.workers.dev
 https://bwh81.net
 https://bwh88.net
+https://bwt-lwts.onrender.com
 https://bxefgnfud2uv.top
 https://bxy.org.uk
 https://bxy.re
@@ -3373,6 +3375,7 @@ https://config.huojian111.com
 https://config.moe
 https://confighub.site
 https://configuration.osk2.com
+https://connect-apps.s3.ir-thr-at1.arvanstorage.ir
 https://connect.linux.do
 https://connect.rom.miui.com
 https://connectivitycheck.android.com
@@ -3617,6 +3620,7 @@ https://ddsfsdfsdf.tiktok.casa
 https://ddys.yunjisuan.cf
 https://ddys.yunjisuan.gq
 https://ddyun.org
+https://de.batmusic.org:2053
 https://deamnetd.3seed.ru:8888
 https://deb.nodesource.com
 https://debe9623.ghelper.me
@@ -4000,6 +4004,7 @@ https://doris.apache.org
 https://doslvcpq5ql74gid.pythonanywhere.com
 https://dot.pub
 https://dot.theojs.cn
+https://dot.theojs.net
 https://dotnetthoughts.net
 https://doub.io
 https://doubi.lol
@@ -4143,6 +4148,7 @@ https://dy3.bldby.shop
 https://dy3.qiuyue.shop
 https://dy3.yunhu1.xyz
 https://dy4.mmydy.xyz
+https://dy5-8.fgqoq.online
 https://dy5.mmydy.xyz
 https://dy51.dukadi.info
 https://dy513.mmydy.xyz
@@ -4467,6 +4473,7 @@ https://feiniaoyun.xyz
 https://feiniaoyun11.life
 https://feitucloud.com
 https://feiwangacg.taobao.com
+https://feixiang1981.ccwu.cc
 https://felixnuesse.de
 https://fellayun.cc
 https://fenghen.me
@@ -4690,6 +4697,7 @@ https://g.luxury
 https://g1.subjsm.cyou
 https://g1.xfuti.com
 https://g105039.lvcha.me
+https://g105062.lvcha.me
 https://g15311cec.cdn.uunode.com
 https://g2a.xxx.cn
 https://g3i.buzz
@@ -5351,6 +5359,7 @@ https://is.wepogp.gay
 https://ishare.ifeng.com
 https://isherv.in
 https://isi.gay
+https://isignal.ir
 https://isignthis.com
 https://isitai.com
 https://issues.apache.org
@@ -5676,6 +5685,7 @@ https://l.db-link01.top
 https://l.snpy.ir
 https://l.threads.com
 https://l.xfuti.com
+https://l105039.lvcha.me
 https://l1wn2.no-mad-world.club
 https://l5vzf.no-mad-world.club
 https://lB9ejFyBeL.mofangsub01.baby
@@ -6841,6 +6851,7 @@ https://persepolis.getty.edu
 https://persianasports.com
 https://personal.dtcpay.com
 https://petapixel.com
+https://petrelvoyage.com
 https://petstore.swagger.io
 https://pf.apz3xggbio.workers.dev
 https://pfjc.im
@@ -7019,6 +7030,7 @@ https://proxy.aries.ovh
 https://proxy.avgt.ink
 https://proxy.batiex.ink
 https://proxy.bilinerz.eu.org
+https://proxy.bingtao.xyz
 https://proxy.crazygeeky.com
 https://proxy.fldhhhhhh.top
 https://proxy.kinhweb.com
@@ -7214,6 +7226,7 @@ https://rcktnl.site
 https://reabble.cn
 https://react.dev
 https://reactbits.dev
+https://read.misalignedmag.com
 https://reader.960960.xyz
 https://readhub.cn
 https://readine.app
@@ -7361,6 +7374,7 @@ https://rubyfish.cn.cloudflare-dns.com
 https://rukawa.pages.dev
 https://rule.kelee.one
 https://rules.kr328.app
+https://rules.swsixtwo.top
 https://rules.xkww3n.cyou
 https://ruleset.isteed.cc
 https://ruleset.skk.moe
@@ -8606,6 +8620,7 @@ https://testcf.motherfuck.dpdns.org
 https://testingcf.jsdelivr.net
 https://texon.io
 https://textideo.com
+https://teyurixjknfa.shop
 https://tf.nikishop13.online
 https://tfajn.hcjwj.com
 https://tfboys.cloudtaste.xyz
@@ -8819,6 +8834,7 @@ https://u4dqz2t0x576.syynweb.shop
 https://u7icdleyqd.feishu.cn
 https://u9kkkk.com
 https://uat-admin.drt-acs.org
+https://ubeewk.swsixtwo.top
 https://ubuntu.com
 https://ubuntu.download-config-dotu.cyou
 https://ucloud.lol
@@ -9220,6 +9236,7 @@ https://web.archive.org
 https://web.coo.wiki
 https://web.dashbit.top
 https://web.dev
+https://web.eecs.utk.edu
 https://web.elevengo.ru
 https://web.gmssh.com
 https://web.nnpy.org
@@ -9364,6 +9381,8 @@ https://ww3.gcpay.com
 https://ww38.console.ly520.me
 https://ww38.klxq.djgskc.top
 https://wwa.lanzoui.com
+https://wwaox.lanzouu.com
+https://wwaxs.lanzouu.com
 https://wwbbd.lanzouw.com
 https://wwbpv.lanzouu.com
 https://wwe.lanzoui.com
@@ -9603,6 +9622,7 @@ https://www.ckcloud.xyz
 https://www.clash.la
 https://www.clashverge.dev
 https://www.class.com.au
+https://www.claymath.org
 https://www.clipzap.ai
 https://www.cloudflare.com
 https://www.cloudlion.me
@@ -9751,6 +9771,7 @@ https://www.exalead.com
 https://www.exitlag.com
 https://www.expressvpn.com
 https://www.expressvpn.works
+https://www.ezer.cc
 https://www.f-secure.com
 https://www.f2ray.com
 https://www.faceseek.online
@@ -10522,6 +10543,7 @@ https://www.test-ipv6.com
 https://www.testingcatalog.com
 https://www.testspeed.ir
 https://www.tf1info.fr
+https://www.tgju.org
 https://www.thaiexaminer.com
 https://www.thatprivacyguy.com
 https://www.theatlantic.com
@@ -10839,9 +10861,11 @@ https://wwww.luoyun7.com
 https://wwwww.12.kg
 https://wwwx.qyshare.com
 https://wwx.lanzout.com
+https://wwxox.lanzouu.com
 https://wwxw.lanzouy.com
 https://wwy.yyenh.cn
 https://wwz.lanzout.com
+https://wwzdx.lanzouu.com
 https://wx.phocoon.com
 https://wx.wuxianjc.top
 https://wxjump.paradisemall.net
@@ -11375,6 +11399,7 @@ https://zu1k.com
 https://zulip.com
 https://zuul.openstack.org
 https://zww.me
+https://zxcvz.pages.dev
 https://zxx.im
 https://zyd.zbb.dns-dynamic.net
 https://zyd.zcr25.ggff.net
