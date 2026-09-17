@@ -1881,6 +1881,7 @@ https://abyssvpn.com
 https://abyssvpnya.net
 https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz
 https://acad.link
+https://academy.openai.com
 https://acc38639.ghelper.me
 https://access.redhat.com
 https://acck.364685.xyz:2098
@@ -2984,6 +2985,7 @@ https://caa-familly.sbs
 https://cadsr.cancer.gov
 https://cafbit.com
 https://cafebazaar.ir
+https://cahlik.net
 https://cainiao164.top
 https://cainiao168.top
 https://cainiao172.top
@@ -3012,6 +3014,7 @@ https://castbox.fm
 https://cat.ikkt.cn
 https://catalog.licenzy-supply.store:2096
 https://catchup.mainnet.concordium.software
+https://catcubed.studio
 https://catupload.937870.ir.cdn.ir
 https://caviar.global
 https://caystc.cc
@@ -3240,6 +3243,7 @@ https://client-sub.cloudlion.top
 https://client.mastershoop.ir:2096
 https://client.webhostmost.com
 https://client00.chat.mibbit.com
+https://cline.bot
 https://cloud-images.ubuntu.com
 https://cloud.133010.xyz
 https://cloud.189.cn
@@ -3937,6 +3941,7 @@ https://docs.private-ai.com
 https://docs.projectcalico.org
 https://docs.proxyguide.org
 https://docs.pyrogram.org
+https://docs.qoder.com
 https://docs.qq.com
 https://docs.qwencloud.com
 https://docs.ray.io
@@ -4593,6 +4598,7 @@ https://formulae.brew.sh
 https://forum.koishi.xyz
 https://forum.naixi.net
 https://forum.proxmox.com
+https://forum.qoder.com
 https://fosstodon.org
 https://four.htmx.org
 https://foxtiming.com
@@ -5019,6 +5025,7 @@ https://hey.com
 https://heysocks.net
 https://hfjghm.8746578.xyz
 https://hg.mozilla.org
+https://hgtv002.com
 https://hh.haibucuo.xyz
 https://hh.hnekoo.top
 https://hha.albertabobbi.ndjp.net
@@ -5294,6 +5301,7 @@ https://inv03.galaxyaff.cc
 https://investfit.io
 https://investmentcontrolsystems.com
 https://investor.atmeta.com
+https://investor.salesforce.com
 https://investors.broadcom.com
 https://invideo.io
 https://invite.payfun.com
@@ -5641,6 +5649,7 @@ https://kolly.top
 https://komarev.com
 https://kompas.ai
 https://kortuyou.us.kg
+https://kosmi.io
 https://koumakan.quickline.top
 https://kqdfk.no-mad-world.club
 https://kr-sel.doh.sb
@@ -5950,6 +5959,7 @@ https://lzone.de
 https://lzsub.zzko.cn
 https://lzw.me
 https://lzysub.online
+https://m.172.org.cn
 https://m.betforward.com
 https://m.bilibili.com
 https://m.chinastarmarket.cn
@@ -6223,6 +6233,7 @@ https://monetizeai.site
 https://money.udn.com
 https://moneyeasilyfkh.top
 https://moneyeasilyxfd.top
+https://monkeys.cafe
 https://monzo.com
 https://morerss.com
 https://morphe-patches.software
@@ -7159,6 +7170,7 @@ https://qinglong.online
 https://qingyun.zybs.eu.org
 https://qinwenfeng.com
 https://qishuijc.top
+https://qiu000000.ccwu.cc
 https://qiuyw.lanzouq.com
 https://qixi.best
 https://qjget.xyz
@@ -7310,6 +7322,7 @@ https://review.opendev.org
 https://rewards.bing.com
 https://rexcima.com
 https://reymit.ir
+https://rfi.my
 https://rgergergergerg6555.saojc.xyz
 https://rickyhan.com
 https://ridiqulous.com
@@ -7739,6 +7752,7 @@ https://sokuji.kizuna.ai
 https://solfi.pro
 https://solmira.sogoyunt.cc
 https://solon.noear.org
+https://song.al
 https://song.link
 https://songguanting.eu.org
 https://songlh.top
@@ -7818,6 +7832,7 @@ https://sspool.nl
 https://ssr.biyaoshidian.top
 https://ssrcool.com
 https://ssrsub.de
+https://sss.andycloud.cc
 https://sss.iaa.qzz.io
 https://sss.xlajiao.xyz
 https://sss.xn--4gqt91ntld.space
@@ -9382,6 +9397,7 @@ https://wub.zongyunti.site
 https://wukong.baiwk.top
 https://wukong.bond
 https://wukongyun.club
+https://wula001.com
 https://wulan.sbs
 https://wulass.org
 https://wumao.jiumaojiu.net
@@ -11358,6 +11374,7 @@ https://zedping8.shop
 https://zeit.co
 https://zen-browser.app
 https://zenmux.ai
+https://zenodo.org
 https://zentao.demo.qucheng.cc
 https://zentora.2maoyuntt.club
 https://zero.76898102.xyz
