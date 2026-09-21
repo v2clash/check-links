@@ -196,6 +196,7 @@ http://cdn.kcz66.com
 http://cdnfire.xiaomispeed.com
 http://cfcloud.cyou
 http://cfhycoprmrr.shop
+http://cfvvv-ev1.pages.dev
 http://chabudai.org
 http://chaojiji.one
 http://chatgpt.com
@@ -2954,6 +2955,7 @@ https://c.eoa.ccwu.cc
 https://c.jichangs.com
 https://c.jiedianxielou.workers.dev
 https://c.kilxs.cn
+https://c.org
 https://c.seaspirit.dpdns.org
 https://c.xcvpn.me
 https://c.xfuti.buzz
@@ -3397,6 +3399,7 @@ https://connect.rom.miui.com
 https://connectivitycheck.android.com
 https://connectivitycheck.gstatic.com
 https://connectivitycheck.platform.hicloud.com
+https://connectix.space
 https://connliberty.com
 https://console.airrail.work
 https://console.aunoc.com
@@ -6945,6 +6948,7 @@ https://platform.djjc.cfd
 https://platform.kimi.com
 https://platform.openai.com
 https://platform.qianwenai.com
+https://platform.stepfun.com
 https://platform.xiaomimimo.com
 https://platypush.readthedocs.io
 https://play-cs.com
@@ -7380,6 +7384,7 @@ https://rss-starlink.ei38d3if3.xyz
 https://rss.51gpt.eu.org
 https://rss.arxiv.org
 https://rss.biteb-sub.com
+https://rss.bz
 https://rss.ccgfw.top
 https://rss.cnrss.xyz
 https://rss.com
@@ -10210,6 +10215,7 @@ https://www.meilisearch.com
 https://www.meiyiss.club
 https://www.metersphere.com
 https://www.metex.io
+https://www.mexc.com
 https://www.mga4k.co
 https://www.mgnet.sbs
 https://www.mgwan.com
