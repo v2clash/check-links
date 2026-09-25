@@ -764,6 +764,7 @@ http://seclists.org
 http://securityserver.dev01.devland.is
 http://seed4.me
 http://segmentfault.com
+http://server9.9966338.xyz
 http://sgp02.network-cdn-gw-yd.net:45507
 http://shadowmere.akiel.dev
 http://shiyuanyinian.xyz
@@ -1896,6 +1897,7 @@ https://account.arkain.io
 https://account.bilibili.com
 https://account.protonvpn.com
 https://accounts.binance.com
+https://accounts.firefox.com
 https://accounts.hcaptcha.com
 https://accounts.x.ai
 https://achobby.taobao.com
@@ -5472,6 +5474,7 @@ https://jgjs02.com
 https://jgjs2-connect.com
 https://jgpy.shop
 https://jgpyjc.top
+https://jhet0n.online
 https://jiandanyun.xyz
 https://jianhancloud.cn
 https://jiasu.la
@@ -7173,6 +7176,7 @@ https://pythoninsider.blogspot.com
 https://pytorch-lightning.readthedocs.io
 https://pytorch.org
 https://q.qlogo.cn
+https://q105039.lvcha.me
 https://q50kqax6mo9llbitpzdh.bamengine.ir
 https://qaq3.bailiqun.top
 https://qbxa1hay.xoomlia.com
@@ -7321,11 +7325,13 @@ https://redmonk.com
 https://rednafi.com
 https://redspider.gitbook.io
 https://reederapp.com
+https://reedfern.com
 https://refactoring.guru
 https://reference-url-citation.invalid
 https://reffpa.com
 https://refor1314.us.kg
 https://refpa3665.com
+https://refpakrtsb.top
 https://refstack.openstack.org
 https://regery.com
 https://region-a.geo-1.identity.hpcloudsvc.com:35357
@@ -7552,6 +7558,7 @@ https://saiboyun.icu
 https://saiboyun.link
 https://saiboyun.org
 https://sainaex.ir
+https://sajarin.com
 https://sakuracat1203.xn--3iq226gfdb94q.com
 https://salsa.debian.org
 https://sammyguru.com
@@ -7937,6 +7944,7 @@ https://store.kakocloud.pro
 https://store.lizhi.io
 https://store.steampowered.com
 https://storyboard.openstack.org
+https://strategyofsecurity.com
 https://stream.git-news.local
 https://streamable.com
 https://streamcorner.fyi
@@ -10486,6 +10494,7 @@ https://www.ralfj.de
 https://www.ranker.com
 https://www.raspberrypi.com
 https://www.raspberrypi.org
+https://www.ray-ban.com
 https://www.raycast.com
 https://www.raygo.cc
 https://www.rbc.ru
@@ -10613,6 +10622,7 @@ https://www.swissinfo.ch
 https://www.sysdig.com
 https://www.szhdy.com
 https://www.szse.cn
+https://www.tabnak.ir
 https://www.tabnine.com
 https://www.tahlilbazaar.com
 https://www.taipeiff.taipei
