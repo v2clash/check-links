@@ -1677,6 +1677,7 @@ https://83232441.xyz
 https://835d842d.ghelper.me
 https://84b262c8.ghelper.me
 https://86400.com.au
+https://86541.zhujue.uk
 https://866774ca.ghelper.me
 https://87c78586.ghelper.me
 https://88.ee88.tk
@@ -2026,6 +2027,7 @@ https://alibabacloud.com
 https://alice.dns-dynamic.net
 https://alice.zooid.dev
 https://alicenetwork.cloud
+https://alignment.openai.com
 https://alink123.com
 https://alist.nn.ci
 https://alistapart.com
@@ -2907,6 +2909,7 @@ https://bridge.skyhong.tw
 https://briefcake.com
 https://browsec.page.link
 https://browser.geekbench.com
+https://browser.lexmount.com
 https://browser.networkwebmail.com
 https://browserleaks.com
 https://bsc-blockbook.nownodes.io
@@ -3271,6 +3274,7 @@ https://cloud.acgf.vip
 https://cloud.anyijc.top
 https://cloud.asdkd.top
 https://cloud.bai2a.buzz
+https://cloud.browser-use.com
 https://cloud.chaozhijc.xyz
 https://cloud.colocrossing.com
 https://cloud.doushimeng.com
@@ -3327,6 +3331,7 @@ https://cloudog.us.kg
 https://cloudposse.com
 https://cloudreve.top
 https://cloxy.io
+https://clubhouse.com
 https://cluster-api-ibmcloud.sigs.k8s.io
 https://cluster-api-openstack.sigs.k8s.io
 https://cluster-api.sigs.k8s.io
@@ -4397,6 +4402,7 @@ https://ezidebit.com
 https://f-35.store
 https://f-droid.org
 https://f.kxyz.eu.org
+https://f.www890604.dpdns.org
 https://f001.backblazeb2.com
 https://f105039.lvcha.me
 https://f105062.lvcha.me
@@ -6527,6 +6533,7 @@ https://news.ricoh-imaging.co.jp
 https://news.samsung.com
 https://news.skhynix.co.kr
 https://news.slashdot.org
+https://news.ufl.edu
 https://news.xbox.com
 https://news.ycombinator.com
 https://newsdig.tbs.co.jp
@@ -7723,6 +7730,7 @@ https://shrty.me
 https://shua.leyz.top
 https://shuiguo60.top
 https://shuiniu.web.app
+https://shukrancoin.com
 https://shurufa.doubao.com
 https://shuzijumin.com
 https://shz.al
@@ -8882,6 +8890,7 @@ https://ts.xship.top
 https://tsbx.6128888.xyz
 https://tsjc.xyz
 https://tt.3amcloud.com
+https://tt.77777.bond
 https://tt.sbs
 https://tt.vg
 https://tt.yesiamai.com
@@ -9743,6 +9752,7 @@ https://www.cloudshop.site
 https://www.cloudshops.xyz
 https://www.cloudwalk.top
 https://www.cls.cn
+https://www.clubhouse.com
 https://www.cna.com.tw
 https://www.cnbc.com
 https://www.cnbeta.com
@@ -10547,6 +10557,7 @@ https://www.rust-lang.org
 https://www.rustsim.org
 https://www.rxbb71.vip:7443
 https://www.sadzxc.xyz
+https://www.salahadawi.com
 https://www.sammobile.com
 https://www.samsung.com
 https://www.samsung.com.cn
@@ -11390,6 +11401,7 @@ https://yt.xn--49sq15btnijvp.xn--fiqs8s
 https://yt5s.biz
 https://ytnkpv91okwf.top
 https://yts.mx
+https://yu.11144444.xyz
 https://yuanbao.yuanbaojc.store
 https://yuewen.cn
 https://yuexia.eepzau.org
