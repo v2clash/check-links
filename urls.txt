@@ -686,6 +686,7 @@ http://panel.nfspeed01.com
 http://panel.toolspik.com
 http://panel.versland.io
 http://paste.c-net.org
+http://pcloud.com
 http://pecl.php.net
 http://persianboxx.com
 http://pf.juzimao01.cloud
@@ -1474,6 +1475,7 @@ https://3e693477.ghelper.me
 https://3f7baaec.ghelper.me
 https://3h.lv
 https://3k.fxxk.dedyn.io
+https://3kiesc1o3e33fqc45h.mx15z6u2bmf3x01z1.workers.dev
 https://3o.hk
 https://3ra4214.tjsd.site
 https://3uncoxr62b7o.top
@@ -4866,6 +4868,7 @@ https://gitcode.com
 https://gitcode.net
 https://gitcoin.co
 https://gitea.com
+https://gitea.coracle.social
 https://gitea.sysmocom.de
 https://gitee.com
 https://gitlab.alpinelinux.org
@@ -9508,6 +9511,7 @@ https://woeprgivbh.packios.com
 https://wogame.dev
 https://wolify.tk
 https://words.steveklabnik.com
+https://workbuddy.ai
 https://worker2.alavi-sina-1977-5fc.workers.dev
 https://workflowy.com
 https://world.kbs.co.kr
@@ -9845,6 +9849,7 @@ https://www.damai666.com
 https://www.darkreading.com
 https://www.ddaily.co.kr
 https://www.ddinstagram.com
+https://www.deepseek.com
 https://www.definestudio.in
 https://www.demainilpleut.fr
 https://www.dengget.com
@@ -10696,6 +10701,7 @@ https://www.taishan.pro
 https://www.talkwalker.com
 https://www.talos.dev
 https://www.tannel.xyz
+https://www.tavus.io
 https://www.tcip.top
 https://www.tdznode.xyz
 https://www.tebyan.net
@@ -11199,6 +11205,7 @@ https://xn--6nq0hk9tdjr.com
 https://xn--6nq44r2uh9rhj7f.com
 https://xn--6p1awey07c.com
 https://xn--6stp4p.com
+https://xn--74qp04m.org
 https://xn--94q649dc94a.com
 https://xn--9kq279fa.xyz
 https://xn--9kq838ftid.shop
