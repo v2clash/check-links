@@ -350,6 +350,7 @@ http://en.wikibooks.org
 http://ent.people.com.cn
 http://epg.51zmt.top:8000
 http://epg.aptvapp.com
+http://etienne.design
 http://event.weibo.com
 http://evjd8xfji5of.cdn000.com:31404
 http://exchange.gameaurela.click:52952
@@ -2634,6 +2635,7 @@ https://auth.newlikebooks.xyz
 https://authentication.business.gov.au
 https://authjs.dev
 https://auto.mitce.com
+https://autodub.net
 https://autoglm-acceleration-api.zhipuai.cn
 https://autoglm.zhipuai.cn
 https://autowzry.pages.dev
@@ -3207,6 +3209,7 @@ https://cccloud.zangcloud.xyz
 https://cchh2.pages.dev
 https://ccm.cmseesfs.top
 https://ccymq.no-mad-sub.one
+https://cd.tttizi.com
 https://cd2662bd.jego.vip
 https://cd520.xyz
 https://cdc.smslease.link
@@ -3669,6 +3672,7 @@ https://cubic.dev
 https://curl.qcloud.com
 https://currencyfair.com
 https://cursor.com
+https://cutefish.org
 https://cutt.ly
 https://cv2ray.xyz
 https://cve.mitre.org
@@ -5837,6 +5841,7 @@ https://journals.aps.org
 https://journals.sagepub.com
 https://joust.com.au
 https://jp.krc4.com
+https://jp.sharp
 https://jp.taishan.pro
 https://jp.taishan1.pro
 https://jp.tdns.dev
@@ -7828,6 +7833,7 @@ https://ropayi2026.ir
 https://ropsten.etherscan.io
 https://ror.org
 https://rostam.app
+https://route77.online
 https://roxiestreams.su
 https://roxijet.cloud
 https://roxybrowser.com
@@ -8056,6 +8062,7 @@ https://sct.ftqq.com
 https://scwljsq.cfooov.xyz
 https://scwljsq.scl168.club
 https://scys.org
+https://sddf7e85f5a.uohhfbxqmfd5kfnnrpsi5v02owaqdjesmswxnzk0nvuo9qjgzmzg4.eu.cc
 https://sdfox.cc
 https://sdgvps.com
 https://sdk-fls53vl6.27101666.com
@@ -8818,6 +8825,7 @@ https://sub1.5yunapi.sbs
 https://sub1.91qaq.lol
 https://sub1.achaemenidempireofpersia.uk
 https://sub1.all--green.com
+https://sub1.aoyou.stream
 https://sub1.bbjc.xyz
 https://sub1.efshop.cc
 https://sub1.elkcloud.top
@@ -10294,6 +10302,7 @@ https://www.cnbeta.com
 https://www.cnbeta.com.tw
 https://www.cnblogs.com
 https://www.cnfeat.com
+https://www.cnn.com
 https://www.cnstock.com
 https://www.cockroachlabs.com
 https://www.cocotoyou.com
